@@ -27,7 +27,7 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: "/game"
+    url: "/ruotonggao/game"
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
