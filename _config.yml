@@ -3,7 +3,7 @@ title: Gao's Portfolio
 author: Gao Ruotong
 email: gaoruotong@sjtu.edu.cn
 description: ''
-baseurl: "/ruotonggao"
+baseurl: "/"
 url: ifatess.github.io/ruotonggao
 defaults:
 - scope:
