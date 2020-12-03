@@ -34,7 +34,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
+  slug: game
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
@@ -45,7 +45,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
+  slug: sex
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
@@ -55,7 +55,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
+  slug: pinball
   headline: 16 Fully Responsive Design Blocks
   content: |
     The Design Blocks can be used without Forestry but to harness the power
@@ -65,7 +65,7 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-  slug: blocks
+  slug: theblind
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
