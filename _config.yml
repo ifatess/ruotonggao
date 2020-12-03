@@ -4,7 +4,7 @@ author: Gao Ruotong
 email: gaoruotong@sjtu.edu.cn
 description: ''
 baseurl: "/"
-url: ifatess.github.io/ruotonggao
+url: ifatess.github.io
 defaults:
 - scope:
     path: ''
