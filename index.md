@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#about"
+  - link: ''
     link_text: About
   - link_text: Game
     link: "#game"
