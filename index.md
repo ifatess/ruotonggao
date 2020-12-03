@@ -27,7 +27,7 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: "/game"
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
@@ -37,8 +37,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: game
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  headline: <strong>Swap &amp; Switch<span class="light"> </span></strong><span class="light">the
+    Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
