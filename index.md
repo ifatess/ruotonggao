@@ -9,17 +9,17 @@ page_sections:
   navigation:
   - link: "/"
     link_text: ABOUT
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#game"
+    link_text: GAME
+  - link: "#sex_ed"
+    link_text: SEX ED
+  - link: "#pinball"
+    link_text: 3D PINBALL
+  - link: "#blind"
+    link_text: BLIND
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: ''
+    button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   slug: features
