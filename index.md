@@ -3,23 +3,20 @@ layout: blocks
 title: HOME
 date: 2020-12-02 23:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+- template: navigation-header
+  block: header-1
   navigation:
-  - link: "/"
-    link_text: ABOUT
-  - link: "#game"
-    link_text: GAME
-  - link: "#sex_ed"
-    link_text: SEX ED
-  - link: "#pinball"
-    link_text: 3D PINBALL
-  - link: "#blind"
-    link_text: BLIND
-  cta:
-    url: ''
-    button_text: Contact
+  - link: "#theblind"
+    link_text: The Blind
+  - link_text: 3D Pinball
+    link: "#pinball"
+  - link: "#sex"
+    link_text: Sex Edu
+  - link_text: Game
+    link: "#game"
+  - link: "#about"
+    link_text: About
+  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
