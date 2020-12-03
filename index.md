@@ -6,16 +6,18 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "#about"
+    link_text: About
+  - link_text: Game
+    link: "#game"
+  - link: "#sex"
+    link_text: Sex Edu
   - link: "#theblind"
     link_text: The Blind
   - link_text: 3D Pinball
     link: "#pinball"
-  - link: "#sex"
-    link_text: Sex Edu
-  - link_text: Game
-    link: "#game"
-  - link: "#about"
-    link_text: About
+  - link: "#photo"
+    link_text: Photography
   logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: hero-banner-w-image
   block: hero-2
