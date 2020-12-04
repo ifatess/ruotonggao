@@ -12,5 +12,18 @@ page_sections:
   headline: Have a try
   content: please!!!!!!!!<br>
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  cta:
+    enabled: true
+    url: "/ruotonggao"
+    button_text: Back
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
