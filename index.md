@@ -60,9 +60,9 @@ page_sections:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "/ruotonggao/sexedu"
+    button_text: See Details
 - template: 1-column-text
   block: one-column-1
   slug: pinball
