@@ -24,6 +24,10 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: cta
+  type: field_group
+  config: {}
+  label: Call-to-action
 - type: field_group
   name: media
   label: Featured Media
