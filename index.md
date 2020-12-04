@@ -31,8 +31,8 @@ page_sections:
   block: one-column-1
   slug: "#projects"
   headline: Projects
-  content: 'Here are my projects.<br>Containing: Game Design, Sex Education Game Design,
-    Research on Blind People, 3D Pinball Game on Arduino, Photography'
+  content: "<em>Containing: Game Design, Sex Education Game Design, Research on Blind
+    People, 3D Pinball Game on Arduino, Photography</em>"
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
