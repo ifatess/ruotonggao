@@ -27,7 +27,7 @@ page_sections:
   cta:
     enabled: true
     url: "/ruotonggao/uploads/CV第二版.pdf"
-    button_text: Download CV
+    button_text: See CV
   image:
     image: "/uploads/2020/12/04/1.svg"
     alt_text: Product Shot
