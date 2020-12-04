@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: "/uploads/2020/12/04/logo_long.svg"
-  navigation: []
+  navigation:
+  - link: ''
+    link_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: Have a try
