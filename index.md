@@ -23,12 +23,11 @@ page_sections:
   block: hero-2
   slug: features
   headline: About me?<br><strong>Gao Ruotong</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Shanghai Jiao Tong University
   cta:
-    enabled: false
-    url: "/ruotonggao/game"
-    button_text: 'See on GitHub '
+    enabled: true
+    url: "/ruotonggao/uploads/CV第二版.pdf"
+    button_text: Download CV
   image:
     image: "/uploads/2020/12/04/1.svg"
     alt_text: Product Shot
