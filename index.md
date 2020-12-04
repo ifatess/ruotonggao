@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Home
-date: 2020-12-02 23:00:00 +0000
+date: 2020-12-02T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -26,7 +26,7 @@ page_sections:
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
-    enabled: true
+    enabled: false
     url: "/ruotonggao/game"
     button_text: 'See on GitHub '
   image:
@@ -44,6 +44,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+  cta:
+    enabled: true
+    url: "/"
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -55,6 +59,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: pinball
