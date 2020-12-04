@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: HOME
+title: Home
 date: 2020-12-02 23:00:00 +0000
 page_sections:
 - template: navigation-header
