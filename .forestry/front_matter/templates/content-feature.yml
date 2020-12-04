@@ -25,19 +25,6 @@ fields:
     schema:
       format: html
 - type: field_group
-  name: cta
-  label: Call-to-action
-  fields:
-  - type: boolean
-    name: enabled
-    label: Enabled
-  - type: text
-    name: url
-    label: url
-  - type: text
-    name: button_text
-    label: Button text
-- type: field_group
   name: media
   label: Featured Media
   fields:
