@@ -1,5 +1,8 @@
 ---
 main:
+- url: "/ruotonggao/sexedu"
+  weight: 3
+  title: Sex Edu
 - weight: 2
   url: "/ruotonggao/game"
   title: Game
