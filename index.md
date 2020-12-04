@@ -11,6 +11,13 @@ page_sections:
   - link: "#projects"
     link_text: Projects
   logo: "/uploads/2020/12/04/1.png"
+- template: navigation-header-w-button
+  block: header-2
+  cta:
+    button_text: Contact me
+    url: gaoruotong@sjtu.edu.cn
+  logo: ''
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   slug: features
