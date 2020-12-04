@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   cta:
     button_text: Contact me
-    url: https://gaoruotong@sjtu.edu.cn
+    url: https://www.merriam-webster.com/dictionary/gamification
   logo: "/uploads/2020/12/04/1.png"
   navigation:
   - link: "/"
