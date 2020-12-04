@@ -23,7 +23,9 @@ page_sections:
   block: hero-2
   slug: features
   headline: About me?<br><strong>Gao Ruotong</strong>
-  content: Shanghai Jiao Tong University
+  content: "<em>Double major in Computer Science and Industrial Design, Shanghai Jiao
+    Tong University</em><br>I believe in the power of technology. I cherish my empathy
+    for others. Gamify the products, and the world is my oyster."
   cta:
     enabled: true
     url: "/ruotonggao/uploads/CV第二版.pdf"
@@ -83,19 +85,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2018/06/21/theme.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    caption: ''
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2020/12/04/1.svg"
-  col_2: Copyright
-  col_3: Gao Ruotong
-  col_4: "2020"
 
 ---
