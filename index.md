@@ -18,7 +18,7 @@ page_sections:
     link: "#pinball"
   - link: "#photo"
     link_text: Photography
-  logo: "/uploads/2020/12/04/logo_long.svg"
+  logo: "/uploads/2020/12/04/forestry-full.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
