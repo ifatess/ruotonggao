@@ -26,6 +26,12 @@ page_sections:
     image: "/uploads/2018/06/21/hero-2-bg.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  slug: "#projects"
+  headline: Projects
+  content: 'Here are my projects.<br>Containing: Game Design, Sex Education Game Design,
+    Research on Blind People, 3D Pinball Game on Arduino, Photography'
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
