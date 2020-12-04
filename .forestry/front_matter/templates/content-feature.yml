@@ -27,6 +27,20 @@ fields:
 - name: cta
   type: field_group
   config: {}
+  fields:
+  - name: enabled
+    type: boolean
+    label: Enabled
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button text
   label: Call-to-action
 - type: field_group
   name: media
