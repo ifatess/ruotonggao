@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: GAME
+title: Game
 date: 2020-12-02 16:00:00 +0000
 page_sections:
 - template: navigation-header
