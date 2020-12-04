@@ -8,16 +8,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
-  - link_text: Game
-    link: "#game"
-  - link: "#sex"
-    link_text: Sex Edu
-  - link: "#theblind"
-    link_text: The Blind
-  - link_text: 3D Pinball
-    link: "#pinball"
-  - link: "#photo"
-    link_text: Photography
+  - link: "#projects"
+    link_text: Projects
   logo: "/uploads/2020/12/04/1.png"
 - template: hero-banner-w-image
   block: hero-2
