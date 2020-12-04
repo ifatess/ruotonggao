@@ -26,7 +26,7 @@ page_sections:
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
-    enabled: false
+    enabled: true
     url: "/ruotonggao/game"
     button_text: 'See on GitHub '
   image:
