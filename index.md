@@ -16,8 +16,10 @@ page_sections:
   cta:
     button_text: Contact me
     url: gaoruotong@sjtu.edu.cn
-  logo: ''
-  navigation: []
+  logo: "/uploads/2020/12/04/1.png"
+  navigation:
+  - link: "/"
+    link_text: About
 - template: hero-banner-w-image
   block: hero-2
   slug: features
