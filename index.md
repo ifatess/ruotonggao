@@ -38,5 +38,13 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/06/21/theme.png"
+    caption: ''
+  image_2:
+    image: "/uploads/2018/06/21/blocks-split.png"
+    caption: ''
 
 ---
