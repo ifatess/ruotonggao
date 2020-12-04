@@ -31,7 +31,7 @@ page_sections:
     url: "/ruotonggao/uploads/CV第二版.pdf"
     button_text: See CV
   image:
-    image: "/uploads/2020/12/04/1.svg"
+    image: "/uploads/2018/06/21/hero-2-bg.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: hero-banner-w-image
