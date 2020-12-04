@@ -34,7 +34,7 @@ page_sections:
     button_text: back
   content: whooo
   image:
-    image: ''
+    image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
   headline: ''
 
