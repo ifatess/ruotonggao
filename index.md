@@ -19,9 +19,6 @@ page_sections:
   - link: "#photo"
     link_text: Photography
   logo: "/uploads/2020/12/04/1.png"
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/04/1.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -35,6 +32,54 @@ page_sections:
     image: "/uploads/2020/12/04/1.svg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
@@ -46,5 +91,11 @@ page_sections:
   image_2:
     image: "/uploads/2018/06/21/blocks-split.png"
     caption: ''
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2020/12/04/1.svg"
+  col_2: Copyright
+  col_3: Gao Ruotong
+  col_4: "2020"
 
 ---
