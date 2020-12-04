@@ -46,8 +46,8 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
   cta:
     enabled: true
-    url: "/"
-    button_text: ''
+    url: "/ruotonggao/game"
+    button_text: See Details
 - template: content-feature
   block: feature-1
   media_alignment: Right
