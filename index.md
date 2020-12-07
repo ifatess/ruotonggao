@@ -30,7 +30,7 @@ page_sections:
   cta:
     enabled: true
     url: /ruotonggao/uploads/CV第二版.pdf" download="CV第二版.pdf
-    button_text: See CV
+    button_text: Download CV
   image:
     image: "/uploads/2020/12/07/hp.png"
     alt_text: Product Shot
