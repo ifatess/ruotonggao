@@ -12,6 +12,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
+  - link: "#sexedu"
+    link_text: Sex Edu
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -38,19 +40,6 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
-  image:
-    image: ''
-    alt_text: ''
-  headline: Gender &amp; Career Board Game Design
-  content: Summary:<br>An interactive quiz game designed for K-12, aiming at eliminating
-    gender bias in career choices.
-  cta:
-    enabled: true
-    url: "/ruotonggao/sexedu"
-    button_text: Go to project
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
