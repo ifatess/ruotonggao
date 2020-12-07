@@ -36,7 +36,7 @@ page_sections:
   media_alignment: Right
   headline: Gender &amp; Career Board Game Design
   content: Summary:<br>An interactive quiz game designed for K-12, aiming at eliminating
-    gender bias in career choices.<br><br><a href="/ruotonggao/sexedu" title="Sex
+    gender bias in career choices.<br><br><a href="/ruotonggao/sexeducation" title="Sex
     Education">Click here to see the project</a>
   slug: "#sexedu"
   media:
