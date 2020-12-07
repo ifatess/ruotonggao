@@ -29,7 +29,7 @@ page_sections:
     my empathy. <br><strong>Gamify the products, and the world is my oyster.</strong>"
   cta:
     enabled: true
-    url: 'download: /ruotonggao/uploads/CV第二版.pdf'
+    url: /ruotonggao/uploads/CV第二版.pdf" download="CV第二版.pdf
     button_text: See CV
   image:
     image: "/uploads/2020/12/07/hp.png"
