@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2020/12/04/1.png"
   navigation:
-  - link: "/ruotonggao/research"
+  - link: "/research"
     link_text: Next Project
 menu:
   main:
