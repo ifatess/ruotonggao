@@ -9,6 +9,9 @@ page_sections:
   navigation:
   - link_text: Next Project
     link: "/"
+menu:
+  main:
+    weight: 4
 published: false
 
 ---
