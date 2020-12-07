@@ -33,6 +33,5 @@ fields:
   - 4-column-footer
 pages:
 - game.md
-- gender-education.md
 - index.md
 - research.md
