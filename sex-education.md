@@ -11,7 +11,7 @@ page_sections:
     link_text: Next Project
 menu:
   main:
-    weight: 3
-    title: Sex Edu
+    weight: 4
+    title: SexEdu
 
 ---
