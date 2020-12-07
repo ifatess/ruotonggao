@@ -44,7 +44,7 @@ page_sections:
     title="Sex Education">Click here to see the project</a>
   slug: "#sexedu"
   media:
-    image: ''
+    image: "/uploads/2020/12/07/mah00058.MP4"
     alt_text: ''
 - template: content-feature
   block: feature-1
