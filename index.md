@@ -40,6 +40,18 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Ergonomic Comfort Research of Elevator Button
+  content: <strong>Summary:<br></strong>Collaborating with Fujitec Elevator Company,
+    we interviewed visually impaired people and designed easily identifiable elevator
+    buttons for them.<br><br><a href="/ruotonggao/research" title="Research">Click
+    here to see the project</a>
+  slug: "#theblind"
+  media:
+    image: ''
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
