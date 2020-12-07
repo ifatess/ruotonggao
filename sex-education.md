@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Sex Education
+title: Gender Education
 date: 2020-11-30 16:00:00 +0000
 page_sections:
 - template: navigation-header
