@@ -1,6 +1,6 @@
 ---
 main:
-- weight: 3
+- weight: 2
   url: "/ruotonggao/research"
   title: Research
 - identifier: home

@@ -8,5 +8,8 @@ page_sections:
   image: "/uploads/2020/12/07/mah00058.MP4"
   slug: ''
   caption: ''
+menu:
+  main:
+    weight: 6
 
 ---

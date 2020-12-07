@@ -11,6 +11,6 @@ page_sections:
     link_text: Back Home
 menu:
   main:
-    weight: 4
+    weight: 3
 
 ---

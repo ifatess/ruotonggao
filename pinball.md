@@ -11,6 +11,6 @@ page_sections:
     link_text: Next Project
 menu:
   main:
-    weight: 6
+    weight: 5
 
 ---
