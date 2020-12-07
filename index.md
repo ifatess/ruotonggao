@@ -84,5 +84,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in China
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/07/mah00058.MP4"
+  slug: ''
+  caption: ''
 
 ---
