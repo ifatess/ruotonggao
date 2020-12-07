@@ -7,5 +7,9 @@ page_sections:
   block: header-1
   logo: "/uploads/2020/12/04/logo_long.svg"
   navigation: []
+menu:
+  main:
+    weight: 3
+    title: Sex Edu
 
 ---
