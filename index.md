@@ -16,10 +16,10 @@ page_sections:
     link_text: Sex Edu
   - link: "#theblind"
     link_text: The Blind
-  - link: "#photography"
-    link_text: Photography
   - link: "#pinball"
     link_text: Pinball
+  - link: "#photography"
+    link_text: Photography
 - template: hero-banner-w-image
   block: hero-2
   slug: features
