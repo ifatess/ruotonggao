@@ -27,12 +27,16 @@ page_sections:
     image: "/uploads/2020/12/07/hp.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 1-column-text
-  block: one-column-1
-  slug: "#projects"
-  headline: Projects
-  content: "<em>Game Design, Sex Education Game Design, Research on Blind People,
-    3D Pinball Game on Arduino, Photography</em>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Gender &amp; Career Board Game Design
+  content: Summary:<br>An interactive quiz game designed for K-12, aiming at eliminating
+    gender bias in career choices.
+  slug: "#sexedu"
+  media:
+    image: ''
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
