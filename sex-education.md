@@ -12,6 +12,6 @@ page_sections:
 menu:
   main:
     weight: 4
-    title: SexEdu
+    title: SexEducation
 
 ---
