@@ -58,10 +58,13 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
+  media_alignment: Left
+  headline: Wi-Fi-Based Arduino Pinball Machine Design
+  slug: "#pinball"
+  content: <strong>Summary<br></strong>A Wi-Fi communication 3D pinball game based
+    on Arduino. Play it on an installation built in the real world by interacting
+    with a user interface on Android phones.<br><br><a href="/ruotonggao/pinball"
+    title="Pinball">Click here to see the project</a>
   media:
     image: ''
     alt_text: ''
