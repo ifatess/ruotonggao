@@ -76,6 +76,6 @@ page_sections:
     alt_text: ''
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in China
 
 ---
