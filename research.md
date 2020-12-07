@@ -8,6 +8,6 @@ page_sections:
   logo: "/uploads/2020/12/04/1.png"
   navigation:
   - link_text: Next Project
-    link: "/"
+    link: "/pinball"
 
 ---
