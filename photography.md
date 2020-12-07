@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/12/04/1.png"
   navigation:
   - link: "/"
-    link_text: Next Project
+    link_text: Back Home
 menu:
   main:
     weight: 4
