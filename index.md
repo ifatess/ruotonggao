@@ -53,7 +53,7 @@ page_sections:
   content: <strong>Summary<br></strong>Collaborating with Fujitec Elevator Company,
     we interviewed visually impaired people and designed easily identifiable elevator
     buttons for them.<br><br><a href="/ruotonggao/research" title="Research">Click
-    here to see the project ❤︎</a>
+    here to see the project</a>
   slug: "#theblind"
   media:
     image: ''
