@@ -10,6 +10,8 @@ page_sections:
     url: https://www.merriam-webster.com/dictionary/gamification
   logo: "/uploads/2020/12/04/1.png"
   navigation:
+  - link: "#photography"
+    link_text: Photography
   - link: "/"
     link_text: About
   - link: "#sexedu"
