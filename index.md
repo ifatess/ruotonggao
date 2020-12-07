@@ -54,20 +54,6 @@ page_sections:
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
-  image:
-    image: ''
-    alt_text: ''
-  headline: Ergonomic Comfort Research of Elevator Button
-  content: Summary:<br>Collaborating with Fujitec Elevator Company, we interviewed
-    visually impaired people and designed easily identifiable elevator buttons for
-    them.
-  cta:
-    enabled: true
-    url: "/ruotonggao/research"
-    button_text: Go to project
-- template: hero-banner-w-image
-  block: hero-2
   background_image: ''
   image:
     image: ''
