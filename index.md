@@ -39,7 +39,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: Sex Education Game Design
+  headline: Gender &amp; Career Board Game Design
   content: Summary:<br>An interactive quiz game designed for K-12, aiming at eliminating
     gender bias in career choices.
   cta:
@@ -52,12 +52,14 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: Re
-  content: ''
+  headline: Ergonomic Comfort Research of Elevator Button
+  content: Summary:<br>Collaborating with Fujitec Elevator Company, we interviewed
+    visually impaired people and designed easily identifiable elevator buttons for
+    them.
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "/ruotonggao/research"
+    button_text: Go to project
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
