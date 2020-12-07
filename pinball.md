@@ -9,5 +9,8 @@ page_sections:
   navigation:
   - link: "/photography"
     link_text: Next Project
+menu:
+  main:
+    weight: 6
 
 ---
