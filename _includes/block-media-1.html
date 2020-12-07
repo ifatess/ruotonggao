@@ -2,7 +2,7 @@
   <div class="container">
     <figure>
       {% if section.image | relative_url(section.image | relative_url.length)=='4' %}
-      <video src="{{ section.image | relative_url }}" autoplay="autoplay">
+      <video src="{{ section.image | relative_url }}" width=600 control="control">
       {% else %}
       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
       {% endif %}
