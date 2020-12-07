@@ -1,8 +1,11 @@
 ---
 main:
-- weight: 2
-  url: "/ruotonggao/game"
-  title: Game
+- weight: 4
+  url: "/ruotonggao/genderedu"
+  title: GenderEdu
+- weight: 3
+  url: "/ruotonggao/research"
+  title: Research
 - identifier: home
   url: "/"
   weight: 1

@@ -39,5 +39,8 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
   headline: ''
+menu:
+  main:
+    weight: 2
 
 ---
