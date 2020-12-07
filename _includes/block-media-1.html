@@ -1,5 +1,8 @@
 <section id="{{ section.slug | slugify }}" class="block block-media-1">
   <div class="container">
+    <body>
+      relative_url(relative_url.length)
+    </body>
     <figure>
       {% if relative_url(relative_url.length)='4' %}
       <video src="{{ section.image | relative_url }}" autoplay="autoplay">
