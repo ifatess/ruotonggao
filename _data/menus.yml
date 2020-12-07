@@ -1,8 +1,5 @@
 ---
 main:
-- weight: 4
-  url: "/ruotonggao/genderedu"
-  title: GenderEdu
 - weight: 3
   url: "/ruotonggao/research"
   title: Research
