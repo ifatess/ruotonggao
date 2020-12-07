@@ -9,5 +9,9 @@ page_sections:
   navigation:
   - link_text: Next Project
     link: "/ruotonggao/theblind"
+menu:
+  main:
+    weight: 4
+    title: Sex Edu
 
 ---
