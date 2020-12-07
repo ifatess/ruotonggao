@@ -10,6 +10,8 @@ page_sections:
     url: https://www.merriam-webster.com/dictionary/gamification
   logo: "/uploads/2020/12/04/1.png"
   navigation:
+  - link: "#theblind"
+    link_text: The Blind
   - link: "/"
     link_text: About
   - link: "#sexedu"
