@@ -9,6 +9,5 @@ page_sections:
   navigation:
   - link: "/ruotonggao/theblind"
     link_text: Next Project
-published: false
 
 ---
