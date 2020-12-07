@@ -10,14 +10,14 @@ page_sections:
     url: https://www.merriam-webster.com/dictionary/gamification
   logo: "/uploads/2020/12/04/1.png"
   navigation:
-  - link: "#photography"
-    link_text: Photography
   - link: "/"
     link_text: About
   - link: "#sexedu"
     link_text: Sex Edu
   - link: "#theblind"
     link_text: The Blind
+  - link: "#photography"
+    link_text: Photography
 - template: hero-banner-w-image
   block: hero-2
   slug: features
