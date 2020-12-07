@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- game.md
 - gender.md
 - index.md
 - photography.md
