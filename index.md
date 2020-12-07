@@ -54,30 +54,24 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
     image: ''
     alt_text: ''
-  headline: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Photography on Family Bonds
+  slug: "#photography"
   content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
+  media:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
