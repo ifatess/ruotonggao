@@ -75,7 +75,9 @@ page_sections:
   media_alignment: Left
   headline: Photography on Family Bonds
   slug: "#photography"
-  content: ''
+  content: <strong>Summary<br></strong>My feelings about family collected in a market,
+    a neighborhood, a school, and stations in Northern China.<br><br><a href="/ruotonggao/photography"
+    title="Photography">Click here to see the project</a>
   media:
     image: ''
     alt_text: ''
