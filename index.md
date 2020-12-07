@@ -24,7 +24,7 @@ page_sections:
     url: "/ruotonggao/uploads/CV第二版.pdf"
     button_text: See CV
   image:
-    image: "/uploads/2020/12/07/2.png"
+    image: "/uploads/2020/12/07/codepage.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 1-column-text
