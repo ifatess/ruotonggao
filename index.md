@@ -32,7 +32,7 @@ page_sections:
     url: /ruotonggao/uploads/CV第二版.pdf" download="CV第二版.pdf
     button_text: Download CV
   image:
-    image: "/uploads/2020/12/07/hp.png"
+    image: "/uploads/2020/12/09/homepage.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -81,11 +81,6 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/12/07/mah00058.MP4"
-  slug: ''
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in China
