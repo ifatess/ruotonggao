@@ -44,7 +44,7 @@ page_sections:
     title="Sex Education">Click here to see the project</a>
   slug: "#sexedu"
   media:
-    image: "/uploads/2020/12/09/gender3.png"
+    image: "/uploads/2020/12/10/gender4.png"
     alt_text: Alt Text
 - template: content-feature
   block: feature-1
@@ -56,7 +56,7 @@ page_sections:
     here to see the project</a>
   slug: "#theblind"
   media:
-    image: "/uploads/2020/12/09/research3.png"
+    image: "/uploads/2020/12/10/research4.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -68,7 +68,7 @@ page_sections:
     with a user interface on Android phones.<br><br><a href="/ruotonggao/pinball"
     title="Pinball">Click here to see the project</a>
   media:
-    image: ''
+    image: "/uploads/2020/12/10/pinball.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -79,7 +79,7 @@ page_sections:
     a neighborhood, a school, and stations in Northern China.<br><br><a href="/ruotonggao/photography"
     title="Photography">Click here to see the project</a>
   media:
-    image: ''
+    image: "/uploads/2020/12/10/photo.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
