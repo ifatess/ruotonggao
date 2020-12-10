@@ -38,7 +38,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Gender &amp; Career Board Game Design
+  headline: Gender &amp; Career Game Design
   content: <strong>Summary</strong><br>An interactive educational game designed for
     K-12, aiming at eliminating gender bias in their career choices.<br><br><a href="/ruotonggao/gender"
     title="Sex Education">Click here to see the project</a>
