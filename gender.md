@@ -107,7 +107,7 @@ page_sections:
     slug: ''
     content: ''
   col_2:
-    headline: ''
+    headline: Liu Lifei, 4, female
     slug: ''
     content: ''
   col_3:
