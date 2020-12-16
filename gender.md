@@ -23,11 +23,20 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Exploration
-  content: Brainstorm with S.E.T. Analysis to Spot the Problem
-  slug: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Approach
+    content: 1. Explore with S.E.T. analysis to spot the problem
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/16/1-2.jpg"
