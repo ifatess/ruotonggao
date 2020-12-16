@@ -111,7 +111,7 @@ page_sections:
     slug: ''
     content: ''
   col_3:
-    headline: ''
+    headline: Li Xiang, 12, male
     slug: ''
     content: ''
 menu:
