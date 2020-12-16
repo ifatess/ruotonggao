@@ -37,11 +37,14 @@ page_sections:
     headline: " Step 3"
     slug: ''
     content: Tests, Feedbacks and Re-Design
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/12/16/1-2.jpg"
-  slug: ''
-  caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/12/16/1-2.jpg"
+    caption: ''
+  image_2:
+    image: "/uploads/2020/12/16/1-3.jpg"
+    caption: ''
 menu:
   main:
     weight: 4
