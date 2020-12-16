@@ -75,15 +75,10 @@ page_sections:
   image_2:
     image: "/uploads/2020/12/16/14-1.png"
     caption: ''
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: ''
-  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: 'Draft 1: <span class="light">Gender &amp; Career Game Design</span>'
+  headline: Draft 1<br><span class="light">Gender &amp; Career Game Design</span>
   slug: ''
   content: ''
   media:
