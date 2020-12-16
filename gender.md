@@ -39,23 +39,14 @@ page_sections:
     content: Tests, Feedbacks and Re-Design
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  headline: Exploration
-  media:
-    image: "/uploads/2020/12/16/12-4.png"
-    alt_text: ''
-  slug: ''
-  content: Brainstorm explorations played an important role in decision making on
-    the direction that would be rolled out through the design.
-- template: content-feature
-  block: feature-1
   media_alignment: Right
   headline: Exploration
   media:
     image: "/uploads/2020/12/16/12-3.png"
     alt_text: ''
   slug: ''
-  content: ''
+  content: Brainstorm explorations played an important role in decision making on
+    the direction that would be rolled out through the design.
 - template: detail-content
   block: text-1
   headline: Persona
