@@ -28,6 +28,11 @@ page_sections:
   headline: Exploration
   content: Brainstorm with S.E.T. Analysis to spot the problem
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/16/1-2.jpg"
+  slug: ''
+  caption: ''
 menu:
   main:
     weight: 4
