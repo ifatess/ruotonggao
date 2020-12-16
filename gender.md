@@ -30,9 +30,9 @@ page_sections:
     content: 1Explore with S.E.T. analysis to spot the problem
     slug: ''
   col_2:
-    headline: Approach
+    headline: Step 2
     slug: ''
-    content: 2. Design a prototype specifying the presentation format and gameplay
+    content: Design a prototype specifying the presentation format and gameplay
   col_3:
     headline: " "
     slug: ''
