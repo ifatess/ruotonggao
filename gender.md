@@ -70,11 +70,16 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/12/16/13-1.png"
+    image: "/uploads/2020/12/16/13-2.png"
     caption: ''
   image_2:
     image: "/uploads/2020/12/16/14.png"
     caption: ''
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 menu:
   main:
     weight: 4
