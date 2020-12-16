@@ -26,7 +26,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Exploration
-  content: Brainstorm with S.E.T. Analysis to spot the problem
+  content: Brainstorm with S.E.T. Analysis to Spot the Problem
   slug: ''
 - template: full-width-media-element
   block: media-1
