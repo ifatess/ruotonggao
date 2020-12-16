@@ -36,7 +36,7 @@ page_sections:
   col_3:
     headline: " Step 3"
     slug: ''
-    content: Tests and Re-design
+    content: Tests, Feedbacks and Re-design
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/16/1-2.jpg"
