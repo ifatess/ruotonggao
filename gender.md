@@ -42,7 +42,7 @@ page_sections:
   media_alignment: Left
   headline: Exploration
   media:
-    image: "/uploads/2020/12/16/12-2.png"
+    image: "/uploads/2020/12/16/12.jpg"
     alt_text: ''
   slug: ''
   content: Brainstorm explorations played an important role in decision making on
@@ -65,19 +65,6 @@ page_sections:
   image_2:
     image: "/uploads/2020/12/16/14-2.png"
     caption: ''
-- template: detail-content
-  block: text-1
-  headline: Objectives
-  content: "<h3>Participant A</h3><p></p><p>To understand the social norms of gender
-    roles; to understand the meaning of friendship and fraternity and ways to make
-    friends; to let him learn how to get along with strangers (alone) and how to measure
-    them; to develop his aggressiveness appropriately; to trigger communication between
-    him and his parents.</p><h3>Participant B</h3><p>To be able to have ways other
-    than parents to teach general knowledge of female menstruation and menstrual hygiene
-    and health, methods and etiquette of interaction with the opposite sex, psychological
-    differences between the sexes, functions of the reproductive organs of both sexes;
-    to give her the awareness to protect herself from sexual harassment, sexual assault,
-    pornographic information on the Internet, etc.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
