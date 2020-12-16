@@ -81,7 +81,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: ''
+    image: "/uploads/2020/12/16/16.png"
     alt_text: ''
 menu:
   main:
