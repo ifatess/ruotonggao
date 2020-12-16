@@ -100,6 +100,20 @@ page_sections:
   media:
     image: "/uploads/2020/12/16/18-1.png"
     alt_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Li Xinyi, 6 years old, female
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 menu:
   main:
     weight: 4
