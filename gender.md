@@ -32,7 +32,7 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: 2. Design a prototype specifying the presentation format and gameplay
   col_3:
     headline: ''
     slug: ''
