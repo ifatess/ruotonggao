@@ -83,6 +83,14 @@ page_sections:
   media:
     image: "/uploads/2020/12/16/16.png"
     alt_text: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/12/16/17.jpg"
+    caption: Prototype
+  image_2:
+    image: ''
+    caption: ''
 menu:
   main:
     weight: 4
