@@ -68,7 +68,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Draft 1<br><span class="light">Gender &amp; Career Game Design</span>
+  headline: <em>Draft 1</em><br><span class="light">Gender &amp; Career Game Design</span>
   slug: ''
   content: ''
   media:
