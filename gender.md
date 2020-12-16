@@ -91,6 +91,15 @@ page_sections:
   image_2:
     image: ''
     caption: User Interface
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Observations &amp; Feedback
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 4
