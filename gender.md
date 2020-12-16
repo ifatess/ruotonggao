@@ -42,7 +42,7 @@ page_sections:
   media_alignment: Left
   headline: Exploration
   media:
-    image: "/uploads/2020/12/16/12-3.png"
+    image: "/uploads/2020/12/16/12-4.png"
     alt_text: ''
   slug: ''
   content: Brainstorm explorations played an important role in decision making on
