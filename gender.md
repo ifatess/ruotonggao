@@ -60,8 +60,8 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/12/16/13-2.png"
-    caption: ''
+    image: "/uploads/2020/12/16/13-3.png"
+    caption: Competitive Products
   image_2:
     image: "/uploads/2020/12/16/14-2.png"
     caption: ''
