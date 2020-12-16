@@ -73,7 +73,7 @@ page_sections:
   content: ''
   media:
     image: "/uploads/2020/12/16/15-1.png"
-    alt_text: ''
+    alt_text: test
 - template: content-feature
   block: feature-1
   media_alignment: Right
