@@ -37,14 +37,15 @@ page_sections:
     headline: " Step 3"
     slug: ''
     content: Tests, Feedbacks and Re-Design
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/12/16/1-2.jpg"
-    caption: ''
-  image_2:
-    image: "/uploads/2020/12/16/1-3.jpg"
-    caption: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Exploration
+  media:
+    image: "/uploads/2020/12/16/12.jpg"
+    alt_text: ''
+  slug: ''
+  content: ''
 - template: detail-content
   block: text-1
   headline: Persona
