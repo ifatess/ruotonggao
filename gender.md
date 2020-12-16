@@ -64,7 +64,7 @@ page_sections:
     caption: Competitive Products
   image_2:
     image: "/uploads/2020/12/16/14-2.png"
-    caption: ''
+    caption: Painpoints
 - template: content-feature
   block: feature-1
   media_alignment: Right
