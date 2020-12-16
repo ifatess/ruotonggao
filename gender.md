@@ -30,11 +30,11 @@ page_sections:
     content: 1. Explore with S.E.T. analysis to spot the problem
     slug: ''
   col_2:
-    headline: ''
+    headline: Approach
     slug: ''
     content: 2. Design a prototype specifying the presentation format and gameplay
   col_3:
-    headline: ''
+    headline: " "
     slug: ''
     content: 3. Tests and Re-design
 - template: full-width-media-element
