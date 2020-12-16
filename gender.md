@@ -23,6 +23,11 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Exploration
+  content: Brainstorm with S.E.T. Analysis to spot the problem
+  slug: ''
 menu:
   main:
     weight: 4
