@@ -73,7 +73,7 @@ page_sections:
     image: "/uploads/2020/12/16/13.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2020/12/16/13-1.png"
     caption: ''
 menu:
   main:
