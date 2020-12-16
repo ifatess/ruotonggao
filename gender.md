@@ -77,7 +77,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Draft 2<br>Break Down Period Stigma
+  headline: "<em>Draft 2</em><br>Break Down Period Stigma"
   slug: ''
   content: ''
   media:
