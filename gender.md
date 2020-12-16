@@ -45,7 +45,8 @@ page_sections:
     image: "/uploads/2020/12/16/12.jpg"
     alt_text: ''
   slug: ''
-  content: ''
+  content: Brainstorm explorations played an important role in decision making on
+    the direction that would be rolled out through the design.
 - template: detail-content
   block: text-1
   headline: Persona
