@@ -73,7 +73,7 @@ page_sections:
     image: "/uploads/2020/12/16/13-2.png"
     caption: ''
   image_2:
-    image: "/uploads/2020/12/16/14-1.png"
+    image: "/uploads/2020/12/16/14-2.png"
     caption: ''
 - template: content-feature
   block: feature-1
