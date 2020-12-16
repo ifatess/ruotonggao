@@ -27,7 +27,7 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Step 1
-    content: 1Explore with S.E.T. analysis to spot the problem
+    content: Explore with S.E.T. analysis to spot the problem
     slug: ''
   col_2:
     headline: Step 2
