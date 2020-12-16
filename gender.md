@@ -67,15 +67,14 @@ page_sections:
     of the reproductive organs of both sexes; to give her the awareness to protect
     herself from sexual harassment, sexual assault, pornographic information on the
     Internet, etc.</p>"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/12/16/13.png"
+    caption: ''
+  image_2:
     image: ''
-    alt_text: ''
+    caption: ''
 menu:
   main:
     weight: 4
