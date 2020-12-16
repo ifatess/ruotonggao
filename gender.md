@@ -73,7 +73,7 @@ page_sections:
     image: "/uploads/2020/12/16/13-2.png"
     caption: ''
   image_2:
-    image: "/uploads/2020/12/16/14.png"
+    image: "/uploads/2020/12/16/14-1.png"
     caption: ''
 - template: full-width-media-element
   block: media-1
