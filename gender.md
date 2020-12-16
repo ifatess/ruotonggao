@@ -103,7 +103,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Li Xinyi, 6 years old, female
+    headline: Li Xinyi, 6, male
     slug: ''
     content: ''
   col_2:
