@@ -80,6 +80,24 @@ page_sections:
   slug: ''
   image: ''
   caption: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: 'Draft 1: <span class="light">Gender &amp; Career Game Design</span>'
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 4
