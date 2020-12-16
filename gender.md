@@ -90,7 +90,7 @@ page_sections:
     caption: Prototype
   image_2:
     image: ''
-    caption: ''
+    caption: User Interface
 menu:
   main:
     weight: 4
