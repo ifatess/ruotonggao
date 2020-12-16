@@ -26,7 +26,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Approach
+    headline: " "
     content: 1. Explore with S.E.T. analysis to spot the problem
     slug: ''
   col_2:
