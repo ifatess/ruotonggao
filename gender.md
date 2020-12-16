@@ -45,6 +45,25 @@ page_sections:
   image_2:
     image: "/uploads/2020/12/16/1-3.jpg"
     caption: ''
+- template: detail-content
+  block: text-1
+  headline: Persona
+  content: "<h2>Participant A</h2><p>Male, 7 years old.</p><p>Lively and bold personality,
+    strong curiosity about novel things, likes to ask questions but lacks the perseverance
+    to investigate, not very enterprising, plays more with same-sex friends, willing
+    to communicate with parents.</p><p>Objectives: To understand the social norms
+    of gender roles; to understand the meaning of friendship and fraternity and ways
+    to make friends; to let him learn how to get along with strangers (alone) and
+    how to measure them; to develop his aggressiveness appropriately; to trigger communication
+    between him and his parents.</p><h2>Participant B</h2><p>Female, 11 years old.</p><p>Being
+    rebellious, resents interference from her parents or teachers, has a strong sense
+    of self, and is more willing to communicate with classmates and friends than adults,
+    or to be alone. </p><p>Objective: To be able to have ways other than parents to
+    teach - general knowledge of female menstruation and menstrual hygiene and health,
+    methods and etiquette of interaction with the opposite sex, psychological differences
+    between the sexes, functions of the reproductive organs of both sexes; to give
+    her the awareness to protect herself from sexual harassment, sexual assault, pornographic
+    information on the Internet, etc.</p>"
 menu:
   main:
     weight: 4
