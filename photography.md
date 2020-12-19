@@ -144,7 +144,7 @@ page_sections:
   content: 1. <a href="https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/"
     title="Street Photography">https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/</a><br>2.
     <a href="https://huxleyparlour.com/artists/tatsuo-suzuki/" title="Tatsuo Suzuki">https://huxleyparlour.com/artists/tatsuo-suzuki/</a><br>3.
-    <a href="https://radiichina.com/gao-shan-photography/" title="https://radiichina.com/gao-shan-photography/">https://radiichina.com/gao-shan-photography/</a>
+    <a href="https://radiichina.com/gao-shan-photography/" title="Gao Shan">https://radiichina.com/gao-shan-photography/</a>
   slug: ''
 menu:
   main:
