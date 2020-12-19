@@ -52,8 +52,7 @@ page_sections:
   content: <h4>1. Connect Arduino Board and ESP8266 with wires;</h4><p></p><h4>2.
     Establish TCP connection;</h4><p></p><p>AT+CIPSTART=0,"TCP","192.168.4.1",5000
     //connect</p><p>AT+CIPSEND=0,4 //confirm</p><p>length sent //send messege</p><h4>3.
-    Receive order from server.</h4><p>order=readTtl();</p><p>if(order!=""){</p><p>order.trim();</p><p>wifi.println(order);</p><p>Serial.print(order);}</p><p></p><p>String
-    wifidata=getWifiSerialData();</p><p>if(wifidata!=""){</p><p>Serial.println(wifidata);}</p><p>...</p>
+    Receive order from server.</h4><p>order=readTtl();</p><p>if(order!=""){</p><p>order.trim();</p><p>wifi.println(order);</p><p>Serial.print(order);}</p><p>...</p>
 - template: content-feature
   block: feature-1
   media_alignment: Left
