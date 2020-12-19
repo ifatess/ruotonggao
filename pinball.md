@@ -15,7 +15,9 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: "<strong>Inspiration<br><br><br></strong>"
+  content: "<strong>Inspiration<br><br></strong>Inspired by a DIY craft video on Youtube,
+    I created a Wi-Fi communication 3D pinball game that was based on Arduino during
+    my <em>Computer Networking</em> course."
   cta:
     enabled: false
     url: ''
