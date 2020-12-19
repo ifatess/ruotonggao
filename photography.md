@@ -133,6 +133,11 @@ page_sections:
     image: "/uploads/2020/12/19/210.png"
     alt_text: ''
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/19/19.jpg"
+  slug: ''
+  caption: ''
 menu:
   main:
     weight: 3
