@@ -76,7 +76,7 @@ page_sections:
       tolerance'
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Photographer Gao Shan’s “The Eighth Day” Goes Deep on the Relationship
     with His Adopted Mother
   content: "“I grew up in a family that was not good at communicating or expressing
@@ -119,6 +119,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/28.png"
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 menu:
   main:
     weight: 3
