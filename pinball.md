@@ -44,7 +44,7 @@ page_sections:
     slope structure
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2020/12/19/32.png"
     alt_text: ''
 menu:
   main:
