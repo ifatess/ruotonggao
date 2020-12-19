@@ -123,7 +123,7 @@ page_sections:
   block: media-1
   slug: ''
   image: "/uploads/2020/12/19/29.gif"
-  caption: ''
+  caption: 'Going home: Father and son, I followed them all the way'
 menu:
   main:
     weight: 3
