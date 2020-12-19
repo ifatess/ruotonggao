@@ -86,7 +86,7 @@ page_sections:
     love, compassion and, ultimately, reconciliation.<br>"
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2020/12/19/24.png"
     alt_text: ''
 menu:
   main:
