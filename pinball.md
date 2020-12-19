@@ -46,6 +46,14 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/32.png"
     alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: Connection
+  content: "<ol><li><p>Connect Arduino Board and ESP8266 with wires;</p></li><li><p>Establish
+    TCP connection</p><pre><code>AT+CIPSTART=0,\"TCP\",\"192.168.4.1\",5000 //connect\nAT+CIPSEND=0,4
+    //confirm length\nsent //send messege</code></pre></li><li><p>Receive order from
+    server</p><pre><code>if(Serial.available()){\n\twifi.write(Serial.read());\n}\n\norder=readTtl();\nif(order!=\"\"){\n\torder.trim();\n\twifi.println(order);\n\tSerial.print(order);}\n\nString
+    wifidata=getWifiSerialData();\n\tif(wifidata!=\"\"){\n\tSerial.println(wifidata);\n}\n\n...</code></pre></li></ol>"
 menu:
   main:
     weight: 5
