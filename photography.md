@@ -69,9 +69,11 @@ page_sections:
       child? Reorganization?<br>Different experiences form united families'
     slug: ''
   col_2:
-    headline: ''
+    headline: Families are discordant
     slug: ''
-    content: ''
+    content: '"All parents are scourges": a hot topic in China<br>Psychological trauma
+      from the family of origin<br>The formation of a family<br>Reaching happiness:
+      tolerance'
 menu:
   main:
     weight: 3
