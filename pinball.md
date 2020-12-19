@@ -55,6 +55,15 @@ page_sections:
     from server.</h4><blockquote><p>if(Serial.available()){</p><p>wifi.write(Serial.read());
     </p><p>}</p><p>order=readTtl();</p><p>if(order!=""){</p><p>order.trim();</p><p>wifi.println(order);</p><p>Serial.print(order);</p><p>}</p><p></p><p>String
     wifidata=getWifiSerialData();</p><p>if(wifidata!=""){</p><p>Serial.println(wifidata);</p><p>}</p><p></p><p>...</p></blockquote>
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2020/12/19/33.png"
+    alt_text: ''
+  headline: ''
+  slug: ''
+  content: ''
 menu:
   main:
     weight: 5
