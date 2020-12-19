@@ -88,6 +88,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/24.png"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: My Work
+  content: Where does home begin? &lt;Xi Cang Flower &amp; Bird Market&gt;
+  slug: ''
 menu:
   main:
     weight: 3
