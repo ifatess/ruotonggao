@@ -91,6 +91,15 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/12/19/worklogo.png"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: I. Where does home begin? <em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>
+  media:
+    image: "/uploads/2020/12/19/2526.png"
+    alt_text: ''
+  slug: ''
+  content: ''
 menu:
   main:
     weight: 3
