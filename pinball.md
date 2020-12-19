@@ -27,7 +27,7 @@ page_sections:
   col_1:
     headline: Step 1
     slug: ''
-    content: Assemble the Playfield
+    content: Design and assemble the playfield
   col_2:
     headline: Step 2
     slug: ''
