@@ -61,6 +61,17 @@ page_sections:
     the state, civil society, and the family. The family is for the cultivation of
     independent citizens for civil society and the state, not the relationship of
     loyalty and filial piety, but the cultivation of rational personality.</p></li></ul>"
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Families are diverse
+    content: 'Happy or unhappy<br>Close or not close<br>Family members: parents? Only
+      child? Reorganization?<br>Different experiences form united families'
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 menu:
   main:
     weight: 3
