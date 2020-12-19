@@ -48,7 +48,7 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: Connection
+  headline: Wi-Fi Connection
   content: "<h5>1. Connect Arduino Board and ESP8266 with wires;</h5><h5>2. Establish
     TCP connection;</h5><blockquote><p>AT+CIPSTART=0,\"TCP\",\"192.168.4.1\",5000
     //connect\r\nAT+CIPSEND=0,4 //confirm length\r\nsent //send messege</p></blockquote><h5>3.
