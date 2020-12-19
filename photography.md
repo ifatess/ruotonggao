@@ -22,6 +22,20 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Step 1
+    slug: ''
+    content: ''
+  col_2:
+    headline: Step 2
+    slug: ''
+    content: ''
+  col_3:
+    headline: Step 3
+    slug: ''
+    content: ''
 menu:
   main:
     weight: 3
