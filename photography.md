@@ -103,7 +103,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: II. Leaving the world under the watchful eye of parents
+  headline: II. Leaving the world
   media:
     image: "/uploads/2020/12/19/27.gif"
     alt_text: ''
