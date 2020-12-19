@@ -16,7 +16,8 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: <strong>Inspiration<br><br></strong>I, and indeed all Chinese people, have
+    been entangled with "family" all our lives. I feel the obligation to capture it.
   cta:
     enabled: false
     url: ''
