@@ -88,24 +88,9 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/24.png"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: My Work
-  content: I. Where does home begin? <em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>
-  slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/12/19/25.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2020/12/19/26.png"
-    caption: ''
-- template: 1-column-text
-  block: one-column-1
-  content: Leaving the world under the watchful eye of parents
-  headline: ''
-  slug: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/19/worklogo.png"
 menu:
   main:
     weight: 3
