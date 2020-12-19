@@ -91,8 +91,16 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: My Work
-  content: Where does home begin? &lt;Xi Cang Flower &amp; Bird Market&gt;
+  content: I. Where does home begin? <em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>
   slug: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 menu:
   main:
     weight: 3
