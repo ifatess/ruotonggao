@@ -59,6 +59,10 @@ page_sections:
     studies.
   image: "/uploads/2020/12/19/23.png"
   slug: ''
+- template: detail-content
+  block: text-1
+  headline: Family
+  content: ''
 menu:
   main:
     weight: 3
