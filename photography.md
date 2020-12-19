@@ -141,11 +141,9 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Reference
-  content: 1. Street Photography  <a href="https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/"
-    title="Street Photography">https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/</a><br>2.
-    Tatsuo Suzuki <a href="https://huxleyparlour.com/artists/tatsuo-suzuki/" title="Tatsuo
-    Suzuki">https://huxleyparlour.com/artists/tatsuo-suzuki/</a><br>3. Gao Shan <a
-    href="https://radiichina.com/gao-shan-photography/" title="Gao Shan">https://radiichina.com/gao-shan-photography/</a>
+  content: 1. Street Photography <em>https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/</em><br>2.
+    Tatsuo Suzuki <em>https://huxleyparlour.com/artists/tatsuo-suzuki/</em><br>3.
+    Gao Shan<em> https://radiichina.com/gao-shan-photography/</em>
   slug: ''
 menu:
   main:
