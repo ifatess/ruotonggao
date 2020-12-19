@@ -90,7 +90,7 @@ page_sections:
     alt_text: ''
 - template: simple-header
   block: header-3
-  logo: "/uploads/2020/12/19/worklogo.svg"
+  logo: "/uploads/2020/12/19/worklogo1.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -109,6 +109,15 @@ page_sections:
     alt_text: ''
   slug: ''
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 3
