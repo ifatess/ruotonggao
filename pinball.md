@@ -49,11 +49,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Connection
-  content: "<ol><li><p>Connect Arduino Board and ESP8266 with wires;</p></li><li><p>Establish
-    TCP connection</p><blockquote><pre><code><code>AT+CIPSTART=0,\"TCP\",\"192.168.4.1\",5000
-    //connect\nAT+CIPSEND=0,4 //confirm length\nsent //send messege</code></code></pre></blockquote></li><li><p>Receive
-    order from server</p><blockquote><pre><code><code>if(Serial.available()){\n\twifi.write(Serial.read());\n}\n\norder=readTtl();\nif(order!=\"\"){\n\torder.trim();\n\twifi.println(order);\n\tSerial.print(order);}\n\nString
-    wifidata=getWifiSerialData();\n\tif(wifidata!=\"\"){\n\tSerial.println(wifidata);\n}\n\n...</code></code></pre></blockquote></li></ol>"
+  content: "<h5>1. Connect Arduino Board and ESP8266 with wires;</h5><h5>2. Establish
+    TCP connection;</h5><blockquote><p>AT+CIPSTART=0,\"TCP\",\"192.168.4.1\",5000
+    //connect\r\nAT+CIPSEND=0,4 //confirm length\r\nsent //send messege</p></blockquote><h5>3.
+    Receive order from server.</h5><blockquote><p>if(Serial.available()){\r\n\twifi.write(Serial.read());\r\n}\r\n\r\norder=readTtl();\r\nif(order!=\"\"){\r\n\torder.trim();\r\n\twifi.println(order);\r\n\tSerial.print(order);}\r\n\r\nString
+    wifidata=getWifiSerialData();\r\n\tif(wifidata!=\"\"){\r\n\tSerial.println(wifidata);\r\n}\r\n\r\n...</p></blockquote>"
 menu:
   main:
     weight: 5
