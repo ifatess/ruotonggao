@@ -102,13 +102,13 @@ page_sections:
   content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  headline: II. Leaving the world
+  media_alignment: Right
+  headline: II. Leaving the world under the watchful eye of parents
   media:
     image: "/uploads/2020/12/19/27.gif"
     alt_text: ''
   slug: ''
-  content: under the watchful eye of parents
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
