@@ -90,7 +90,7 @@ page_sections:
     alt_text: ''
 - template: simple-header
   block: header-3
-  logo: "/uploads/2020/12/19/worklogo.png"
+  logo: "/uploads/2020/12/19/worklogo.svg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
