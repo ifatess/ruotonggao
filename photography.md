@@ -124,6 +124,15 @@ page_sections:
   slug: ''
   image: "/uploads/2020/12/19/29.gif"
   caption: 'Going home: Father and son, I followed them all the way'
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Farewell
+  content: "&lt;On my way away from home&gt;"
+  media:
+    image: "/uploads/2020/12/19/210.png"
+    alt_text: ''
+  slug: ''
 menu:
   main:
     weight: 3
