@@ -51,6 +51,11 @@ page_sections:
     image: "/uploads/2020/12/19/22.png"
     alt_text: ''
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  caption: 'Tatsuo Suzuki: '
+  image: "/uploads/2020/12/19/23.png"
+  slug: ''
 menu:
   main:
     weight: 3
