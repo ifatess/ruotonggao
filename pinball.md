@@ -35,7 +35,7 @@ page_sections:
   col_3:
     headline: Step 3
     slug: ''
-    content: ''
+    content: Program the electronics block and debug
 menu:
   main:
     weight: 5
