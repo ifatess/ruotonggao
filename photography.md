@@ -101,6 +101,11 @@ page_sections:
   image_2:
     image: "/uploads/2020/12/19/26.png"
     caption: ''
+- template: 1-column-text
+  block: one-column-1
+  content: Leaving the world under the watchful eye of parents
+  headline: ''
+  slug: ''
 menu:
   main:
     weight: 3
