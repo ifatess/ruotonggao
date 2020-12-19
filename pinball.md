@@ -49,11 +49,12 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Wi-Fi Connection
-  content: "<h5>1. Connect Arduino Board and ESP8266 with wires;</h5><h5>2. Establish
-    TCP connection;</h5><blockquote><p>AT+CIPSTART=0,\"TCP\",\"192.168.4.1\",5000
-    //connect\r\nAT+CIPSEND=0,4 //confirm length\r\nsent //send messege</p></blockquote><h5>3.
-    Receive order from server.</h5><blockquote><p>if(Serial.available()){\r\n\twifi.write(Serial.read());\r\n}\r\n\r\norder=readTtl();\r\nif(order!=\"\"){\r\n\torder.trim();\r\n\twifi.println(order);\r\n\tSerial.print(order);}\r\n\r\nString
-    wifidata=getWifiSerialData();\r\n\tif(wifidata!=\"\"){\r\n\tSerial.println(wifidata);\r\n}\r\n\r\n...</p></blockquote>"
+  content: <h4>1. Connect Arduino Board and ESP8266 with wires;</h4><h4>2. Establish
+    TCP connection;</h4><blockquote><p>AT+CIPSTART=0,"TCP","192.168.4.1",5000 //connect</p><p>AT+CIPSEND=0,4
+    //confirm</p><p>length sent //send messege</p></blockquote><h4>3. Receive order
+    from server.</h4><blockquote><p>if(Serial.available()){</p><p>wifi.write(Serial.read());
+    </p><p>}</p><p>order=readTtl();</p><p>if(order!=""){</p><p>order.trim();</p><p>wifi.println(order);</p><p>Serial.print(order);</p><p>}</p><p></p><p>String
+    wifidata=getWifiSerialData();</p><p>if(wifidata!=""){</p><p>Serial.println(wifidata);</p><p>}</p><p></p><p>...</p></blockquote>
 menu:
   main:
     weight: 5
