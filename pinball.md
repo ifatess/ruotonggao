@@ -36,6 +36,16 @@ page_sections:
     headline: Step 3
     slug: ''
     content: Program the electronics block and debug
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Design the playfield with paper
+  content: Use wooden boards, rubber bands, glue, etc. to make a model of a ladder-like
+    slope structure
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 5
