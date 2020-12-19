@@ -65,6 +65,20 @@ page_sections:
   content: The task of controlling the servo, establishing communication, and adding
     points through the photosensitive sensor on the Arduino board requires connecting
     the different parts by wires and designing a reasonable circuit.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: 'Highlight: Score Section'
+  content: "<strong>Normal Score:<br></strong>The longer the time between the start
+    of the ball and the failure, the higher the score. Controlled by buttons on the
+    phone.<br><br><strong>Bonus Score:<br></strong>If the ball and sensor contact
+    triggers the sensor, the chip will return the information to the Android terminal,
+    the player will get additional bonus rewards. The more you touch the sensor, the
+    higher the score."
+  media:
+    image: "/uploads/2020/12/19/34.png"
+    alt_text: ''
+  slug: ''
 menu:
   main:
     weight: 5
