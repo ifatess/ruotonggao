@@ -16,13 +16,26 @@ page_sections:
     image: ''
     alt_text: ''
   content: "<strong>Inspiration<br><br></strong>Inspired by a DIY craft video on Youtube,
-    I created a Wi-Fi communication 3D pinball game that was based on Arduino during
-    my <em>Computer Networking</em> course."
+    I created a Wi-Fi communication 3D pinball game that was based on Arduino."
   cta:
     enabled: false
     url: ''
     button_text: ''
   headline: <span class="light">Wi-Fi-Based Arduino Pinball Machine Design</span>
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 menu:
   main:
     weight: 5
