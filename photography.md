@@ -51,18 +51,16 @@ page_sections:
     image: "/uploads/2020/12/19/22.png"
     alt_text: ''
   slug: ''
-- template: full-width-media-element
-  block: media-1
-  caption: Taking up the gauntlet laid down by the greats of twentieth-century street
-    photography, Tatsuo Suzuki photographs with an urgency and dynamism that allows
-    him to produce rambunctious street scenes interlaced with thoughtful character
-    studies.
-  image: "/uploads/2020/12/19/23.png"
-  slug: ''
 - template: detail-content
   block: text-1
   headline: Family
-  content: ''
+  content: "<ul><li><p>The establishment of family relations.</p></li><li><p>Chinese
+    ethics are established on the basis of the family, and this is one of the reasons
+    why Chinese people have a heavier concept of family.</p></li><li><p>Hegel's ethics
+    are not natural blood and emotional relations, but human and divine laws, including
+    the state, civil society, and the family. The family is for the cultivation of
+    independent citizens for civil society and the state, not the relationship of
+    loyalty and filial piety, but the cultivation of rational personality.</p></li></ul>"
 menu:
   main:
     weight: 3
