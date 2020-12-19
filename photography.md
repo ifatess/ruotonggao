@@ -117,7 +117,7 @@ page_sections:
   content: "<em>&lt;The Branch School of The High School Affiliated to Shaanxi Normal
     University&gt;</em>"
   media:
-    image: ''
+    image: "/uploads/2020/12/19/28.png"
     alt_text: ''
 menu:
   main:
