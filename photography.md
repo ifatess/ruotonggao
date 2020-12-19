@@ -99,7 +99,7 @@ page_sections:
     image: "/uploads/2020/12/19/25.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2020/12/19/26.png"
     caption: ''
 menu:
   main:
