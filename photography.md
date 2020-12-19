@@ -100,6 +100,15 @@ page_sections:
     alt_text: ''
   slug: ''
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: II. Leaving the world under the watchful eye of parents
+  media:
+    image: "/uploads/2020/12/19/27.gif"
+    alt_text: ''
+  slug: ''
+  content: ''
 menu:
   main:
     weight: 3
