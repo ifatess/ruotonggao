@@ -31,7 +31,7 @@ page_sections:
   col_2:
     headline: Step 2
     slug: ''
-    content: ''
+    content: Establish WIFI communication between server, client and Arduino board
   col_3:
     headline: Step 3
     slug: ''
