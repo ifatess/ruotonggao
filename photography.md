@@ -74,6 +74,20 @@ page_sections:
     content: '"All parents are scourges": a hot topic in China<br>Psychological trauma
       from the family of origin<br>The formation of a family<br>Reaching happiness:
       tolerance'
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Photographer Gao Shan’s “The Eighth Day” Goes Deep on the Relationship
+    with His Adopted Mother
+  content: "“I grew up in a family that was not good at communicating or expressing
+    emotion,” he says. “Questions, such as my mother’s experiences or my own are hazy
+    for one another. I feel a sense of loss from this.”<br><br>The result is a compelling
+    visual dialogue that wrestles with loss, pain and regret, as much as it embraces
+    love, compassion and, ultimately, reconciliation.<br>"
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 3
