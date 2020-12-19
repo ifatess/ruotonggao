@@ -122,7 +122,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: ''
+  image: "/uploads/2020/12/19/29.gif"
   caption: ''
 menu:
   main:
