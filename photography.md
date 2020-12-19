@@ -141,10 +141,11 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Reference
-  content: 1. <a href="https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/"
+  content: 1. Street Photography  <a href="https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/"
     title="Street Photography">https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/</a><br>2.
-    <a href="https://huxleyparlour.com/artists/tatsuo-suzuki/" title="Tatsuo Suzuki">https://huxleyparlour.com/artists/tatsuo-suzuki/</a><br>3.
-    <a href="https://radiichina.com/gao-shan-photography/" title="Gao Shan">https://radiichina.com/gao-shan-photography/</a>
+    Tatsuo Suzuki <a href="https://huxleyparlour.com/artists/tatsuo-suzuki/" title="Tatsuo
+    Suzuki">https://huxleyparlour.com/artists/tatsuo-suzuki/</a><br>3. Gao Shan <a
+    href="https://radiichina.com/gao-shan-photography/" title="Gao Shan">https://radiichina.com/gao-shan-photography/</a>
   slug: ''
 menu:
   main:
