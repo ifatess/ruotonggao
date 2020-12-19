@@ -31,11 +31,11 @@ page_sections:
   col_2:
     headline: Step 2
     slug: ''
-    content: ''
+    content: 'Inspirations: Family bonds and related works'
   col_3:
     headline: Step 3
     slug: ''
-    content: ''
+    content: Photograph and Presentation
 menu:
   main:
     weight: 3
