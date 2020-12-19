@@ -41,12 +41,12 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Street Photography
-  content: <em><img src="/uploads/2020/12/16/12-6.png"><br><br>For me, photography
-    is not a means by which to create beautiful art, but a unique way of encountering
-    genuine reality.</em><br>                                                                            --
-    Daido Moriyama<strong><br></strong><em>In photography, the smallest thing can
-    be a great subject. The little, human detail can become a Leitmotiv.<br>                                                                            </em>--<em>
-    </em>Henri Cartier-Bresson
+  content: Street photography at its essence means candid photography of people and
+    humanity. A street photograph has to be a real, unposed moment.<br><em><br>"For
+    me, photography is not a means by which to create beautiful art, but a unique
+    way of encountering genuine reality." </em><strong>Daido Moriyama<br><br></strong>“<em>In
+    photography, the smallest thing can be a great subject. The little, human detail
+    can become a Leitmotiv.”</em> <strong>Henri Cartier-Bresson</strong>
   media:
     image: "/uploads/2020/12/19/22.png"
     alt_text: ''
