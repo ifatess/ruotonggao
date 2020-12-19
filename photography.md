@@ -108,7 +108,7 @@ page_sections:
     image: "/uploads/2020/12/19/27.gif"
     alt_text: ''
   slug: ''
-  content: ''
+  content: under the watchful eye of parents
 - template: content-feature
   block: feature-1
   media_alignment: Right
