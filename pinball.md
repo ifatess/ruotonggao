@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Pinball
-date: 2020-11-30 16:00:00 +0000
+date: 2020-11-30T16:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -9,6 +9,18 @@ page_sections:
   navigation:
   - link: "/photography"
     link_text: Next Project
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  image:
+    image: ''
+    alt_text: ''
+  content: "<strong>Inspiration<br><br><br></strong>"
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+  headline: <span class="light">Wi-Fi-Based Arduino Pinball Machine Design</span>
 menu:
   main:
     weight: 5
