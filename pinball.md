@@ -61,9 +61,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/33.png"
     alt_text: ''
-  headline: ''
+  headline: Develop the Arduino Board
   slug: ''
-  content: ''
+  content: The task of controlling the servo, establishing communication, and adding
+    points through the photosensitive sensor on the Arduino board requires connecting
+    the different parts by wires and designing a reasonable circuit.
 menu:
   main:
     weight: 5
