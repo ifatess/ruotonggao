@@ -36,6 +36,20 @@ page_sections:
     headline: Step 3
     slug: ''
     content: Photograph and Presentation
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Street Photography
+  content: <em><img src="/uploads/2020/12/16/12-6.png"><br><br>For me, photography
+    is not a means by which to create beautiful art, but a unique way of encountering
+    genuine reality.</em><br>                                                                            --
+    Daido Moriyama<strong><br></strong><em>In photography, the smallest thing can
+    be a great subject. The little, human detail can become a Leitmotiv.<br>                                                                            </em>--<em>
+    </em>Henri Cartier-Bresson
+  media:
+    image: "/uploads/2020/12/19/22.png"
+    alt_text: ''
+  slug: ''
 menu:
   main:
     weight: 3
