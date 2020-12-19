@@ -53,10 +53,10 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  caption: 'Tatsuo Suzuki: Taking up the gauntlet laid down by the greats of twentieth-century
-    street photography, Suzuki photographs with an urgency and dynamism that allows
+  caption: Taking up the gauntlet laid down by the greats of twentieth-century street
+    photography, Tatsuo Suzuki photographs with an urgency and dynamism that allows
     him to produce rambunctious street scenes interlaced with thoughtful character
-    studies.'
+    studies.
   image: "/uploads/2020/12/19/23.png"
   slug: ''
 menu:
