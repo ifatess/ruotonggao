@@ -94,12 +94,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: I. Where does home begin? <em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>
+  headline: I. Where does home begin?
   media:
     image: "/uploads/2020/12/19/2526.png"
     alt_text: ''
   slug: ''
-  content: ''
+  content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
