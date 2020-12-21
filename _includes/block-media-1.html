@@ -2,9 +2,9 @@
   <div class="container">
     <figure>
       {% if section.caption.includes("Video") %}
-      <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
-      {% else %}
       <video src="{{ section.image | relative_url }}" width=1000 controls="controls" align="center">
+      {% else %}
+      <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
       {% endif %}
       {% if section.caption %}
       <figcaption>{{ section.caption }}</figcaption>
