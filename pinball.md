@@ -118,9 +118,9 @@ page_sections:
   media:
     image: "/uploads/2020/12/21/36.svg"
     alt_text: ''
-- template: simple-footer
-  block: footer-1
-  content: Check how it works!
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/21/video.png"
 - template: full-width-media-element
   block: media-1
   caption: Video
