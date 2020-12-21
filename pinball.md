@@ -87,7 +87,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/21/pinball3.gif"
-  caption: Preview of the procedure
+  caption: VPreview of the procedure
   slug: ''
 - template: content-feature
   block: feature-1
