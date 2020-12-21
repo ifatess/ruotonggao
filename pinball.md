@@ -83,6 +83,15 @@ page_sections:
   image: "/uploads/2020/12/21/pinball1.gif"
   caption: Preview of the procedure
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: 'Interactive App: Controller'
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 5
