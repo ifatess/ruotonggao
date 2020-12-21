@@ -7,9 +7,9 @@
       </p>
       {% else %}
       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
-      {% endif %}
       {% if section.caption %}
       <figcaption>{{ section.caption }}</figcaption>
+      {% endif %}
       {% endif %}
     </figure>
   </div>
