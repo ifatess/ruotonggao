@@ -120,8 +120,8 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  content: Check how it works!
-  headline: ''
+  content: ''
+  headline: Check how it works!
   slug: ''
 - template: full-width-media-element
   block: media-1
