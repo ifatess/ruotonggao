@@ -105,7 +105,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: ''
+    image: "/uploads/2020/12/21/36.svg"
     alt_text: ''
 - template: full-width-media-element
   block: media-1
