@@ -35,7 +35,8 @@ page_sections:
   col_3:
     headline: Step 3
     slug: ''
-    content: Program the electronics block and debug
+    content: Program the electronics block. Design an interactive app to control the
+      game.
 - template: content-feature
   block: feature-1
   media_alignment: Right
