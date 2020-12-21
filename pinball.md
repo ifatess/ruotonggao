@@ -80,7 +80,7 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/16/17.jpg"
+  image: "/uploads/2020/12/21/pinball2.gif"
   caption: Preview of the procedure
   slug: ''
 - template: content-feature
