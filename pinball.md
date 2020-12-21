@@ -93,6 +93,15 @@ page_sections:
   media:
     image: "/uploads/2020/12/21/35.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Gameplay
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 5
