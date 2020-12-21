@@ -78,6 +78,11 @@ page_sections:
     image: "/uploads/2020/12/19/34.png"
     alt_text: ''
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/21/pinball1.gif"
+  caption: Preview of the procedure
+  slug: ''
 menu:
   main:
     weight: 5
