@@ -90,7 +90,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: "/uploads/2020/12/21/pinball3.gif"
+    image: "/uploads/2020/12/21/35.png"
     alt_text: ''
 menu:
   main:
