@@ -50,10 +50,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Wi-Fi Connection
-  content: <h4>1. Connect Arduino Board and ESP8266 with wires;</h4><p></p><h4>2.
-    Establish TCP connection;</h4><p></p><p>AT+CIPSTART=0,"TCP","192.168.4.1",5000
-    //connect</p><p>AT+CIPSEND=0,4 //confirm</p><p>length sent //send messege</p><h4>3.
-    Receive order from server.</h4>
+  content: |-
+    <h4>1. Connect Arduino Board and ESP8266 with wires;</h4><p></p><h4>2. Establish TCP connection;</h4><pre><code>AT+CIPSTART=0,"TCP","192.168.4.1",5000 //connect
+    AT+CIPSEND=0,4 //confirm length
+    sent //send messege</code></pre><h4>3. Receive order from server.</h4><pre><code>order=readTtl();
+    if(order!=""){
+    order.trim();
+    wifi.println(order);
+    Serial.print(order);}
+    ...</code></pre>
 - template: content-feature
   block: feature-1
   media_alignment: Left
