@@ -122,7 +122,7 @@ page_sections:
   block: media-1
   caption: Video
   slug: ''
-  image: ''
+  image: "/uploads/2020/12/21/pinball.mov"
 menu:
   main:
     weight: 5
