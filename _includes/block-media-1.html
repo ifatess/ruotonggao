@@ -4,7 +4,7 @@
       {% if section.caption(0)!='V' %}
       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
       {% else %}
-      <video src="{{ section.image | relative_url }}" width=1000 controls="controls">
+      <video src="{{ section.image | relative_url }}" width=1000 controls="controls" align="center">
       {% endif %}
       {% if section.caption %}
       <figcaption>{{ section.caption }}</figcaption>
