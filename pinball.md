@@ -69,7 +69,9 @@ page_sections:
   slug: ''
   content: The task of controlling the servo, establishing communication, and adding
     points through the photosensitive sensor on the Arduino board requires connecting
-    the different parts by wires and designing a reasonable circuit.
+    the different parts by wires and designing a reasonable circuit.<br><br>Two drivers,
+    a photosensitive sensor, and an ESP8266 board (containing a Wi-Fi module) were
+    attached to the Arduino board.
 - template: content-feature
   block: feature-1
   media_alignment: Right
