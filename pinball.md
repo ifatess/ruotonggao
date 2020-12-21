@@ -118,6 +118,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/21/36.svg"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  content: Check how it works!
+  headline: ''
+  slug: ''
 - template: full-width-media-element
   block: media-1
   caption: Video
