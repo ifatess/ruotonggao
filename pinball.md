@@ -112,6 +112,11 @@ page_sections:
   slug: ''
   image: ''
   caption: ''
+- template: full-width-media-element
+  block: media-1
+  caption: Video
+  slug: ''
+  image: ''
 menu:
   main:
     weight: 5
