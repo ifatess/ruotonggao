@@ -100,18 +100,18 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Gameplay
   slug: ''
-  content: ''
+  content: Due to the non-instantaneous nature of wifi transmission, it is difficult
+    to record the status of the small ball as it is launched and dropped. Therefore,
+    I have taken the approach of manually setting the game start and end.<br><br>While
+    the game is in progress, the player controls the rise and fall of the pedals and
+    tries to get a high score (1. keep the ball on the board as long as possible;
+    2. try to get bonuses).
   media:
     image: "/uploads/2020/12/21/36.svg"
     alt_text: ''
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: ''
-  caption: ''
 - template: full-width-media-element
   block: media-1
   caption: Video
