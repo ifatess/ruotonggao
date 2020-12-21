@@ -94,7 +94,11 @@ page_sections:
   media_alignment: Right
   headline: 'Interactive App: Controller'
   slug: ''
-  content: ''
+  content: The app is written in Java in Android Studio. After installation, the controller
+    can be connected to the server through Wi-Fi.<br><br>It's a one-page controller,
+    containing four interactive buttons, a scoring section, a notification bar, and
+    connection settings. My classmates understood how to use it at a glance and didn't
+    face any problems while interacting with this concise interface.
   media:
     image: "/uploads/2020/12/21/35.png"
     alt_text: ''
