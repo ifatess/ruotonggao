@@ -2,9 +2,9 @@
   <div class="container">
     <figure>
       {% if section.image | relative_url(1)=='4' %}
-      <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy" align="center">
+      <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
       {% else %}
-      <video src="{{ section.image | relative_url }}" width=1000 controls="controls" align="center">
+      <video src="{{ section.image | relative_url }}" width=1000 controls="controls">
       {% endif %}
       {% if section.caption %}
       <figcaption>{{ section.caption }}</figcaption>
