@@ -61,7 +61,7 @@ page_sections:
     ...</code></code></pre>
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   media:
     image: "/uploads/2020/12/22/33-1.png"
     alt_text: ''
