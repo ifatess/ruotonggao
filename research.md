@@ -78,7 +78,7 @@ page_sections:
     image: "/uploads/2020/12/22/43-1.png"
     caption: Product Needs Analysis for the Visually Impaired
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2020/12/22/44.png"
+    caption: Analysis of Somatosensory Interaction for the Visually Impaired
 
 ---
