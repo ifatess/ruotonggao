@@ -62,16 +62,16 @@ page_sections:
   block: text-1
   headline: Features
   content: |-
-    <p><strong>Physiological characteristics</strong></p><pre><code><code>1. Visual impairment: blindness (blindness)/amblyopia
+    <h4>Physiological characteristics</h4><pre><code><code>1. Visual impairment: blindness (blindness)/amblyopia
     2. Higher hearing energy level than sighted people
-    3. Strong tactile perception</code></code></pre><p><strong>Psychological characteristics</strong></p><pre><code>1. Feelings of helplessness when exposed to complex products
+    3. Strong tactile perception</code></code></pre><h4>Psychological characteristics</h4><pre><code><code>1. Feelings of helplessness when exposed to complex products
     2. Low self-esteem due to frustration in using products
     3. Sensitive ambivalence to ask for help from others
     4. Constant lack of security
-    5. The desire to feel respect and the pursuit of good products</code></pre><p><strong>Perceptual behavior characteristics</strong></p><pre><code>1. The four senses of touch, hearing, smell, and taste are used to compensate for vision
+    5. The desire to feel respect and the pursuit of good products</code></code></pre><h4>Perceptual behavior characteristics</h4><p></p><pre><code><code>1. The four senses of touch, hearing, smell, and taste are used to compensate for vision
     2. The tactile index finger is the most important way to compensate for the visual perception of products
     3. The most rapid perceptual behavior is the auditory channel
-    4. Strong sense of spatial cognition and memory</code></pre>
+    4. Strong sense of spatial cognition and memory</code></code></pre>
 - template: 2-column-media-element
   block: media-2
   image_1:
