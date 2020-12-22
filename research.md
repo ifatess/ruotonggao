@@ -41,6 +41,7 @@ page_sections:
   col_3:
     headline: Step 3
     slug: ''
-    content: ''
+    content: Organize interview texts and videos, analyze the orthogonal table to
+      get usability assessment.
 
 ---
