@@ -75,7 +75,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/12/22/43.png"
+    image: "/uploads/2020/12/22/43-1.png"
     caption: Product Needs Analysis for the Visually Impaired
   image_2:
     image: ''
