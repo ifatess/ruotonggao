@@ -37,7 +37,7 @@ page_sections:
   col_2:
     headline: Step 2
     slug: ''
-    content: ''
+    content: Conduct experiments and interviews according to systemized methodology.
   col_3:
     headline: Step 3
     slug: ''
