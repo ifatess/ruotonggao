@@ -80,5 +80,20 @@ page_sections:
   image_2:
     image: "/uploads/2020/12/22/44.png"
     caption: Analysis of Somatosensory Interaction for the Visually Impaired
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Methodology
+  content: 'Reference<br>1. da Silva F.C., Kistmann V., Okimoto M.L. (2019) Terrestrial
+    Autonomous Vehicles: Exploratory Study and Perspectives of the Interaction of
+    Blind People in the Urban Environment.<br>2. Wang Z. Research on Somatic Interactive
+    Intelligent Product Design for Visually Impaired People[D]. Shandong University
+    of Architecture, 2020.<br>3. Summary of the 2017 UNESCO Project (Special Survey
+    on the Status and Needs of Information Accessibility Services for Visually Impaired
+    Groups)[R]. China Association for the Blind,2019.'
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
