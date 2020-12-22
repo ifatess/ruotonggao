@@ -45,7 +45,7 @@ page_sections:
       get usability assessment.
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Background
   content: Globally, approximately 1.3 billion people are suffering from vision impairment.
     The number of elderly people with impaired vision, as well as young people with
