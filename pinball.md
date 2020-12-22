@@ -63,7 +63,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/uploads/2020/12/19/33.png"
+    image: "/uploads/2020/12/22/33-1.png"
     alt_text: ''
   headline: Develop the Arduino Board
   slug: ''
