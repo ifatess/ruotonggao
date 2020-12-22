@@ -29,15 +29,15 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
+    headline: Step 1
     slug: ''
     content: ''
   col_2:
-    headline: ''
+    headline: Step 2
     slug: ''
     content: ''
   col_3:
-    headline: ''
+    headline: Step 3
     slug: ''
     content: ''
 
