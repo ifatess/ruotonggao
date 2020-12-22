@@ -62,9 +62,16 @@ page_sections:
   block: text-1
   headline: Features
   content: |-
-    <p><strong>Physiological characteristics</strong></p><pre><code>1. Visual impairment: blindness (blindness)/amblyopia
+    <p><strong>Physiological characteristics</strong></p><pre><code><code>1. Visual impairment: blindness (blindness)/amblyopia
     2. Higher hearing energy level than sighted people
-    3. Strong tactile perception</code></pre><p><strong>Psychological characteristics</strong></p><ol><li><p>Feelings of helplessness when exposed to complex products</p></li><li><p>Low self-esteem due to frustration in using products</p></li><li><p>Sensitive ambivalence to ask for help from others</p></li><li><p>Constant lack of security</p></li><li><p>The desire to feel respect and the pursuit of good products</p></li></ol><p><strong>Perceptual behavior characteristics</strong></p><ol><li><p>The four senses of touch, hearing, smell, and taste are used to compensate for vision</p></li><li><p>The tactile index finger is the most important way to compensate for the visual perception of products</p></li><li><p>The most rapid perceptual behavior is the auditory channel</p></li><li><p>Strong sense of spatial cognition and memory</p></li></ol>
+    3. Strong tactile perception</code></code></pre><p><strong>Psychological characteristics</strong></p><pre><code>1. Feelings of helplessness when exposed to complex products
+    2. Low self-esteem due to frustration in using products
+    3. Sensitive ambivalence to ask for help from others
+    4. Constant lack of security
+    5. The desire to feel respect and the pursuit of good products</code></pre><p><strong>Perceptual behavior characteristics</strong></p><pre><code>1. The four senses of touch, hearing, smell, and taste are used to compensate for vision
+    2. The tactile index finger is the most important way to compensate for the visual perception of products
+    3. The most rapid perceptual behavior is the auditory channel
+    4. Strong sense of spatial cognition and memory</code></pre>
 - template: 2-column-media-element
   block: media-2
   image_1:
