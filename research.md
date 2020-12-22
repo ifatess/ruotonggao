@@ -43,5 +43,21 @@ page_sections:
     slug: ''
     content: Organize interview texts and videos, analyze the orthogonal table to
       get usability assessment.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Background
+  content: Globally, approximately 1.3 billion people are suffering from vision impairment.
+    The number of elderly people with impaired vision, as well as young people with
+    myopia, has increased dramatically. As the world's population increases, as well
+    as rapid economic and technological development and urbanization, the proportion
+    of high-rise buildings is gradually increasing worldwide, and elevators are an
+    essential tool in the lives of millions of households.<br>However, people with
+    impaired vision cannot accurately judge the elevator buttons when using elevators,
+    which is a major pain point in the design of elevator operation panels.
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
