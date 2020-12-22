@@ -52,8 +52,8 @@ page_sections:
     myopia, has increased dramatically. As the world's population increases, as well
     as rapid economic and technological development and urbanization, the proportion
     of high-rise buildings is gradually increasing worldwide, and elevators are an
-    essential tool in the lives of millions of households.<br>However, people with
-    impaired vision cannot accurately judge the elevator buttons when using elevators,
+    essential tool in the lives of millions of households.<br><br>However, people
+    with impaired vision cannot accurately judge the elevator buttons when using elevators,
     which is a major pain point in the design of elevator operation panels.
   slug: ''
   media:
