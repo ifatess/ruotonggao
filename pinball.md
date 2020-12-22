@@ -93,7 +93,7 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: 'Interactive App: Controller'
   slug: ''
   content: The app is written in Java in Android Studio. After installation, the controller
