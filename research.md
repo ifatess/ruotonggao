@@ -72,7 +72,6 @@ page_sections:
     and taste are used to compensate for vision</p></li><li><p>The tactile index finger
     is the most important way to compensate for the visual perception of products</p></li><li><p>The
     most rapid perceptual behavior is the auditory channel</p></li><li><p>Strong sense
-    of spatial cognition and memory</p></li><li><p>Translated with www.DeepL.com/Translator
-    (free version)</p></li></ol>"
+    of spatial cognition and memory</p></li></ol>"
 
 ---
