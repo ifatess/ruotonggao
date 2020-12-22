@@ -49,7 +49,7 @@ page_sections:
     alt_text: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/22/36.png"
+  image: "/uploads/2020/12/22/36-1.png"
   caption: Wi-Fi Connection
   slug: ''
 - template: content-feature
