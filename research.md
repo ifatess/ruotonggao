@@ -57,7 +57,7 @@ page_sections:
     which is a major pain point in the design of elevator operation panels.
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2020/12/22/42-1.png"
     alt_text: ''
 
 ---
