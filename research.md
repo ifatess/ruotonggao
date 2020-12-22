@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Research
-date: 2020-12-06T16:00:00.000+00:00
+date: 2020-12-06 16:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
@@ -61,17 +61,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Features
-  content: |-
-    <h4>Physiological characteristics</h4><pre><code><code>1. Visual impairment: blindness (blindness)/amblyopia
-    2. Higher hearing energy level than sighted people
-    3. Strong tactile perception</code></code></pre><p></p><h4>Psychological characteristics</h4><pre><code><code>1. Feelings of helplessness when exposed to complex products
-    2. Low self-esteem due to frustration in using products
-    3. Sensitive ambivalence to ask for help from others
-    4. Constant lack of security
-    5. The desire to feel respect and the pursuit of good products</code></code></pre><p></p><h4>Perceptual behavior characteristics</h4><pre><code><code>1. The four senses of touch, hearing, smell, and taste are used to compensate for vision
-    2. The tactile index finger is the most important way to compensate for the visual perception of products
-    3. The most rapid perceptual behavior is the auditory channel
-    4. Strong sense of spatial cognition and memory</code></code></pre>
+  content: "<p></p>"
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -84,13 +74,13 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Methodology
-  content: 'Reference<br>1. da Silva F.C., Kistmann V., Okimoto M.L. (2019) Terrestrial
-    Autonomous Vehicles: Exploratory Study and Perspectives of the Interaction of
-    Blind People in the Urban Environment.<br>2. Wang Z. Research on Somatic Interactive
-    Intelligent Product Design for Visually Impaired People[D]. Shandong University
-    of Architecture, 2020.<br>3. Summary of the 2017 UNESCO Project (Special Survey
-    on the Status and Needs of Information Accessibility Services for Visually Impaired
-    Groups)[R]. China Association for the Blind,2019.'
+  content: "<strong>Reference<br></strong>1. da Silva F.C., Kistmann V., Okimoto M.L.
+    (2019) Terrestrial Autonomous Vehicles: Exploratory Study and Perspectives of
+    the Interaction of Blind People in the Urban Environment.<br>2. Wang Z. Research
+    on Somatic Interactive Intelligent Product Design for Visually Impaired People[D].
+    Shandong University of Architecture, 2020.<br>3. Summary of the 2017 UNESCO Project
+    (Special Survey on the Status and Needs of Information Accessibility Services
+    for Visually Impaired Groups)[R]. China Association for the Blind,2019."
   slug: ''
   media:
     image: ''
