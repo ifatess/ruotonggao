@@ -84,5 +84,10 @@ page_sections:
   media:
     image: "/uploads/2020/12/22/45.png"
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  caption: Questionnaire & Experiment
+  slug: ''
+  image: ''
 
 ---
