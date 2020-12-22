@@ -82,7 +82,7 @@ page_sections:
     for Visually Impaired Groups)[R]. China Association for the Blind,2019."
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2020/12/22/45.png"
     alt_text: ''
 
 ---
