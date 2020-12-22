@@ -32,8 +32,7 @@ page_sections:
     headline: Step 1
     slug: ''
     content: Research on features and needs of blind people, especially how they interact
-      with facilities and interfaces. Focus on pain points the blind may face during
-      the experiment.
+      with facilities and interfaces.
   col_2:
     headline: Step 2
     slug: ''
@@ -58,6 +57,15 @@ page_sections:
   slug: ''
   media:
     image: "/uploads/2020/12/22/42-1.png"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
     alt_text: ''
 
 ---
