@@ -88,6 +88,6 @@ page_sections:
   block: media-1
   caption: Questionnaire & Experiment
   slug: ''
-  image: "/uploads/2020/12/22/46.png"
+  image: "/uploads/2020/12/22/46-1.png"
 
 ---
