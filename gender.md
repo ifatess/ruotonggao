@@ -53,7 +53,7 @@ page_sections:
     image: "/uploads/2020/12/22/12-11.jpg"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2020/12/22/12-12.jpg"
     caption: ''
 - template: detail-content
   block: text-1
