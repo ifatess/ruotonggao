@@ -68,7 +68,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: ''
+    image: "/uploads/2020/12/22/43.png"
     caption: ''
   image_2:
     image: ''
