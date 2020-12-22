@@ -37,16 +37,9 @@ page_sections:
     headline: " Step 3"
     slug: ''
     content: Tests, Feedbacks and Re-Design
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Exploration
-  media:
-    image: "/uploads/2020/12/16/12-6.png"
-    alt_text: ''
-  slug: ''
-  content: Brainstorm explorations played an important role in decision making on
-    the direction that would be rolled out through the design.
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/22/exp.png"
 - template: 2-column-media-element
   block: media-2
   image_1:
