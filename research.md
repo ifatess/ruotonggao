@@ -58,10 +58,9 @@ page_sections:
   media:
     image: "/uploads/2020/12/22/42-1.png"
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: Features
-  content: "<p></p>"
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/22/feature.png"
 - template: 2-column-media-element
   block: media-2
   image_1:
