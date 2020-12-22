@@ -61,17 +61,17 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Features
-  content: "<h4>Physiological characteristics</h4><ol><li><p>Visual impairment: blindness
-    (blindness)/amblyopia</p></li><li><p>Higher hearing energy level than sighted
-    people</p></li><li><p>Strong tactile perception</p></li></ol><h4>Psychological
-    characteristics</h4><ol><li><p>Feelings of helplessness when exposed to complex
-    products</p></li><li><p>Low self-esteem due to frustration in using products</p></li><li><p>Sensitive
+  content: "<p><strong>Physiological characteristics</strong></p><ol><li><p>Visual
+    impairment: blindness (blindness)/amblyopia</p></li><li><p>Higher hearing energy
+    level than sighted people</p></li><li><p>Strong tactile perception</p></li></ol><p><strong>Psychological
+    characteristics</strong></p><ol><li><p>Feelings of helplessness when exposed to
+    complex products</p></li><li><p>Low self-esteem due to frustration in using products</p></li><li><p>Sensitive
     ambivalence to ask for help from others</p></li><li><p>Constant lack of security</p></li><li><p>The
-    desire to feel respect and the pursuit of good products</p></li></ol><h4>Perceptual
-    behavior characteristics</h4><ol><li><p>The four senses of touch, hearing, smell,
-    and taste are used to compensate for vision</p></li><li><p>The tactile index finger
-    is the most important way to compensate for the visual perception of products</p></li><li><p>The
-    most rapid perceptual behavior is the auditory channel</p></li><li><p>Strong sense
-    of spatial cognition and memory</p></li></ol>"
+    desire to feel respect and the pursuit of good products</p></li></ol><p><strong>Perceptual
+    behavior characteristics</strong></p><ol><li><p>The four senses of touch, hearing,
+    smell, and taste are used to compensate for vision</p></li><li><p>The tactile
+    index finger is the most important way to compensate for the visual perception
+    of products</p></li><li><p>The most rapid perceptual behavior is the auditory
+    channel</p></li><li><p>Strong sense of spatial cognition and memory</p></li></ol>"
 
 ---
