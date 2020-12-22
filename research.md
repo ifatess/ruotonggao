@@ -16,7 +16,11 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: "<strong>Problem Statement<br><br></strong>Given the neglect of people
+    with disabilitiess, I wanted to improve the user experience of accessible facilities.
+    In cooperation with the Fujitec Elevator Company, my group aimed to interview
+    visually impaired people and to design easily identifiable elevator buttons for
+    them."
   cta:
     enabled: false
     url: ''
