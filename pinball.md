@@ -54,7 +54,7 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   media:
     image: "/uploads/2020/12/22/33-4.png"
     alt_text: ''
