@@ -74,13 +74,13 @@ page_sections:
     any form of external pressure, whereas girls would be able to take advantage of
     more opportunities in engineering.<br><br><strong>Genre</strong><br>quiz game,
     2-player game, a combination of board game &amp; video game<br><br><strong>Gameplay<br></strong>1.
-    Each player press the button to choose his/her gender<br>2. Read the front of
+    Each player press the button to choose his/her gender.<br>2. Read the front of
     the card (exp. a picture of a male nurse) and select the corresponding occupation
-    in the game machine<br>3. Two players manipulate the character to play a scenario
-    mini-game together, different conversations will trigger different storylines<br>4.
+    in the game machine.<br>3. Two players manipulate the character to play a scenario
+    mini-game together, different conversations will trigger different storylines.<br>4.
     Read the back of the card (exp. the misunderstandings of male nurses and the correct
     concepts) after finishing the game, write down your feelings, and exchange the
-    card with the other player"
+    card with the other player."
   media:
     image: "/uploads/2020/12/23/15-3.png"
     alt_text: ''
