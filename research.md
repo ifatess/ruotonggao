@@ -89,5 +89,8 @@ page_sections:
   caption: Questionnaire & Experiment
   slug: ''
   image: "/uploads/2020/12/22/46-1.png"
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/23/p-s.png"
 
 ---
