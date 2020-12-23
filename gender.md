@@ -82,7 +82,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: "/uploads/2020/12/16/16.png"
+    image: "/uploads/2020/12/23/16-1.png"
     alt_text: ''
 - template: 2-column-media-element
   block: media-2
