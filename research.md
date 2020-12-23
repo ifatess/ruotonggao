@@ -97,14 +97,6 @@ page_sections:
   image: "/uploads/2020/12/23/47.png"
   slug: ''
   caption: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/23/docu.png"
-- template: full-width-media-element
-  block: media-1
-  caption: Youtube
-  slug: ''
-  image: "/uploads/2020/12/23/p-s.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -119,5 +111,13 @@ page_sections:
   media:
     image: "/uploads/2020/12/23/48.png"
     alt_text: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/23/docu.png"
+- template: full-width-media-element
+  block: media-1
+  caption: Youtube
+  slug: ''
+  image: "/uploads/2020/12/23/p-s.png"
 
 ---
