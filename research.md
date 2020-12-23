@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Research
-date: 2020-12-06 16:00:00 +0000
+date: 2020-12-06T16:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -97,6 +97,11 @@ page_sections:
   image: "/uploads/2020/12/23/47.png"
   slug: ''
   caption: ''
+- template: full-width-media-element
+  block: media-1
+  caption: Youtube
+  slug: ''
+  image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
