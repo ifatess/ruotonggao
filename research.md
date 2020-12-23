@@ -107,7 +107,12 @@ page_sections:
   media_alignment: Right
   headline: Data Analysis
   slug: ''
-  content: 'Our questions:<br><br>1. '
+  content: Evaluation:<br><br><strong>1. Correctness </strong>    <strong>2. Time-consuming
+    3. Finger used     4. Press or not when touching</strong><br><strong>5. Recognition</strong>
+    0-difficult to recognize 1-a little difficult 2-not too easy 3-okay 4-very easy<br><strong>6.
+    Pressing comfort</strong> 0-very uncomfortable 1-not too comfortable 2-no special
+    feeling 3-okay 4-very comfortable<br>......<br><strong>10. Acceptable to put in
+    the common elevator</strong> 0-No 1-Not quite 2-Hard to say 3-Barely 4-Yes
   media:
     image: ''
     alt_text: ''
