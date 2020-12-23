@@ -5,6 +5,7 @@
       <p align="center">
       <video src="{{ section.image | relative_url }}" width=1000 controls="controls" align="center">
       </p>
+      {% elif section.caption == "Youtube" %}
       {% else %}
       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
       {% if section.caption %}
