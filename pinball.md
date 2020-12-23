@@ -52,7 +52,8 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/22/36-1.png"
-  caption: Wi-Fi Connection
+  caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
+    established by me'
   slug: ''
 - template: content-feature
   block: feature-1
