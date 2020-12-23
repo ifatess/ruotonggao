@@ -69,7 +69,18 @@ page_sections:
   media_alignment: Right
   headline: <em>Draft 1</em><br><span class="light">Gender &amp; Career Game Design</span>
   slug: ''
-  content: ''
+  content: "<strong>Target<br></strong>Eliminate gender bias in career choices, hoping
+    that boys would be able to choose careers, such as nursing, without experiencing
+    any form of external pressure, whereas girls would be able to take advantage of
+    more opportunities in engineering.<br><br><strong>Genre</strong><br>quiz game,
+    2-player game, a combination of board game &amp; video game<br><br><strong>Gameplay<br></strong>1.
+    Each player press the button to choose his/her gender<br>2. Read the front of
+    the card (exp. a picture of a male nurse) and select the corresponding occupation
+    in the game machine<br>3. Two players manipulate the character to play a scenario
+    mini-game together, different conversations will trigger different storylines<br>4.
+    Read the back of the card (exp. the misunderstanding of male nurses and what we
+    should do) after finishing the game, write down your feelings, and exchange the
+    card with the other player"
   media:
     image: "/uploads/2020/12/23/15-3.png"
     alt_text: ''
