@@ -80,7 +80,7 @@ page_sections:
     the player will get additional bonus rewards. The more you touch the sensor, the
     higher the score."
   media:
-    image: "/uploads/2020/12/19/34.png"
+    image: "/uploads/2020/12/23/34-1.png"
     alt_text: ''
   slug: ''
 - template: full-width-media-element
