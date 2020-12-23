@@ -6,7 +6,7 @@
       <video src="{{ section.image | relative_url }}" width=1000 controls="controls" align="center">
       </p>
       {% elif section.caption == "Youtube" %}
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/nWntxhWv4Pg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <video src="https://www.youtube.com/embed/nWntxhWv4Pg" width=1000 controls="controls" align="center">
       {% else %}
       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
       {% if section.caption %}
