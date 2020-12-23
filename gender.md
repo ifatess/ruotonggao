@@ -89,11 +89,14 @@ page_sections:
   media_alignment: Left
   headline: "<em>Draft 2</em><br>Break Down Period Stigma"
   slug: ''
-  content: "<strong>Target<br></strong>Eliminate gender bias in career choices, hoping
-    that boys would be able to choose careers, such as nursing, without experiencing
-    any form of external pressure, whereas girls would be able to take advantage of
-    more opportunities in engineering.<br><br><strong>Genre</strong><br>quiz game,
-    2-player game, a combination of board game &amp; video game<br><br><strong>Gameplay</strong><br>"
+  content: "<strong>Target<br></strong>Help girls approaching puberty or already experiencing
+    menstruation to better understand menstruation, learn about hygiene knowledge,
+    and eliminate menstrual shame.<br>*Boys are also encouraged to participate in
+    this game, and the more they know about menstruation, the more likely they will
+    win.<br><br><strong>Genre</strong><br>quiz game, 2-player game, board game, flight
+    chess<br><br><strong>Gameplay</strong><br>1. Similar to the flying chess mode:
+    roll a dice at the starting point, one should answer the corresponding question
+    when stopping in a certain frame.<br>"
   media:
     image: "/uploads/2020/12/23/16-1.png"
     alt_text: ''
