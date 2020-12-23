@@ -92,5 +92,10 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/12/23/p-s.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/23/47.png"
+  slug: ''
+  caption: ''
 
 ---
