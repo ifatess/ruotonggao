@@ -40,14 +40,12 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/12/22/exp.png"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/12/22/12-11.jpg"
-    caption: ''
-  image_2:
-    image: "/uploads/2020/12/22/12-12.jpg"
-    caption: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/23/12-10.png"
+  caption: Through S.E.T. analysis, we focused on sex education for K-12. And we specified
+    our goals afterwards.
+  slug: ''
 - template: detail-content
   block: text-1
   headline: Persona
@@ -89,14 +87,11 @@ page_sections:
   caption: Prototype
   image: "/uploads/2020/12/23/17-1.png"
   slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/12/16/17.jpg"
-    caption: Prototype
-  image_2:
-    image: ''
-    caption: User Interface
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
