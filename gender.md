@@ -73,7 +73,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: "/uploads/2020/12/16/15-1.png"
+    image: "/uploads/2020/12/23/15-2.png"
     alt_text: test
 - template: content-feature
   block: feature-1
