@@ -89,14 +89,5 @@ page_sections:
   caption: Questionnaire & Experiment
   slug: ''
   image: "/uploads/2020/12/22/46-1.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Problems &amp; Solutions
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 
 ---
