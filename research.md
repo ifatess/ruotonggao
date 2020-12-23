@@ -107,7 +107,7 @@ page_sections:
   image: "/uploads/2020/12/23/p-s.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Data Analysis
   slug: ''
   content: Evaluation:<br><br><strong>1. Correctness 2. Time-consuming 3. Finger used<br>4.
@@ -117,7 +117,7 @@ page_sections:
     feeling 3-okay 4-very comfortable<br>......<br><strong>10. Acceptable to put in
     the common elevator</strong><br>0-No 1-Not quite 2-Hard to say 3-Barely 4-Yes
   media:
-    image: ''
+    image: "/uploads/2020/12/23/48.png"
     alt_text: ''
 
 ---
