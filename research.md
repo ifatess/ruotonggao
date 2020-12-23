@@ -103,8 +103,8 @@ page_sections:
     image: "/uploads/2020/12/23/dsc_2735.png"
     caption: A blind person is identifying buttons.
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2020/12/23/dsc_2923.png"
+    caption: A family photo with participant's family and our group.
 - template: content-feature
   block: feature-1
   media_alignment: Left
