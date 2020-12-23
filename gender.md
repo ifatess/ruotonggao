@@ -84,6 +84,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/23/16-1.png"
     alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  caption: Prototype
+  image: "/uploads/2020/12/23/17-1.png"
+  slug: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
