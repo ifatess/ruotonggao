@@ -97,6 +97,14 @@ page_sections:
   image: "/uploads/2020/12/23/47.png"
   slug: ''
   caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/12/23/dsc_2735.png"
+    caption: A blind person is identifying buttons.
+  image_2:
+    image: ''
+    caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
