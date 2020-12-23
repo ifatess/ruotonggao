@@ -16,7 +16,8 @@ page_sections:
     image: ''
     alt_text: ''
   content: "<strong>Inspiration<br><br></strong>Inspired by a DIY craft video on Youtube,
-    I created a Wi-Fi communication 3D pinball game that was based on Arduino."
+    I created a Wi-Fi communication 3D pinball game that was based on Arduino.<br><br><strong>My
+    Role<br></strong>Inspiration proposing, programming, UI designing"
   cta:
     enabled: false
     url: ''
