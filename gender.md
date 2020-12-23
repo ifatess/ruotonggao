@@ -58,6 +58,9 @@ page_sections:
     11 years old.</p><p>Being rebellious, resents interference from her parents or
     teachers, has a strong sense of self, and is more willing to communicate with
     classmates and friends than adults, or to be alone.</p>"
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/23/pp.png"
 - template: full-width-media-element
   block: media-1
   slug: ''
