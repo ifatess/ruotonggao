@@ -89,7 +89,11 @@ page_sections:
   media_alignment: Left
   headline: "<em>Draft 2</em><br>Break Down Period Stigma"
   slug: ''
-  content: ''
+  content: "<strong>Target<br></strong>Eliminate gender bias in career choices, hoping
+    that boys would be able to choose careers, such as nursing, without experiencing
+    any form of external pressure, whereas girls would be able to take advantage of
+    more opportunities in engineering.<br><br><strong>Genre</strong><br>quiz game,
+    2-player game, a combination of board game &amp; video game<br><br><strong>Gameplay</strong><br>"
   media:
     image: "/uploads/2020/12/23/16-1.png"
     alt_text: ''
