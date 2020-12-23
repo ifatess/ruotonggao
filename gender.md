@@ -43,8 +43,8 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/23/12-10.png"
-  caption: Through S.E.T. analysis, we focused on sex education for K-12. And we specified
-    our goals afterwards.
+  caption: Through S.E.T. analysis, we focused on sex education for K-12. Then we
+    specified our goals by asking questions and giving solutions.
   slug: ''
 - template: detail-content
   block: text-1
