@@ -97,5 +97,14 @@ page_sections:
   image: "/uploads/2020/12/23/47.png"
   slug: ''
   caption: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
