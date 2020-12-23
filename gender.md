@@ -96,7 +96,10 @@ page_sections:
     win.<br><br><strong>Genre</strong><br>quiz game, 2-player game, board game, flight
     chess<br><br><strong>Gameplay</strong><br>1. Similar to the flying chess mode:
     roll a dice at the starting point, one should answer the corresponding question
-    when stopping in a certain frame.<br>"
+    when stopping in a certain frame.<br>2. Three kinds of questions:<br>1/. Red frame:
+    press a position of the doll and say the adverse reaction there.<br>2/. Green
+    frame: introduce a commonly used drug.<br>3/. Blue frame: change sanitary napkins
+    for dolls.<br>3. Each zone represents a different time period of menstruation."
   media:
     image: "/uploads/2020/12/23/16-1.png"
     alt_text: ''
