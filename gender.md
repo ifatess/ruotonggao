@@ -118,7 +118,11 @@ page_sections:
   media_alignment: Right
   headline: Observations &amp; Feedback
   slug: ''
-  content: ''
+  content: We invited 20 children that were aged 6 to 12 to try our prototype and
+    provide feedback.<br><br>During our experiment, we observed that some children
+    demonstrated a sustained interest throughout the entire time, whereas some kids,
+    who had had few game experiences thus far, were not able to focus for a long time
+    and often got lost while following the game storytelling.
   media:
     image: "/uploads/2020/12/16/18-1.png"
     alt_text: ''
