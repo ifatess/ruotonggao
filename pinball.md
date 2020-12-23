@@ -103,7 +103,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Gameplay
   slug: ''
   content: Due to the non-instantaneous nature of wifi transmission, it is difficult
