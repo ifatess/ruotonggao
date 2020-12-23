@@ -41,8 +41,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Design the playfield with paper
-  content: Use wooden boards, rubber bands, glue, etc. to make a model of a ladder-like
-    slope structure
+  content: Borrowing from traditional 3D pinball games, we designed the prototype
+    of our game on paper at first. In addition to the bounce zone, I added a special
+    bonus area to make the game more innovative and creative.<br><br>I used wooden
+    boards, rubber bands, glue, etc. to make a model of a ladder-like slope structure.
   slug: ''
   media:
     image: "/uploads/2020/12/19/32.png"
