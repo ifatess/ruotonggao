@@ -105,9 +105,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: 'Data Analysis: Kano Model'
+  headline: Data Analysis
   slug: ''
-  content: ''
+  content: 'Our questions:<br><br>1. '
   media:
     image: ''
     alt_text: ''
