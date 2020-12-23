@@ -78,8 +78,8 @@ page_sections:
     the card (exp. a picture of a male nurse) and select the corresponding occupation
     in the game machine<br>3. Two players manipulate the character to play a scenario
     mini-game together, different conversations will trigger different storylines<br>4.
-    Read the back of the card (exp. the misunderstanding of male nurses and what we
-    should do) after finishing the game, write down your feelings, and exchange the
+    Read the back of the card (exp. the misunderstandings of male nurses and the correct
+    concepts) after finishing the game, write down your feelings, and exchange the
     card with the other player"
   media:
     image: "/uploads/2020/12/23/15-3.png"
