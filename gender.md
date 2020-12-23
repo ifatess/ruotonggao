@@ -131,7 +131,7 @@ page_sections:
   col_1:
     headline: Li Xinyi, 6, male
     slug: ''
-    content: '"This game is exciting!"'
+    content: 'Say: "This game is exciting!"<br>Do:<br>Feel:<br>Think:'
   col_2:
     headline: Liu Lifei, 4, female
     slug: ''
