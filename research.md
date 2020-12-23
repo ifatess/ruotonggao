@@ -101,7 +101,7 @@ page_sections:
   block: media-1
   caption: Youtube
   slug: ''
-  image: ''
+  image: "/uploads/2020/12/23/p-s.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
