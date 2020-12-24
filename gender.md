@@ -109,6 +109,11 @@ page_sections:
   image: "/uploads/2020/12/24/19.png"
   caption: Digital Game Demo
   slug: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Next, we refined Draft 1 for further design.
+  slug: ''
+  content: ''
 - template: full-width-media-element
   block: media-1
   caption: Prototype
