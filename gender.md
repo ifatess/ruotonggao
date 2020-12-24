@@ -106,6 +106,11 @@ page_sections:
     alt_text: ''
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/2020/12/24/19.png"
+  caption: Digital Game Demo
+  slug: ''
+- template: full-width-media-element
+  block: media-1
   caption: Prototype
   image: "/uploads/2020/12/23/17-1.png"
   slug: ''
