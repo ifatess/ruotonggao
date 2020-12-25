@@ -104,11 +104,6 @@ page_sections:
   media:
     image: "/uploads/2020/12/23/16-1.png"
     alt_text: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/12/24/19.png"
-  caption: Digital Game Demo
-  slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: Next, I refined Draft 1 for further design.
