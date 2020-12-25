@@ -128,6 +128,11 @@ page_sections:
     alt_text: ''
   slug: ''
   content: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/25/gender1.gif"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
