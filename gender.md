@@ -119,14 +119,9 @@ page_sections:
   caption: Prototype
   image: "/uploads/2020/12/23/17-1.png"
   slug: ''
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: ''
-  caption: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: User Interface
   media:
     image: "/uploads/2020/12/25/110.png"
