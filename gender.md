@@ -167,7 +167,8 @@ page_sections:
     slug: ''
     content: <strong>Say:</strong> "It's not as interesting as <em>Glory of Kings.</em>"<br><strong>Do:</strong>
       Played for a while but got distracted easily.<br><strong>Feel:</strong> This
-      game is so-so.<br><strong>Think:</strong> "I have never played such a game before."
+      game is so-so but with some new knowledge.<br><strong>Think:</strong> "This
+      is a challenging game."
   col_3:
     headline: Li Xiang, 12, male
     slug: ''
