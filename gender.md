@@ -127,7 +127,10 @@ page_sections:
     image: "/uploads/2020/12/25/111.png"
     alt_text: ''
   slug: ''
-  content: ''
+  content: Since it's a two-player game, the screen is separated into two parts.<br><br>Children
+    and parents play the game by touching the screen and select certain buttons to
+    achieve their goals. The game was designed to be competitive, in which players
+    get scores by answering questions and the one with the highest score wins.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/25/gender1.gif"
