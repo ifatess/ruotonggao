@@ -100,6 +100,11 @@ page_sections:
     alt_text: ''
   slug: ''
   content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/19/2526.png"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
