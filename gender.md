@@ -176,6 +176,9 @@ page_sections:
       Played with his parent for half an hour.<br><strong>Feel:</strong> Enjoyed the
       card exchange section.<br><strong>Think:</strong> "I learned a lot from this
       game."
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/25/imp.png"
 menu:
   main:
     weight: 4
