@@ -179,6 +179,11 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/12/25/imp.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/25/112.png"
+  slug: ''
+  caption: ''
 menu:
   main:
     weight: 4
