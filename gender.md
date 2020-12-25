@@ -111,7 +111,7 @@ page_sections:
   slug: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Next, we refined Draft 1 for further design.
+  headline: Next, I refined Draft 1 for further design.
   slug: ''
   content: ''
 - template: full-width-media-element
