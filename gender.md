@@ -164,7 +164,9 @@ page_sections:
   col_2:
     headline: Liu Lifei, 4, female
     slug: ''
-    content: ''
+    content: 'Say: "It''s not as interesting as <em>Glory of Kings.</em>"<br>Do: Played
+      for a while but got distracted easily.<br>Feel: This game is so-so.<br>Think:
+      "I have never played such a game before."'
   col_3:
     headline: Li Xiang, 12, male
     slug: ''
