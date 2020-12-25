@@ -131,6 +131,9 @@ page_sections:
   image: "/uploads/2020/12/25/113.png"
   caption: Interface Design
   slug: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/25/prev.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/25/gender1.gif"
