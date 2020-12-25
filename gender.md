@@ -172,10 +172,10 @@ page_sections:
   col_3:
     headline: Li Xiang, 12, male
     slug: ''
-    content: '<strong>Say:</strong> "Interesting, but it''s a little bit easy for
-      me<em>.</em>"<br><strong>Do:</strong> Played with his parent for half an hour.<br><strong>Feel:</strong>
-      Enjoyed the card exchange section.<br><strong>Think:</strong> "I learned a lot
-      from this game."  '
+    content: <strong>Say:</strong> "Interesting, but it's a little easy for me<em>.</em>"<br><strong>Do:</strong>
+      Played with his parent for half an hour.<br><strong>Feel:</strong> Enjoyed the
+      card exchange section.<br><strong>Think:</strong> "I learned a lot from this
+      game."
 menu:
   main:
     weight: 4
