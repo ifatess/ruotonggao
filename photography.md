@@ -96,7 +96,7 @@ page_sections:
   media_alignment: Right
   headline: I. Where does home begin?
   media:
-    image: "/uploads/2020/12/19/2526.png"
+    image: ''
     alt_text: ''
   slug: ''
   content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>"
