@@ -128,7 +128,7 @@ page_sections:
     get scores by answering questions and the one with the highest score wins.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/25/113.png"
+  image: "/uploads/2020/12/25/114.png"
   caption: Interface Design
   slug: ''
 - template: simple-header
