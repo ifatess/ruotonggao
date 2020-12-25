@@ -160,8 +160,8 @@ page_sections:
     headline: Li Xinyi, 6, male
     slug: ''
     content: '<strong>Say:</strong> "This game is exciting!"<br><strong>Do: </strong>Kept
-      playing for an hour.<br><strong>Feel:</strong> Curious about the stories.<br><strong>Think:</strong>
-      "There are too many texts in this game."'
+      playing for an hour.<br><strong>Feel:</strong> Curious about the stories and
+      characters.<br><strong>Think:</strong> "There are too many texts in this game."'
   col_2:
     headline: Liu Lifei, 4, female
     slug: ''
