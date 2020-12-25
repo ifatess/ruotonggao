@@ -127,6 +127,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: User Interface
+  media:
+    image: "/uploads/2020/12/25/110.png"
+    alt_text: ''
+  slug: ''
+  content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: Observations &amp; Feedback
   slug: ''
   content: We invited 20 children that were aged 6 to 12 to try our prototype and
