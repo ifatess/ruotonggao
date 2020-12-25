@@ -145,6 +145,9 @@ page_sections:
     Tatsuo Suzuki <em>https://huxleyparlour.com/artists/tatsuo-suzuki/</em><br>3.
     Gao Shan<em> https://radiichina.com/gao-shan-photography/</em>
   slug: ''
+- template: simple-footer
+  block: footer-1
+  content: Thanks.
 menu:
   main:
     weight: 3
