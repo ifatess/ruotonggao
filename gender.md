@@ -124,7 +124,7 @@ page_sections:
   media_alignment: Left
   headline: User Interface
   media:
-    image: "/uploads/2020/12/25/110.png"
+    image: "/uploads/2020/12/25/111.png"
     alt_text: ''
   slug: ''
   content: ''
