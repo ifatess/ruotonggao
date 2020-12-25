@@ -179,6 +179,9 @@ page_sections:
   image: "/uploads/2020/12/25/112.png"
   slug: ''
   caption: ''
+- template: simple-footer
+  block: footer-1
+  content: Thanks.
 menu:
   main:
     weight: 4
