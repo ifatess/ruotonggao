@@ -102,7 +102,7 @@ page_sections:
     frame: introduce a commonly used drug.<br>3/. Blue frame: change sanitary napkins
     for dolls.<br>3. Each zone represents a different time period of menstruation."
   media:
-    image: "/uploads/2020/12/23/16-1.png"
+    image: "/uploads/2020/12/31/16-2.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
