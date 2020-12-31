@@ -190,6 +190,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thanks.
+- template: full-width-media-element
+  block: media-1
+  slug: "#demo"
+  image: ''
+  caption: ''
 menu:
   main:
     weight: 4
