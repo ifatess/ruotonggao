@@ -194,7 +194,7 @@ page_sections:
   block: media-1
   slug: "#demo"
   image: ''
-  caption: ''
+  caption: demo
 menu:
   main:
     weight: 4
