@@ -83,7 +83,7 @@ page_sections:
     concepts) after finishing the game, write down your feelings, and exchange the
     card with the other player."
   media:
-    image: "/uploads/2020/12/23/15-3.png"
+    image: "/uploads/2020/12/31/15-4.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
