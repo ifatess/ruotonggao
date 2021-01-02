@@ -97,6 +97,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/21/35.png"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Finished Product
+  content: <a href="" title="app">Click here to download the app</a>
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left

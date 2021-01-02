@@ -28,6 +28,14 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/02/地图.png"
     caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/01/02/untitled-42.jpg"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 menu:
   main:
     weight: 6
