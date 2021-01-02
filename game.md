@@ -37,6 +37,9 @@ page_sections:
   image: "/uploads/2021/01/02/规则.png"
   slug: ''
   caption: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/01/02/detail.png"
 - template: 2-column-media-element
   block: media-2
   image_1:
