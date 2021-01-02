@@ -56,6 +56,9 @@ page_sections:
   caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
     established by me'
   slug: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/01/02/ard.png"
 - template: 2-column-media-element
   block: media-2
   image_1:
