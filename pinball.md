@@ -60,7 +60,7 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2021/01/02/311.png"
-    caption: ''
+    caption: designing a reasonable circuit
   image_2:
     image: "/uploads/2021/01/02/312.jpg"
     caption: connecting the different parts by wires
