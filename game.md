@@ -54,7 +54,7 @@ page_sections:
   caption: ''
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: Thank you.
 menu:
   main:
     weight: 6
