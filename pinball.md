@@ -106,7 +106,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: "/uploads/2021/01/02/312.png"
+  image: "/uploads/2021/01/02/312-1.png"
   caption: ''
 - template: content-feature
   block: feature-1
