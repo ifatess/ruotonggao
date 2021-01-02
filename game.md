@@ -18,6 +18,9 @@ page_sections:
     alt_text: ''
   slug: ''
   content: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/01/02/ii.png"
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -55,6 +58,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thank you.
+- template: simple-header
+  block: header-3
+  logo: ''
 menu:
   main:
     weight: 6
