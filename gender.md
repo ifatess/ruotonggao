@@ -133,6 +133,14 @@ page_sections:
   slug: ''
 - template: simple-header
   block: header-3
+  logo: "/uploads/2021/01/02/demo.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: demo
+  slug: "#demo"
+  content: ''
+- template: simple-header
+  block: header-3
   logo: "/uploads/2020/12/25/prev.png"
 - template: full-width-media-element
   block: media-1
@@ -144,14 +152,6 @@ page_sections:
   image: "/uploads/2020/12/25/gender2.gif"
   slug: ''
   caption: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2021/01/02/demo.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: demo
-  slug: "#demo"
-  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
