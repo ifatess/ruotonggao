@@ -32,7 +32,7 @@ page_sections:
     url: /ruotonggao/uploads/GaoRuotong-CV.pdf" download="GaoRuotong-CV.pdf
     button_text: Download CV
   image:
-    image: "/uploads/2020/12/09/homepage3.png"
+    image: "/uploads/2021/01/02/homepage-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
