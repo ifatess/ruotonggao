@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   cta:
-    url: "/"
+    url: "/ruotonggao"
     button_text: Back Home
   logo: "/uploads/2020/12/04/1.png"
   navigation: []
