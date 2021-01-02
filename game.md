@@ -9,12 +9,20 @@ page_sections:
   image:
     image: "/uploads/2021/01/02/介绍.png"
     alt_text: ''
-  headline: 'Game: Do Androids Dream of Electric Sheep?'
+  headline: ''
   content: ''
   cta:
     enabled: false
     url: ''
     button_text: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/01/02/介绍.png"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 menu:
   main:
     weight: 6
