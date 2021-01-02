@@ -13,9 +13,9 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: ''
+    image: "/uploads/2021/01/02/game.png"
     alt_text: ''
-  headline: ''
+  headline: 'Game: Do Androids Dream of Electric Sheep?'
   content: ''
   cta:
     enabled: false
