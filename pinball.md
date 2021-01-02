@@ -103,6 +103,11 @@ page_sections:
   content: <a href="/ruotonggao/uploads/app-debug.apk&quot; download=&quot;app-debug.apk"
     title="app">Click here to download the app</a>
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
