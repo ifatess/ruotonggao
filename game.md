@@ -39,7 +39,7 @@ page_sections:
     image: "/uploads/2021/01/02/2.png"
     caption: ''
   image_2:
-    image: "/uploads/2021/01/02/2.png"
+    image: "/uploads/2021/01/02/photo1.png"
     caption: ''
 menu:
   main:
