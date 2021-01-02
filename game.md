@@ -26,7 +26,7 @@ page_sections:
     image: "/uploads/2021/01/02/规则.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/01/02/地图.png"
     caption: ''
 menu:
   main:
