@@ -62,7 +62,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/01/02/311.png"
+    image: "/uploads/2021/01/02/311-1.png"
     caption: designing a reasonable circuit
   image_2:
     image: "/uploads/2021/01/02/312.jpg"
