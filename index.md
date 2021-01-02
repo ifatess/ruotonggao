@@ -12,6 +12,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
+  - link: "#game"
+    link_text: Game
   - link: "#sexedu"
     link_text: Sex Edu
   - link: "#theblind"
@@ -48,11 +50,12 @@ page_sections:
     alt_text: Alt Text
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: 'Game: Do Androids Dream of Electric Sheep?'
   slug: "#game"
-  content: "<strong>Summary</strong><br>A board game design focusing on concept design
-    and gameplay. A story between androids and humans."
+  content: <strong>Summary</strong><br>A board game design focusing on concept design
+    and gameplay. A story between androids and humans.<br><br><a href="https://ifatess.life/ruotonggao/game"
+    title="Game">Click here to see the project</a>
   media:
     image: "/uploads/2021/01/02/game.png"
     alt_text: ''
