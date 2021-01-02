@@ -3,12 +3,13 @@ layout: blocks
 title: Research
 date: 2020-12-06T16:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
   logo: "/uploads/2020/12/04/1.png"
-  navigation:
-  - link_text: Next Project
-    link: "/pinball"
+  cta:
+    url: "/pinball"
+    button_text: Next Project
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   headline: <span class="light">Ergonomic Comfort Research of Elevator Button</span>
