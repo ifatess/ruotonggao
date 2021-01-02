@@ -29,6 +29,9 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/02/灵感.gif"
     caption: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/01/02/rules.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/02/规则.png"
@@ -58,9 +61,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thank you.
-- template: simple-header
-  block: header-3
-  logo: ''
 menu:
   main:
     weight: 6
