@@ -3,6 +3,10 @@ layout: blocks
 title: Game
 date: 2020-11-30T16:00:00.000+00:00
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -41,6 +45,14 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/02/photo1.png"
     caption: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/01/02/1-9-detail.png"
+  slug: ''
+  caption: ''
+- template: simple-footer
+  block: footer-1
+  content: ''
 menu:
   main:
     weight: 6
