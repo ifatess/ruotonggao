@@ -130,5 +130,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thanks.
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/02/home.png"
+  navigation:
+  - link: "/pinball"
+    link_text: Next Project
 
 ---
