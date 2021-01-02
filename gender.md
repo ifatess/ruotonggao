@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2020/12/04/1.png"
   navigation:
-  - link: "/research"
+  - link: "/game"
     link_text: Next Project
 - template: hero-banner-w-image
   block: hero-2
