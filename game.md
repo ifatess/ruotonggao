@@ -36,7 +36,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/01/02/untitled-42.jpg"
+    image: "/uploads/2021/01/02/2.png"
     caption: ''
   image_2:
     image: "/uploads/2021/01/02/2.png"
