@@ -50,13 +50,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Persona
-  content: "<h3>Participant A</h3><p></p><p>Male, 7 years old.</p><p>Lively and bold
-    personality, strong curiosity about novel things, likes to ask questions but lacks
-    the perseverance to investigate, not very enterprising, plays more with same-sex
-    friends, willing to communicate with parents.</p><h3>Participant B</h3><p>Female,
-    11 years old.</p><p>Being rebellious, resents interference from her parents or
-    teachers, has a strong sense of self, and is more willing to communicate with
-    classmates and friends than adults, or to be alone.</p>"
+  content: "<p>Participant A: Male, 7 years old.</p><p>Lively and bold personality,
+    strong curiosity about novel things, likes to ask questions but lacks the perseverance
+    to investigate, not very enterprising, plays more with same-sex friends, willing
+    to communicate with parents.</p><p></p><p>Participant B: Female, 11 years old.</p><p>Being
+    rebellious, resents interference from her parents or teachers, has a strong sense
+    of self, and is more willing to communicate with classmates and friends than adults,
+    or to be alone.</p>"
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/12/23/pp.png"
