@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/12/04/1.png"
   cta:
-    url: "/pinball"
+    url: "/ruotonggao/pinball"
     button_text: Next Project
   navigation: []
 - template: hero-banner-w-image
