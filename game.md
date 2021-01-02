@@ -21,7 +21,7 @@ page_sections:
     image: "/uploads/2021/01/02/介绍.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/01/02/灵感.gif"
     caption: ''
 menu:
   main:
