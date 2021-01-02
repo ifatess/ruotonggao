@@ -9,6 +9,13 @@ page_sections:
   navigation:
   - link: "/research"
     link_text: Next Project
+- template: detail-content
+  block: text-1
+  headline: 'Game: Do Androids Dream of Electric Sheep?'
+  content: "<p>I designed this game out of my love for the novel <em>Do Androids Dream
+    of Electric Sheep?</em> , as well as the cyberpunk style. I made an attempt at
+    game design in this fashion, and transformed my favorite novel into playable media,
+    where I can experience the role of both androids and humans in the virtual future.</p>"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
