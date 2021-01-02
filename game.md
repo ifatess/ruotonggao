@@ -5,8 +5,10 @@ date: 2020-11-30T16:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
-  navigation: []
+  logo: "/uploads/2020/12/04/1.png"
+  navigation:
+  - link: "/research"
+    link_text: Next Project
 - template: content-feature
   block: feature-1
   media_alignment: Right
