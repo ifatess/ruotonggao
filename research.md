@@ -128,9 +128,6 @@ page_sections:
   media:
     image: "/uploads/2020/12/23/48.png"
     alt_text: ''
-- template: simple-footer
-  block: footer-1
-  content: Thanks.
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
