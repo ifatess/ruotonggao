@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/12/04/1.png"
   navigation: []
   cta:
-    url: "/research"
+    url: "/ruotonggao/research"
     button_text: Next Project
 - template: hero-banner-w-image
   block: hero-2
