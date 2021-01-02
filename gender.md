@@ -10,12 +10,6 @@ page_sections:
     url: "/game"
     button_text: Next Project
   navigation: []
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2020/12/04/1.png"
-  navigation:
-  - link: "/game"
-    link_text: Next Project
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
@@ -45,9 +39,6 @@ page_sections:
     headline: " Step 3"
     slug: ''
     content: Tests, Feedbacks and Re-Design
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/22/exp.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/23/12-10.png"
@@ -67,6 +58,9 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/12/23/pp.png"
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/22/exp.png"
 - template: full-width-media-element
   block: media-1
   slug: ''
@@ -202,6 +196,12 @@ page_sections:
   image: "/uploads/2020/12/25/112.png"
   slug: ''
   caption: ''
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/02/home.png"
+  navigation:
+  - link: "/game"
+    link_text: Next Project
 menu:
   main:
     weight: 4
