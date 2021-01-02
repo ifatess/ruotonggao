@@ -3,12 +3,13 @@ layout: blocks
 title: Photography
 date: 2020-11-30T16:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
+  cta:
+    url: "/"
+    button_text: Back Home
   logo: "/uploads/2020/12/04/1.png"
-  navigation:
-  - link: "/"
-    link_text: Back Home
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   headline: Photography on Family Bonds
@@ -145,9 +146,10 @@ page_sections:
     Tatsuo Suzuki <em>https://huxleyparlour.com/artists/tatsuo-suzuki/</em><br>3.
     Gao Shan<em> https://radiichina.com/gao-shan-photography/</em>
   slug: ''
-- template: simple-footer
-  block: footer-1
-  content: Thanks.
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/02/home.png"
+  navigation: []
 menu:
   main:
     weight: 3
