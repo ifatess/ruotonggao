@@ -67,6 +67,15 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/02/312.jpg"
     caption: connecting the different parts by wires
+- template: detail-content
+  block: text-1
+  content: "<p><strong>Normal Score:<br></strong>The longer the time between the start
+    of the ball and the failure, the higher the score. Controlled by buttons on the
+    phone.<br><br><strong>Bonus Score:<br></strong>If the ball and sensor contact
+    triggers the sensor, the chip will return the information to the Android terminal,
+    the player will get additional bonus rewards. The more you touch the sensor, the
+    higher the score.  </p>"
+  headline: 'Highlight: Score Section'
 - template: content-feature
   block: feature-1
   media_alignment: Right
