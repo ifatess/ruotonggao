@@ -12,10 +12,10 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
-  - link: "#game"
-    link_text: Game
   - link: "#sexedu"
     link_text: Sex Edu
+  - link: "#game"
+    link_text: Game
   - link: "#theblind"
     link_text: The Blind
   - link: "#pinball"
