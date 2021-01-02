@@ -34,7 +34,7 @@ page_sections:
     image: "/uploads/2021/01/02/untitled-42.jpg"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/01/02/2.png"
     caption: ''
 menu:
   main:
