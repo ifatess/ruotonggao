@@ -56,19 +56,14 @@ page_sections:
   caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
     established by me'
   slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  media:
-    image: "/uploads/2020/12/22/33-4.png"
-    alt_text: ''
-  headline: Develop the Arduino Board
-  slug: ''
-  content: The task of controlling the servo, establishing communication, and adding
-    points through the photosensitive sensor on the Arduino board requires connecting
-    the different parts by wires and designing a reasonable circuit.<br><br>Two drivers,
-    a photosensitive sensor, and an ESP8266 board (containing a Wi-Fi module) were
-    attached to the Arduino board.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/01/02/311.png"
+    caption: ''
+  image_2:
+    image: "/uploads/2021/01/02/312.jpg"
+    caption: connecting the different parts by wires
 - template: content-feature
   block: feature-1
   media_alignment: Right
