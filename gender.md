@@ -144,6 +144,9 @@ page_sections:
   image: "/uploads/2020/12/25/gender2.gif"
   slug: ''
   caption: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/01/02/demo.png"
 - template: 1-column-text
   block: one-column-1
   headline: demo
