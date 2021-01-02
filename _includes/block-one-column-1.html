@@ -1,10 +1,19 @@
 <section id="{{ section.slug | slugify }}" class="block block-one-column-1">
   <div class="container">
+    {% if section.headline == "demo" %}
+    <p class="codepen" data-height="531" data-theme-id="light" data-default-tab="js,result" data-user="ifatess" data-slug-hash="JjRLKOx" style="height: 531px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="game demo">
+    <span>See the Pen <a href="https://codepen.io/ifatess/pen/JjRLKOx">
+    game demo</a> by ifatess (<a href="https://codepen.io/ifatess">@ifatess</a>)
+    on <a href="https://codepen.io">CodePen</a>.</span>
+    </p>
+    <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+    {% else %}
     <div class="columns">
       <div class="column">
         <h3>{{ section.headline }}</h3>
         <p>{{ section.content }}</p>
       </div>
     </div>
+    {% endif %}
   </div>
 </section>
