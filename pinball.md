@@ -3,12 +3,13 @@ layout: blocks
 title: Pinball
 date: 2020-11-30T16:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
   logo: "/uploads/2020/12/04/1.png"
-  navigation:
-  - link: "/photography"
-    link_text: Next Project
+  cta:
+    url: "/photography"
+    button_text: Next Project
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
