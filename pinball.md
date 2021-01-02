@@ -76,25 +76,14 @@ page_sections:
     the player will get additional bonus rewards. The more you touch the sensor, the
     higher the score.  </p>"
   headline: 'Highlight: Score Section'
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: 'Highlight: Score Section'
-  content: "<strong>Normal Score:<br></strong>The longer the time between the start
-    of the ball and the failure, the higher the score. Controlled by buttons on the
-    phone.<br><br><strong>Bonus Score:<br></strong>If the ball and sensor contact
-    triggers the sensor, the chip will return the information to the Android terminal,
-    the player will get additional bonus rewards. The more you touch the sensor, the
-    higher the score."
-  media:
+- template: 2-column-media-element
+  block: media-2
+  image_1:
     image: "/uploads/2020/12/23/34-1.png"
-    alt_text: ''
-  slug: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/12/21/pinball3.gif"
-  caption: Preview of the procedure
-  slug: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
