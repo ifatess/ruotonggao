@@ -7,7 +7,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2021/01/02/介绍.png"
+    image: "/uploads/2021/01/02/draft.png"
     alt_text: ''
   headline: ''
   content: ''
