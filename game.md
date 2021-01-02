@@ -27,12 +27,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: 'Game: Do Androids Dream of Electric Sheep?'
+  headline: Draft and A Gameplay Summary
   media:
     image: "/uploads/2021/01/02/draft.png"
     alt_text: ''
   slug: ''
-  content: ''
+  content: This game is for 2-4 players. Players take on the role of one of the androids
+    and humans (whose names inspired by the movie <em>Blade Runner</em>), collecting
+    <em>Memory </em>as many as possible<em> </em>to win the game. In the game, players
+    can gain <em>Electricity</em> or <em>Memory</em>, own or loot others' electric
+    sheep and go to the <em>Rooftop</em> with them. To win the game, players need
+    to judge the timing of decisions, cooperate with their teammates, and make full
+    use of their character skills to gain victory.
 - template: simple-header
   block: header-3
   logo: "/uploads/2021/01/02/ii.png"
