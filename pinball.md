@@ -131,9 +131,12 @@ page_sections:
   caption: Video
   slug: ''
   image: "/uploads/2020/12/21/pinball.mov"
-- template: simple-footer
-  block: footer-1
-  content: Thanks.
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/02/home.png"
+  navigation:
+  - link_text: Next Project
+    link: "/photography"
 menu:
   main:
     weight: 5
