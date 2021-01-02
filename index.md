@@ -79,7 +79,7 @@ page_sections:
     a neighborhood, a school, and stations in Northern China.<br><br><a href="/ruotonggao/photography"
     title="Photography">Click here to see the project</a>
   media:
-    image: "/uploads/2020/12/10/photo.png"
+    image: "/uploads/2021/01/02/photo-1.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
