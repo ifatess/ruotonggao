@@ -3,6 +3,13 @@ layout: blocks
 title: Gender
 date: 2020-11-30T16:00:00.000+00:00
 page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2020/12/04/1.png"
+  cta:
+    url: "/game"
+    button_text: Next Project
+  navigation: []
 - template: navigation-header
   block: header-1
   logo: "/uploads/2020/12/04/1.png"
@@ -195,9 +202,6 @@ page_sections:
   image: "/uploads/2020/12/25/112.png"
   slug: ''
   caption: ''
-- template: simple-footer
-  block: footer-1
-  content: Thanks.
 menu:
   main:
     weight: 4
