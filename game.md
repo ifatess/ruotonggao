@@ -3,10 +3,13 @@ layout: blocks
 title: Game
 date: 2020-11-30T16:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
   logo: "/uploads/2020/12/04/1.png"
   navigation: []
+  cta:
+    url: "/research"
+    button_text: Next Project
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
@@ -80,9 +83,6 @@ page_sections:
   image: "/uploads/2021/01/02/1-9-detail.png"
   slug: ''
   caption: ''
-- template: simple-footer
-  block: footer-1
-  content: Thank you.
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
