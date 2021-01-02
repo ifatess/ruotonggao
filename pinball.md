@@ -48,7 +48,7 @@ page_sections:
     boards, rubber bands, glue, etc. to make a model of a ladder-like slope structure.
   slug: ''
   media:
-    image: "/uploads/2020/12/19/32.png"
+    image: "/uploads/2021/01/02/32-1-1.png"
     alt_text: ''
 - template: full-width-media-element
   block: media-1
