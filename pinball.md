@@ -82,7 +82,7 @@ page_sections:
     image: "/uploads/2020/12/23/34-1.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/01/02/pinballl.gif"
     caption: ''
 - template: content-feature
   block: feature-1
