@@ -144,6 +144,11 @@ page_sections:
   image: "/uploads/2020/12/25/gender2.gif"
   slug: ''
   caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: demo
+  slug: "#demo"
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -190,11 +195,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Thanks.
-- template: full-width-media-element
-  block: media-1
-  slug: "#demo"
-  image: ''
-  caption: demo
 menu:
   main:
     weight: 4
