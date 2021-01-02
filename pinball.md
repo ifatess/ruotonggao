@@ -100,8 +100,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Finished Product
-  content: <a href="/ruotonggao/uploads/app-debug.apk&quot; download=&quot;app-debug.apk"
-    title="app">Click here to download the app</a>
+  content: <a href="/ruotonggao/uploads/app-debug.apk" title="app">Click here to download
+    the app</a>
   slug: ''
 - template: full-width-media-element
   block: media-1
