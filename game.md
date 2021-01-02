@@ -16,7 +16,10 @@ page_sections:
     image: "/uploads/2021/01/02/game.png"
     alt_text: ''
   headline: 'Game: Do Androids Dream of Electric Sheep?'
-  content: ''
+  content: I designed this game out of my love for the novel <em>Do Androids Dream
+    of Electric Sheep?</em> , as well as the cyberpunk style. I made an attempt at
+    game design in this fashion, and transformed my favorite novel into playable media,
+    where I can experience the role of both androids and humans in the virtual future.
   cta:
     enabled: false
     url: ''
