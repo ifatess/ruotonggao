@@ -37,7 +37,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Gender &amp; Career Game Design
   content: <strong>Summary</strong><br>An interactive educational game designed for
     K-12, aiming at eliminating gender bias in their career choices.<br><br><a href="/ruotonggao/gender"
@@ -60,7 +60,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Wi-Fi-Based Arduino Pinball Machine Design
   slug: "#pinball"
   content: <strong>Summary<br></strong>A Wi-Fi communication 3D pinball game based
