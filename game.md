@@ -28,7 +28,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/01/02/规则.png"
+    image: "/uploads/2021/01/02/untitled-42.jpg"
     caption: ''
   image_2:
     image: "/uploads/2021/01/02/地图.png"
