@@ -151,7 +151,7 @@ page_sections:
     other than listening to the radio, living life with boredom and depression. Therefore,
     game accessibility is considered a critical issue within the Human-computer interaction
     field and an issue that I endeavor to address.<br><br><strong><em>Pursued on My
-    Own<br></em></strong><em>Individual Work</em>"
+    Own<br><br>Individual Work</em></strong>"
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
