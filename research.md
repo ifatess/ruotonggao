@@ -144,7 +144,14 @@ page_sections:
     alt_text: ''
   headline: '2048: A Game for the Visually Impaired'
   slug: ''
-  content: ''
+  content: "<strong>My Goal</strong><br>Although accessible technology such as screen
+    readers and magnifiers are available to help the disabled to interact, the entertainment
+    needs of people with disabilities, especially the visually impaired, are often
+    overlooked. Many of the blind people I met do not have any entertainment activities
+    other than listening to the radio, living life with boredom and depression. Therefore,
+    game accessibility is considered a critical issue within the Human-computer interaction
+    field and an issue that I endeavor to address.<br><br><strong><em>Pursued on My
+    Own<br></em></strong><em>Individual Work</em>"
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
