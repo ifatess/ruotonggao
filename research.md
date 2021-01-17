@@ -140,7 +140,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: ''
+  image: "/uploads/2021/01/17/41-1.png"
   caption: ''
 
 ---
