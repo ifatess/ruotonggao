@@ -136,11 +136,15 @@ page_sections:
   slug: ''
   image: "/uploads/2021/01/17/41-1.png"
   caption: ''
-- template: full-width-media-element
-  block: media-1
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2021/01/17/freeanimatediphonex_00000.gif"
+    alt_text: ''
+  headline: ''
   slug: ''
-  image: "/uploads/2021/01/17/freeanimatediphonex_00000.gif"
-  caption: ''
+  content: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
