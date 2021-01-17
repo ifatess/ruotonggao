@@ -131,16 +131,21 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2021/01/17/results.png"
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: "/uploads/2021/01/17/41-1.png"
+  caption: ''
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
   navigation:
   - link: "/pinball"
     link_text: Next Project
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: "/uploads/2021/01/17/41-1.png"
-  caption: ''
 
 ---
