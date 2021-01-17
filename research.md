@@ -137,5 +137,10 @@ page_sections:
   navigation:
   - link: "/pinball"
     link_text: Next Project
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 
 ---
