@@ -12,7 +12,7 @@ page_sections:
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
-  headline: <span class="light">Ergonomic Comfort Research of Elevator Button</span>
+  headline: <span class="light">User Experience Research of Elevator Buttons</span>
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
     image: ''
