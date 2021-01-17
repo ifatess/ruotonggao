@@ -62,7 +62,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Ergonomic Comfort Research of Elevator Button
+  headline: User Experience Research of Elevator Buttons
   content: <strong>Summary<br></strong>Collaborating with Fujitec Elevator Company,
     we interviewed visually impaired people and designed easily identifiable elevator
     buttons for them.<br><br><a href="/ruotonggao/research" title="Research">Click
