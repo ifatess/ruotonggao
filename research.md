@@ -128,6 +128,9 @@ page_sections:
   media:
     image: "/uploads/2020/12/23/48.png"
     alt_text: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/01/17/results.png"
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
