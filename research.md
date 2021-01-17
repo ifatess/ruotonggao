@@ -142,7 +142,7 @@ page_sections:
   media:
     image: "/uploads/2021/01/17/freeanimatediphonex_00000.gif"
     alt_text: ''
-  headline: ''
+  headline: '2048: A Game for the Visually Impaired'
   slug: ''
   content: ''
 - template: navigation-header
