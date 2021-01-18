@@ -10,12 +10,17 @@
         </figure>
       </div>
       <div class="column">
+        {% if section.image_2.caption == "demo" %}
+        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqjoplyvWUHTQIA272TzI38%2F2048-Preview%3Fnode-id%3D0%253A3%26frame-preset-name%3DiPhone%252011%2520Pro%2520Max%26scaling%3Dscale-down" allowfullscreen>
+        </iframe>
+        {% else %}
         <figure>
             <img src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}" loading="lazy">
             {% if section.image_2.caption %}
             <figcaption>{{ section.image_2.caption }}</figcaption>
             {% endif %}
         </figure>
+        {% endif %}
       </div>
     </div>
   </div>
