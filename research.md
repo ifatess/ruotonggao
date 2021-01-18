@@ -182,12 +182,6 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/18/41-4.png"
     caption: ''
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/01/02/home.png"
-  navigation:
-  - link: "/pinball"
-    link_text: Next Project
 - template: detail-content
   block: text-1
   headline: 'Control: VoiceOver'
@@ -196,5 +190,11 @@ page_sections:
     item.</p></li></ul><p><strong>Gameboard</strong></p><ul><li><p>Tap once to select
     an item, and read it aloud.</p></li><li><p>Slide one finger from the screen to
     one direction until you feel the vibration then lift your finger.</p></li></ul>"
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/02/home.png"
+  navigation:
+  - link: "/pinball"
+    link_text: Next Project
 
 ---
