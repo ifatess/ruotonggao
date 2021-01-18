@@ -169,6 +169,11 @@ page_sections:
     slug: ''
     content: Large contrast<br>Large icons<br>Simple pages &amp; Small operability<br>Constricted
       in one screen<br>Time control
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/01/18/41-2.png"
+  slug: ''
+  caption: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
