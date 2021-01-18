@@ -1,5 +1,8 @@
 ---
 main:
+- url: "/ruotonggao/2048"
+  weight: 7
+  title: '2048'
 - weight: 2
   url: "/ruotonggao/research"
   title: Research
