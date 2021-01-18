@@ -193,14 +193,20 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2021/01/18/pro.png"
-- template: 2-column-media-element
-  block: media-2
-  image_2:
-    caption: demo
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
     image: ''
-  image_1:
-    image: "/uploads/2021/01/18/41-5.png"
-    caption: ''
+    alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: proto
+  slug: ''
+  content: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
