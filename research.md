@@ -163,8 +163,7 @@ page_sections:
     headline: Needs
     slug: ''
     content: Casual games that focus on gameplay<br>Transform common games into accessible
-      games<br>Simplify User Interface and transform interaction<br>Immersive but
-      not addictive gaming experience
+      ones<br>Simplify User Interface<br>Immersive but not addictive gaming experience
   col_3:
     headline: Points
     slug: ''
