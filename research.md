@@ -152,6 +152,21 @@ page_sections:
     game accessibility is considered a critical issue within the Human-computer interaction
     field and an issue that I endeavor to address.<br><br><strong><em>Pursued on My
     Own<br><br>Individual Work</em></strong>"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Insights
+    content: Lightweight<br>Similar gaming experience to healthy people<br>Easy to
+      operate<br>Fun to play
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
