@@ -200,7 +200,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: "/uploads/2021/01/18/41-5.png"
+    image: "/uploads/2021/01/18/41-51.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
