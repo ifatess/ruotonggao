@@ -14,7 +14,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2021/01/02/game.png"
+    image: "/uploads/2021/01/02/1-9-detail.png"
     alt_text: ''
   headline: 'Game: Do Androids Dream of Electric Sheep?'
   content: I designed this game out of my love for the novel <em>Do Androids Dream
