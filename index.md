@@ -93,7 +93,7 @@ page_sections:
     with a user interface on Android phones.<br><br><a href="/ruotonggao/pinball"
     title="Pinball">Click here to see the project</a>
   media:
-    image: "/uploads/2020/12/10/pinball.png"
+    image: "/uploads/2021/01/18/0-5.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
