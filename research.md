@@ -160,9 +160,11 @@ page_sections:
       operate<br>Fun to play
     slug: ''
   col_2:
-    headline: ''
+    headline: Needs
     slug: ''
-    content: ''
+    content: Casual games that focus on gameplay<br>Transform common games into accessible
+      games<br>Simplify User Interface and transform interaction<br>Immersive but
+      not addictive gaming experience
   col_3:
     headline: ''
     slug: ''
