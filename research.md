@@ -188,5 +188,12 @@ page_sections:
   navigation:
   - link: "/pinball"
     link_text: Next Project
+- template: detail-content
+  block: text-1
+  headline: 'Control: VoiceOver'
+  content: "<p>Homepage &amp; Settings</p><ul><li><p>Tap once to select an item, and
+    read it aloud.</p></li><li><p>Double to activate the selected item.</p></li></ul><p>Gameboard</p><ul><li><p>Tap
+    once to select an item, and read it aloud.</p></li><li><p>Slide one finger from
+    the screen to one direction until you feel the vibration then lift your finger.</p></li></ul>"
 
 ---
