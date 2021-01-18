@@ -73,7 +73,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: User Experience Research of Elevator Buttons
   content: <strong>Summary<br></strong>Collaborating with Fujitec Elevator Company,
     we interviewed visually impaired people and designed easily identifiable elevator
@@ -97,14 +97,14 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: Photography on Family Bonds
   slug: "#photography"
   content: <strong>Summary<br></strong>My feelings about family collected in a market,
     a neighborhood, a school, and stations in Northern China.<br><br><a href="/ruotonggao/photography"
     title="Photography">Click here to see the project</a>
   media:
-    image: "/uploads/2021/01/02/photo-1.png"
+    image: "/uploads/2021/01/18/0-6.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
