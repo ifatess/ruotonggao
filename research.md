@@ -166,9 +166,10 @@ page_sections:
       games<br>Simplify User Interface and transform interaction<br>Immersive but
       not addictive gaming experience
   col_3:
-    headline: ''
+    headline: Points
     slug: ''
-    content: ''
+    content: Large contrast<br>Large icons<br>Simple pages &amp; Small operability<br>Constricted
+      in one screen<br>Time control
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
