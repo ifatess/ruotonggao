@@ -58,7 +58,7 @@ page_sections:
     here to see the project</a>'
   slug: '2048'
   media:
-    image: "/uploads/2021/01/18/0-2.png"
+    image: "/uploads/2021/01/18/0-2-1.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
