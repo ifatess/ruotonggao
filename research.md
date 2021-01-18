@@ -180,7 +180,7 @@ page_sections:
     image: "/uploads/2021/01/18/41-3.png"
     caption: ''
   image_2:
-    image: ''
+    image: "/uploads/2021/01/18/41-4.png"
     caption: ''
 - template: navigation-header
   block: header-1
