@@ -195,7 +195,8 @@ page_sections:
   media_alignment: Right
   headline: Prototyping:<br>Mid-fi Model with Figma
   slug: ''
-  content: ''
+  content: Simplified 2048 Game:<br>Give hints when tapping certain sections on the
+    screen.<br>Give a description of the current progress.
   media:
     image: "/uploads/2021/01/18/41-51.png"
     alt_text: ''
