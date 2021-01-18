@@ -190,13 +190,10 @@ page_sections:
     item.</p></li></ul><p><strong>Gameboard</strong></p><ul><li><p>Tap once to select
     an item, and read it aloud.</p></li><li><p>Slide one finger from the screen to
     one direction until you feel the vibration then lift your finger.</p></li></ul>"
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2021/01/18/pro.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: 'Prototyping: Mid-fi Model with Figma'
+  headline: Prototyping:<br>Mid-fi Model with Figma
   slug: ''
   content: ''
   media:
