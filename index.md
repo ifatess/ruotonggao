@@ -41,7 +41,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: Gender &amp; Career Game Design
   content: <strong>Summary</strong><br>An interactive educational game designed for
     K-12, aiming at eliminating gender bias in their career choices.<br><br><a href="/ruotonggao/gender"
@@ -52,7 +52,7 @@ page_sections:
     alt_text: Alt Text
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: '<span class="light">2048: A Game for the Visually Impaired</span>'
   content: '<strong>Summary<br></strong>An accessible 2048 game designed for the visually
     impaired. Inspired by a user experience research: <a href="/ruotonggao/#theblind"
