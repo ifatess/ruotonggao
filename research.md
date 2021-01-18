@@ -174,6 +174,14 @@ page_sections:
   image: "/uploads/2021/01/18/41-2.png"
   slug: ''
   caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/01/18/41-3.png"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
