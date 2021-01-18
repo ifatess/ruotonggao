@@ -50,6 +50,17 @@ page_sections:
     alt_text: Alt Text
 - template: content-feature
   block: feature-1
+  media_alignment: Right
+  headline: '<span class="light">2048: A Game for the Visually Impaired</span>'
+  content: '<strong>Summary<br></strong>An accessible 2048 game designed for the visually
+    impaired. Inspired by a user experience research: <a href="/ruotonggao/#theblind"
+    title="research">link</a>.<br><br><a href="" title="">Click here to see the project</a>'
+  slug: '2048'
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
   media_alignment: Left
   headline: 'Game: Do Androids Dream of Electric Sheep?'
   slug: "#game"
