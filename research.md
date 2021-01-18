@@ -182,12 +182,6 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/18/41-4.png"
     caption: ''
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/01/02/home.png"
-  navigation:
-  - link: "/pinball"
-    link_text: Next Project
 - template: detail-content
   block: text-1
   headline: 'Control: VoiceOver'
@@ -199,5 +193,19 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2021/01/18/pro.png"
+- template: 2-column-media-element
+  block: media-2
+  image_2:
+    caption: demo
+    image: ''
+  image_1:
+    image: "/uploads/2021/01/18/41-5.png"
+    caption: ''
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/02/home.png"
+  navigation:
+  - link: "/pinball"
+    link_text: Next Project
 
 ---
