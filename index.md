@@ -64,7 +64,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: 'Game: Do Androids Dream of Electric Sheep?'
   slug: "#game"
   content: <strong>Summary</strong><br>A board game design focusing on concept design
@@ -75,7 +75,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: User Experience Research of Elevator Buttons
   content: <strong>Summary<br></strong>Collaborating with Fujitec Elevator Company,
     we interviewed visually impaired people and designed easily identifiable elevator
@@ -87,7 +87,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: Wi-Fi-Based Arduino Pinball Machine Design
   slug: "#pinball"
   content: <strong>Summary<br></strong>A Wi-Fi communication 3D pinball game based
@@ -99,7 +99,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Photography on Family Bonds
   slug: "#photography"
   content: <strong>Summary<br></strong>My feelings about family collected in a market,
