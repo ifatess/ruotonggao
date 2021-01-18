@@ -14,6 +14,8 @@ page_sections:
     link_text: About
   - link: "#sexedu"
     link_text: Sex Edu
+  - link: "#2048"
+    link_text: "2048"
   - link: "#game"
     link_text: Game
   - link: "#theblind"
