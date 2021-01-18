@@ -81,7 +81,7 @@ page_sections:
     here to see the project</a>
   slug: "#theblind"
   media:
-    image: "/uploads/2021/01/02/research-1.png"
+    image: "/uploads/2021/01/18/0-4.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
