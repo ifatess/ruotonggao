@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/12/04/1.png"
   cta:
-    url: "/ruotonggao/game"
+    url: "/ruotonggao/2048"
     button_text: Next Project
   navigation: []
 - template: hero-banner-w-image
@@ -200,7 +200,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
   navigation:
-  - link: "/game"
+  - link: "/2048"
     link_text: Next Project
 menu:
   main:
