@@ -69,7 +69,7 @@ page_sections:
     and gameplay. A story between androids and humans.<br><br><a href="https://ifatess.life/ruotonggao/game"
     title="Game">Click here to see the project</a>
   media:
-    image: "/uploads/2021/01/02/game.png"
+    image: "/uploads/2021/01/18/0-3.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
