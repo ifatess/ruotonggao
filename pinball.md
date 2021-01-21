@@ -24,11 +24,6 @@ page_sections:
     url: ''
     button_text: ''
   headline: <span class="light">Wi-Fi-Based Arduino Pinball Machine Design</span>
-- template: full-width-media-element
-  block: media-1
-  caption: Video
-  slug: ''
-  image: "/uploads/2020/12/21/pinball.mov"
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -128,6 +123,14 @@ page_sections:
   media:
     image: "/uploads/2020/12/21/36.svg"
     alt_text: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/21/video.png"
+- template: full-width-media-element
+  block: media-1
+  caption: Video
+  slug: ''
+  image: "/uploads/2020/12/21/pinball.mov"
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
