@@ -51,9 +51,11 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/02/灵感.gif"
     caption: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2021/01/02/rules.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Game Rules
+  slug: ''
+  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/02/规则.png"
