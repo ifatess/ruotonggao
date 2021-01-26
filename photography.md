@@ -89,11 +89,9 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/24.png"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: My Work
-  slug: ''
-  content: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/19/worklogo1.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -144,9 +142,11 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Reference
-  content: 1. Street Photography <em>https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/</em><br>2.
-    Tatsuo Suzuki <em>https://huxleyparlour.com/artists/tatsuo-suzuki/</em><br>3.
-    Gao Shan<em> https://radiichina.com/gao-shan-photography/</em>
+  content: 1. Street Photography <a href="https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/"
+    title="Street Photography">https://www.jamesmaherphotography.com/street_photography/what-is-street-photography/</a><br>2.
+    Tatsuo Suzuki <a href="https://huxleyparlour.com/artists/tatsuo-suzuki/" title="Tatsuo
+    Suzuki">https://huxleyparlour.com/artists/tatsuo-suzuki/</a><br>3. Gao Shan<em>
+    </em><a href="https://radiichina.com/gao-shan-photography/" title="Gao Shan">https://radiichina.com/gao-shan-photography/</a>
   slug: ''
 - template: navigation-header
   block: header-1
