@@ -83,17 +83,22 @@ page_sections:
   image: "/uploads/2021/01/02/1-9-detail.png"
   slug: ''
   caption: ''
+- template: 1-column-text
+  block: one-column-1
+  content: 'An Emotion Analysis on <em>VA-11 HALL-A: Cyberpunk Bartender Action</em>'
+  headline: ''
+  slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/01/26/analysis-363.pdf"
+  slug: ''
+  caption: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
   navigation:
   - link: "/research"
     link_text: Next Project
-- template: 1-column-text
-  block: one-column-1
-  content: 'An Emotion Analysis on <em>VA-11 HALL-A: Cyberpunk Bartender Action</em>'
-  headline: ''
-  slug: ''
 menu:
   main:
     weight: 6
