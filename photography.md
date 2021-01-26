@@ -89,9 +89,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/24.png"
     alt_text: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/19/worklogo1.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: My Work
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
