@@ -85,7 +85,8 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  content: 'An Emotion Analysis on <em>VA-11 HALL-A: Cyberpunk Bartender Action</em>'
+  content: '<strong>An Emotion Analysis on <em>VA-11 HALL-A: Cyberpunk Bartender Action<br></em></strong><a
+    href="" title="analysis">Download pdf</a>'
   headline: ''
   slug: ''
 - template: navigation-header
