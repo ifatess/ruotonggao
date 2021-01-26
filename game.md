@@ -88,11 +88,6 @@ page_sections:
   content: 'An Emotion Analysis on <em>VA-11 HALL-A: Cyberpunk Bartender Action</em>'
   headline: ''
   slug: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/01/26/analysis-363.png"
-  slug: ''
-  caption: ''
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/02/home.png"
