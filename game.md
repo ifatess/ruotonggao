@@ -40,9 +40,11 @@ page_sections:
     sheep and go to the <em>Rooftop</em> with them. To win the game, players need
     to judge the timing of decisions, cooperate with their teammates, and make full
     use of their character skills to gain victory.
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2021/01/02/ii.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Introduction & Inspirations
+  slug: ''
+  content: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
