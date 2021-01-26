@@ -39,9 +39,11 @@ page_sections:
     headline: " Step 3"
     slug: ''
     content: Tests, Feedbacks and Re-Design
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/22/exp.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Explorations
+  slug: ''
+  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/23/12-10.png"
@@ -210,11 +212,6 @@ page_sections:
   navigation:
   - link: "/2048"
     link_text: Next Project
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  slug: ''
-  content: ''
 menu:
   main:
     weight: 4
