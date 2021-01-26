@@ -89,6 +89,11 @@ page_sections:
   navigation:
   - link: "/research"
     link_text: Next Project
+- template: 1-column-text
+  block: one-column-1
+  content: 'An Emotion Analysis on <em>VA-11 HALL-A: Cyberpunk Bartender Action</em>'
+  headline: ''
+  slug: ''
 menu:
   main:
     weight: 6
