@@ -128,9 +128,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/23/48.png"
     alt_text: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2021/01/17/results.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Results
+  slug: ''
+  content: ''
 - template: full-width-media-element
   block: media-1
   slug: ''
@@ -142,5 +144,20 @@ page_sections:
   navigation:
   - link: "/pinball"
     link_text: Next Project
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
 
 ---
