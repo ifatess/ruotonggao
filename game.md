@@ -86,7 +86,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   content: '<strong>An Emotion Analysis on <em>VA-11 HALL-A: Cyberpunk Bartender Action<br></em></strong><a
-    href="" title="analysis">Download pdf</a>'
+    href="https://github.com/ifatess/tree/master/ruotonggao/uploads/Analysis.pdf&quot;
+    download=&quot;Analysis.pdf" title="analysis">Download pdf</a>'
   headline: ''
   slug: ''
 - template: navigation-header
