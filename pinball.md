@@ -123,9 +123,11 @@ page_sections:
   media:
     image: "/uploads/2020/12/21/36.svg"
     alt_text: ''
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/21/video.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Check How it Works!
+  slug: ''
+  content: ''
 - template: full-width-media-element
   block: media-1
   caption: Video
@@ -137,6 +139,11 @@ page_sections:
   navigation:
   - link_text: Next Project
     link: "/photography"
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
 menu:
   main:
     weight: 5
