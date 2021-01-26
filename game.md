@@ -90,7 +90,7 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/01/26/analysis-363.pdf"
+  image: "/uploads/2021/01/26/analysis-363.png"
   slug: ''
   caption: ''
 - template: navigation-header
