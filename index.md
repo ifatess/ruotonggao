@@ -48,7 +48,7 @@ page_sections:
     title="Sex Education">Click here to see the project</a>
   slug: "#sexedu"
   media:
-    image: "/uploads/2021/01/18/0-1-1.png"
+    image: "/uploads/2021/01/27/0-1.png"
     alt_text: Alt Text
 - template: content-feature
   block: feature-1
@@ -60,7 +60,7 @@ page_sections:
     here to see the project</a>'
   slug: '2048'
   media:
-    image: "/uploads/2021/01/18/0-2-1.png"
+    image: "/uploads/2021/01/27/0-2.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -71,7 +71,7 @@ page_sections:
     and gameplay. A story between androids and humans.<br><br><a href="https://ifatess.life/ruotonggao/game"
     title="Game">Click here to see the project</a>
   media:
-    image: "/uploads/2021/01/18/0-3-1.png"
+    image: "/uploads/2021/01/27/0-3.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -83,7 +83,7 @@ page_sections:
     here to see the project</a>
   slug: "#theblind"
   media:
-    image: "/uploads/2021/01/18/0-4-1.png"
+    image: "/uploads/2021/01/27/0-4.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -95,7 +95,7 @@ page_sections:
     with a user interface on Android phones.<br><br><a href="/ruotonggao/pinball"
     title="Pinball">Click here to see the project</a>
   media:
-    image: "/uploads/2021/01/18/0-5.png"
+    image: "/uploads/2021/01/27/0-5.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -106,7 +106,7 @@ page_sections:
     a neighborhood, a school, and stations in Northern China.<br><br><a href="/ruotonggao/photography"
     title="Photography">Click here to see the project</a>
   media:
-    image: "/uploads/2021/01/18/0-6.png"
+    image: "/uploads/2021/01/27/0-6.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
