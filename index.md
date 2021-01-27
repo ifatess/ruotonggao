@@ -8,7 +8,7 @@ page_sections:
   cta:
     button_text: Contact me
     url: 'mailto: gaoruotong@sjtu.edu.cn'
-  logo: "/uploads/2021/01/27/1.png"
+  logo: "/uploads/2021/01/27/1-1.png"
   navigation:
   - link: "/"
     link_text: About
