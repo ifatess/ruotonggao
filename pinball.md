@@ -137,7 +137,7 @@ page_sections:
   image: "/uploads/2020/12/21/pinball.mov"
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/01/27/home.png"
+  logo: "/uploads/2021/01/27/home-01.png"
   navigation:
   - link_text: Next Project
     link: "/photography"

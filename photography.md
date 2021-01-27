@@ -152,7 +152,7 @@ page_sections:
   slug: ''
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/01/27/home.png"
+  logo: "/uploads/2021/01/27/home-01.png"
   navigation: []
 menu:
   main:

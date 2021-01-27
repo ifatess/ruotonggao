@@ -146,7 +146,7 @@ page_sections:
   caption: ''
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/01/27/home.png"
+  logo: "/uploads/2021/01/27/home-01.png"
   navigation:
   - link: "/pinball"
     link_text: Next Project
