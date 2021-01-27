@@ -8,7 +8,7 @@ page_sections:
   cta:
     url: "/ruotonggao"
     button_text: Back Home
-  logo: "/uploads/2020/12/04/1.png"
+  logo: "/uploads/2021/01/27/1.png"
   navigation: []
 - template: hero-banner-w-image
   block: hero-2

@@ -5,7 +5,7 @@ date: 2020-11-30T16:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/12/04/1.png"
+  logo: "/uploads/2021/01/27/1.png"
   cta:
     url: "/ruotonggao/photography"
     button_text: Next Project
@@ -137,7 +137,7 @@ page_sections:
   image: "/uploads/2020/12/21/pinball.mov"
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/01/02/home.png"
+  logo: "/uploads/2021/01/27/home.png"
   navigation:
   - link_text: Next Project
     link: "/photography"
