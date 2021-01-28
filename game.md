@@ -28,7 +28,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Draft and A Gameplay Summary
+  headline: Draft &amp; Gameplay Summary
   media:
     image: "/uploads/2021/01/28/3-1.png"
     alt_text: ''
@@ -40,28 +40,24 @@ page_sections:
     sheep and go to the <em>Rooftop</em> with them. To win the game, players need
     to judge the timing of decisions, cooperate with their teammates, and make full
     use of their character skills to gain victory.
-- template: 1-column-text
-  block: one-column-1
-  headline: Introduction & Inspirations
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2021/01/28/3-2.png"
+    alt_text: ''
+  headline: Introduction
   slug: ''
   content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Inspirations
+  slug: ''
+  content: ''
   media:
     image: "/uploads/2021/01/28/3-3.gif"
     alt_text: ''
-  headline: ''
-  slug: ''
-  content: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/01/28/3-2.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2021/01/28/3-3.gif"
-    caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: Game Rules
@@ -74,7 +70,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Details
+  headline: Elements
   slug: ''
   content: ''
 - template: 2-column-media-element
@@ -83,21 +79,37 @@ page_sections:
     image: "/uploads/2021/01/28/3-5.jpg"
     caption: ''
   image_2:
-    image: "/uploads/2021/01/02/地图.png"
+    image: "/uploads/2021/01/28/3-6.png"
     caption: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/01/02/2.png"
+    image: "/uploads/2021/01/28/3-7.png"
     caption: ''
   image_2:
-    image: "/uploads/2021/01/02/photo1.png"
+    image: "/uploads/2021/01/28/3-8.png"
     caption: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/01/02/1-9-detail.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Details
   slug: ''
-  caption: ''
+  content: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/01/28/3-9.jpg"
+    caption: ''
+  image_2:
+    image: "/uploads/2021/01/28/3-12.png"
+    caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/01/28/3-11.png"
+    caption: ''
+  image_2:
+    image: "/uploads/2021/01/28/3-10.jpg"
+    caption: ''
 - template: 1-column-text
   block: one-column-1
   content: <a href="/ruotonggao/uploads/Analysis.pdf" title="analysis">Show pdf</a>
