@@ -50,10 +50,9 @@ page_sections:
   headline: Introduction
   slug: ''
   content: I designed this game out of my love for the novel <em>Do Androids Dream
-    of Electric Sheep?</em> , as well as the cyberpunk style.<br><br>I made an attempt
-    at game design in this fashion and transformed my favorite novel into playable
-    media, where I can experience the role of both androids and humans in the virtual
-    future.
+    of Electric Sheep?</em> , as well as the cyberpunk style. I made an attempt at
+    game design in this fashion, and transformed my favorite novel into playable media,
+    where I can experience the role of both androids and humans in the virtual future.
 - template: content-feature
   block: feature-1
   media_alignment: Right
