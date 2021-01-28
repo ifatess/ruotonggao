@@ -59,10 +59,12 @@ page_sections:
   media_alignment: Right
   headline: Inspirations
   slug: ''
-  content: 'I got inspirations from:<br><br>Philip K Dick''s Novel: Do Androids Dream
-    of Electric Sheep?<br>the 1982 movie: Blade Runner<br>Yiyun Li''s article: Memory
-    is a Melodrama from which No One is Exempt<br>Brenda Romeo''s game: Train<br><br>Click
-    the URL to check each of them.<br><br>Before I started designing, I read articles
+  content: 'I got inspirations from:<br><br>Philip K Dick''s Novel: <a href="https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F#:~:text=Do%20Androids%20Dream%20of%20Electric%20Sheep%3F%20(retitled%20Blade%20Runner%3A,Dick%2C%20first%20published%20in%201968."
+    title="">Do Androids Dream of Electric Sheep?</a><br>the 1982 movie: <a href="https://en.wikipedia.org/wiki/Blade_Runner"
+    title="">Blade Runner</a><br>Yiyun Li''s article: <a href="https://www.amazon.com/Dear-Friend-Life-Write-Your/dp/0399589090"
+    title="">Memory is a Melodrama from which No One is Exempt</a><br>Brenda Romeo''s
+    game: <a href="http://brenda.games/train" title="">Train</a><br><br>Click the
+    URL to check each of them.<br><br>Before I started designing, I read articles
     on how to set attractive and clear goals in my game, as well as how to add randomness
     to make it fun. Also, I spent a lot of time designing the fundamental rules and
     running simulations to control the consumption and expenditure to be both reasonable
