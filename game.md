@@ -12,9 +12,9 @@ page_sections:
     button_text: Next Project
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
   image:
-    image: "/uploads/2021/01/02/1-9-detail.png"
+    image: ''
     alt_text: ''
   headline: 'Game: Do Androids Dream of Electric Sheep?'
   content: I designed this game out of my love for the novel <em>Do Androids Dream
