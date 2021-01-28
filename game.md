@@ -29,18 +29,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Draft &amp; Gameplay Summary
+  headline: Draft
   media:
     image: "/uploads/2021/01/28/3-1.png"
     alt_text: ''
   slug: ''
-  content: This game is for 2-4 players. Players take on the role of one of the androids
-    and humans (whose names inspired by the movie <em>Blade Runner</em>), collecting
-    <em>Memory </em>as many as possible<em> </em>to win the game. In the game, players
-    can gain <em>Electricity</em> or <em>Memory</em>, own or loot others' electric
-    sheep and go to the <em>Rooftop</em> with them. To win the game, players need
-    to judge the timing of decisions, cooperate with their teammates, and make full
-    use of their character skills to gain victory.
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -52,13 +46,27 @@ page_sections:
   content: I designed this game out of my love for the novel <em>Do Androids Dream
     of Electric Sheep?</em> , as well as the cyberpunk style. I made an attempt at
     game design in this fashion, and transformed my favorite novel into playable media,
-    where I can experience the role of both androids and humans in the virtual future.
+    where I can experience the role of both androids and humans in the virtual future.<br><br>This
+    game is for 2-4 players. Players take on the role of one of the androids and humans
+    (whose names inspired by the movie <em>Blade Runner</em>), collecting <em>Memory
+    </em>as many as possible<em> </em>to win the game. In the game, players can gain
+    <em>Electricity</em> or <em>Memory</em>, own or loot others' electric sheep and
+    go to the <em>Rooftop</em> with them. To win the game, players need to judge the
+    timing of decisions, cooperate with their teammates, and make full use of their
+    character skills to gain victory.
 - template: content-feature
   block: feature-1
   media_alignment: Right
   headline: Inspirations
   slug: ''
-  content: ''
+  content: 'I got inspirations from:<br><br>Philip K Dick''s Novel: Do Androids Dream
+    of Electric Sheep?<br>the 1982 movie: Blade Runner<br>Yiyun Li''s article: Memory
+    is a Melodrama from which No One is Exempt<br>Brenda Romeo''s game: Train<br><br>Click
+    the URL to check each of them.<br><br>Before I started designing, I read articles
+    on how to set attractive and clear goals in my game, as well as how to add randomness
+    to make it fun. Also, I spent a lot of time designing the fundamental rules and
+    running simulations to control the consumption and expenditure to be both reasonable
+    and challenging for players.'
   media:
     image: "/uploads/2021/01/28/3-3.gif"
     alt_text: ''
