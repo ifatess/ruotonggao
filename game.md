@@ -91,8 +91,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  content: <a href="/ruotonggao/uploads/Analysis.pdf&quot; download=&quot;Analysis.pdf"
-    title="analysis">Download pdf</a>
+  content: <a href="/ruotonggao/uploads/Analysis.pdf" title="analysis">Download pdf</a>
   headline: 'An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
   slug: ''
 - template: navigation-header
