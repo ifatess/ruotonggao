@@ -66,7 +66,7 @@ page_sections:
     title="">Do Androids Dream of Electric Sheep?</a><br>the 1982 movie: <a href="https://en.wikipedia.org/wiki/Blade_Runner"
     title="">Blade Runner</a><br>Yiyun Li''s article: <a href="https://www.amazon.com/Dear-Friend-Life-Write-Your/dp/0399589090"
     title="">Memory is a Melodrama from which No One is Exempt</a><br>Brenda Romeo''s
-    game: <a href="http://brenda.games/train" title="">Train</a><br><br>Click the
+    game: <a href="http://brenda.games/train" title="">Train</a><br><br>Click on the
     URL to check each of them.<br><br>Before I started designing, I read articles
     on how to set attractive and clear goals in my game, as well as how to add randomness
     to make it fun. Also, I spent a lot of time designing the fundamental rules and
