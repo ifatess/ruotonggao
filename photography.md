@@ -94,6 +94,16 @@ page_sections:
   headline: My Work
   slug: ''
   content: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: I. Where does home begin?
+  content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>  "
+  slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/19/2526.png"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -103,6 +113,16 @@ page_sections:
     alt_text: ''
   slug: ''
   content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>"
+- template: 1-column-text
+  block: one-column-1
+  headline: II. Leaving the world under the watchful eye of parents
+  slug: ''
+  content: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/19/27.gif"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -112,6 +132,17 @@ page_sections:
     alt_text: ''
   slug: ''
   content: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: III. School
+  content: "<em>&lt;The Branch School of The High School Affiliated to Shaanxi Normal
+    University&gt;</em>  "
+  slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/19/28.png"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -127,6 +158,16 @@ page_sections:
   slug: ''
   image: "/uploads/2020/12/19/29.gif"
   caption: 'Going home: Father and son, I followed them all the way'
+- template: 1-column-text
+  block: one-column-1
+  headline: Farewell
+  content: "&lt;On my way away from home&gt;"
+  slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/12/19/210.png"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
