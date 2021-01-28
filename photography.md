@@ -19,7 +19,7 @@ page_sections:
     alt_text: ''
   content: <strong>Inspiration</strong><em><br></em><strong><br></strong>I, and indeed
     all Chinese people, have been entangled with "family" all our lives. I feel the
-    obligation to capture it.
+    obligation to capture it.<br><br><strong>Individual Work</strong>
   cta:
     enabled: false
     url: ''
