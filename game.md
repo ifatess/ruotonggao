@@ -30,7 +30,7 @@ page_sections:
   media_alignment: Right
   headline: Draft and A Gameplay Summary
   media:
-    image: "/uploads/2021/01/02/draft.png"
+    image: "/uploads/2021/01/28/3-1.png"
     alt_text: ''
   slug: ''
   content: This game is for 2-4 players. Players take on the role of one of the androids
@@ -45,13 +45,22 @@ page_sections:
   headline: Introduction & Inspirations
   slug: ''
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2021/01/28/3-3.gif"
+    alt_text: ''
+  headline: ''
+  slug: ''
+  content: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/01/02/介绍.png"
+    image: "/uploads/2021/01/28/3-2.png"
     caption: ''
   image_2:
-    image: "/uploads/2021/01/02/灵感.gif"
+    image: "/uploads/2021/01/28/3-3.gif"
     caption: ''
 - template: 1-column-text
   block: one-column-1
