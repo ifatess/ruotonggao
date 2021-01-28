@@ -28,13 +28,16 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: Draft
   media:
     image: "/uploads/2021/01/28/3-1.png"
     alt_text: ''
   slug: ''
-  content: ''
+  content: I developed this project all by myself. In this project, I learned how
+    to design a board game from drafts, including concept &amp; background design,
+    art &amp; graphic design, especially how to keep the game balanced and make it
+    fun.
 - template: content-feature
   block: feature-1
   media_alignment: Right
