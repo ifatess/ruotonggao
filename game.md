@@ -17,10 +17,11 @@ page_sections:
     image: ''
     alt_text: ''
   headline: 'Game: Do Androids Dream of Electric Sheep?'
-  content: I designed this game out of my love for the novel <em>Do Androids Dream
-    of Electric Sheep?</em> , as well as the cyberpunk style. I made an attempt at
-    game design in this fashion, and transformed my favorite novel into playable media,
-    where I can experience the role of both androids and humans in the virtual future.
+  content: "<strong>My Goal</strong><br>This is a board game project, inspired by
+    Philip K. Dick's novel <em>Do Androids Dream of Electric Sheep?</em> and the 1982
+    movie <em>Blade Runner</em>. After my internship in EA China Studio, I was determined
+    to further my study in game design and tried to focus on gameplay in this project.<br><br><strong>Individual
+    Work</strong>"
   cta:
     enabled: false
     url: ''
@@ -48,7 +49,10 @@ page_sections:
     alt_text: ''
   headline: Introduction
   slug: ''
-  content: ''
+  content: I designed this game out of my love for the novel <em>Do Androids Dream
+    of Electric Sheep?</em> , as well as the cyberpunk style. I made an attempt at
+    game design in this fashion, and transformed my favorite novel into playable media,
+    where I can experience the role of both androids and humans in the virtual future.
 - template: content-feature
   block: feature-1
   media_alignment: Right
