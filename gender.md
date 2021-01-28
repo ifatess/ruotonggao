@@ -46,7 +46,7 @@ page_sections:
   content: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/23/12-10.png"
+  image: "/uploads/2021/01/28/1-1.png"
   caption: Through S.E.T. analysis, we focused on sex education for K-12. Then we
     specified our goals by asking questions and giving solutions.
   slug: ''
@@ -68,7 +68,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: "/uploads/2020/12/23/13-14.png"
+  image: "/uploads/2021/01/28/1-2.png"
   caption: ''
 - template: content-feature
   block: feature-1
@@ -88,7 +88,7 @@ page_sections:
     concepts) after finishing the game, write down your feelings, and exchange the
     card with the other player."
   media:
-    image: "/uploads/2020/12/31/15-4.png"
+    image: "/uploads/2021/01/28/1-3.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -107,7 +107,7 @@ page_sections:
     frame: introduce a commonly used drug.<br>3/. Blue frame: change sanitary napkins
     for dolls.<br>3. Each zone represents a different time period of menstruation."
   media:
-    image: "/uploads/2020/12/31/16-2.png"
+    image: "/uploads/2021/01/28/1-4.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
@@ -117,14 +117,14 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   caption: Prototype
-  image: "/uploads/2020/12/23/17-1.png"
+  image: "/uploads/2021/01/28/1-5.png"
   slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
   headline: User Interface
   media:
-    image: "/uploads/2020/12/25/111.png"
+    image: "/uploads/2021/01/28/1-6.png"
     alt_text: ''
   slug: ''
   content: Since it's a two-player game, the screen is separated into two parts.<br><br>Children
@@ -133,7 +133,7 @@ page_sections:
     get scores by answering questions and the one with the highest score wins.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/25/114.png"
+  image: "/uploads/2021/01/28/1-7.png"
   caption: Interface Design
   slug: ''
 - template: 1-column-text
@@ -153,12 +153,12 @@ page_sections:
   content: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/25/gender1.gif"
+  image: "/uploads/2021/01/28/1-8.gif"
   slug: ''
   caption: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/25/gender2.gif"
+  image: "/uploads/2021/01/28/1-9.gif"
   slug: ''
   caption: ''
 - template: content-feature
@@ -172,7 +172,7 @@ page_sections:
     who had had few game experiences thus far, were not able to focus for a long time
     and often got lost while following the game storytelling.
   media:
-    image: "/uploads/2020/12/16/18-1.png"
+    image: "/uploads/2021/01/28/1-10.png"
     alt_text: ''
 - template: 3-column-text
   block: three-column-1
@@ -203,7 +203,7 @@ page_sections:
   content: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/25/112.png"
+  image: "/uploads/2021/01/28/1-11.png"
   slug: ''
   caption: ''
 - template: navigation-header
