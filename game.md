@@ -69,7 +69,7 @@ page_sections:
   content: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/01/02/规则.png"
+  image: "/uploads/2021/01/28/3-4.png"
   slug: ''
   caption: ''
 - template: 1-column-text
@@ -80,7 +80,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/01/02/untitled-42.jpg"
+    image: "/uploads/2021/01/28/3-5.jpg"
     caption: ''
   image_2:
     image: "/uploads/2021/01/02/地图.png"
