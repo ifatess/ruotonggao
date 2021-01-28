@@ -104,15 +104,6 @@ page_sections:
   image: "/uploads/2020/12/19/2526.png"
   slug: ''
   caption: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: I. Where does home begin?
-  media:
-    image: "/uploads/2020/12/19/2526.png"
-    alt_text: ''
-  slug: ''
-  content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>"
 - template: 1-column-text
   block: one-column-1
   headline: II. Leaving the world under the watchful eye of parents
@@ -123,15 +114,6 @@ page_sections:
   image: "/uploads/2020/12/19/27.gif"
   slug: ''
   caption: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: II. Leaving the world under the watchful eye of parents
-  media:
-    image: "/uploads/2020/12/19/27.gif"
-    alt_text: ''
-  slug: ''
-  content: ''
 - template: 1-column-text
   block: one-column-1
   headline: III. School
@@ -143,16 +125,6 @@ page_sections:
   image: "/uploads/2020/12/19/28.png"
   slug: ''
   caption: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: III. School
-  slug: ''
-  content: "<em>&lt;The Branch School of The High School Affiliated to Shaanxi Normal
-    University&gt;</em>"
-  media:
-    image: "/uploads/2020/12/19/28.png"
-    alt_text: ''
 - template: full-width-media-element
   block: media-1
   slug: ''
@@ -168,15 +140,6 @@ page_sections:
   image: "/uploads/2020/12/19/210.png"
   slug: ''
   caption: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Farewell
-  content: "&lt;On my way away from home&gt;"
-  media:
-    image: "/uploads/2020/12/19/210.png"
-    alt_text: ''
-  slug: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/12/19/19.jpg"
