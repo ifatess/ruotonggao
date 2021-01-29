@@ -142,7 +142,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: "/uploads/2021/01/17/41-1.png"
+  image: "/uploads/2021/01/28/2-1.png"
   caption: ''
 - template: navigation-header
   block: header-1
