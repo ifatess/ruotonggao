@@ -67,7 +67,7 @@ page_sections:
     which is a major pain point in the design of elevator operation panels.
   slug: ''
   media:
-    image: "/uploads/2020/12/22/42-1.png"
+    image: "/uploads/2021/01/29/4-1.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
@@ -77,10 +77,10 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/12/22/43-1.png"
+    image: "/uploads/2021/01/29/4-2.png"
     caption: Product Needs Analysis for the Visually Impaired
   image_2:
-    image: "/uploads/2020/12/22/44.png"
+    image: "/uploads/2021/01/29/4-3.png"
     caption: Analysis of Somatosensory Interaction for the Visually Impaired
 - template: content-feature
   block: feature-1
@@ -95,13 +95,13 @@ page_sections:
     for Visually Impaired Groups)[R]. China Association for the Blind,2019."
   slug: ''
   media:
-    image: "/uploads/2020/12/22/45.png"
+    image: "/uploads/2021/01/29/4-4.png"
     alt_text: ''
 - template: full-width-media-element
   block: media-1
   caption: Questionnaire & Experiment
   slug: ''
-  image: "/uploads/2020/12/22/46-1.png"
+  image: "/uploads/2021/01/29/4-5.png"
 - template: 1-column-text
   block: one-column-1
   headline: Problems & Solutions
@@ -109,16 +109,16 @@ page_sections:
   content: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/23/47.png"
+  image: "/uploads/2021/01/29/4-6.png"
   slug: ''
   caption: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/12/23/dsc_2735.png"
+    image: "/uploads/2021/01/29/4-7.png"
     caption: A blind person is identifying buttons.
   image_2:
-    image: "/uploads/2020/12/23/dsc_2923.png"
+    image: "/uploads/2021/01/29/4-8.png"
     caption: A family photo with participant's family and our group.
 - template: content-feature
   block: feature-1
@@ -132,7 +132,7 @@ page_sections:
     feeling 3-okay 4-very comfortable<br>......<br><strong>10. Acceptable to put in
     the common elevator</strong><br>0-No 1-Not quite 2-Hard to say 3-Barely 4-Yes
   media:
-    image: "/uploads/2020/12/23/48.png"
+    image: "/uploads/2021/01/29/4-9.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
