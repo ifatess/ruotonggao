@@ -109,7 +109,7 @@ page_sections:
   content: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/01/29/4-6.png"
+  image: "/uploads/2021/01/29/4-6-1.png"
   slug: ''
   caption: ''
 - template: 2-column-media-element
