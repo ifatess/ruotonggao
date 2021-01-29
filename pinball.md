@@ -49,11 +49,11 @@ page_sections:
     boards, rubber bands, glue, etc. to make a model of a ladder-like slope structure.
   slug: ''
   media:
-    image: "/uploads/2021/01/02/32-1-1.png"
+    image: "/uploads/2021/01/29/5-1.png"
     alt_text: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/22/36-1.png"
+  image: "/uploads/2021/01/29/5-2.png"
   caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
     established by me'
   slug: ''
@@ -65,10 +65,10 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2021/01/02/311-1.png"
+    image: "/uploads/2021/01/29/5-9.png"
     caption: designing a reasonable circuit
   image_2:
-    image: "/uploads/2021/01/02/312.jpg"
+    image: "/uploads/2021/01/29/5-4.png"
     caption: connecting the different parts by wires
 - template: detail-content
   block: text-1
@@ -82,10 +82,10 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/12/23/34-1.png"
+    image: "/uploads/2021/01/29/5-5.png"
     caption: ''
   image_2:
-    image: "/uploads/2021/01/02/pinballl.gif"
+    image: "/uploads/2021/01/29/5-6.gif"
     caption: ''
 - template: content-feature
   block: feature-1
@@ -98,7 +98,7 @@ page_sections:
     connection settings. My classmates understood how to use it at a glance and didn't
     face any problems while interacting with this concise interface.
   media:
-    image: "/uploads/2020/12/21/35.png"
+    image: "/uploads/2021/01/29/5-7.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
@@ -109,7 +109,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: "/uploads/2021/01/02/312-1.png"
+  image: "/uploads/2021/01/29/5-8.png"
   caption: ''
 - template: content-feature
   block: feature-1
@@ -123,7 +123,7 @@ page_sections:
     tries to get a high score (1. keep the ball on the board as long as possible;
     2. try to get bonuses).
   media:
-    image: "/uploads/2020/12/21/36.svg"
+    image: "/uploads/2021/01/29/5-3.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
