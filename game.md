@@ -14,7 +14,7 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2021/01/27/0-3.png"
     alt_text: ''
   headline: 'Game: Do Androids Dream of Electric Sheep?'
   content: "<strong>My Goal</strong><br>This is a board game project, inspired by
