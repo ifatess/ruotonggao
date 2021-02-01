@@ -9,7 +9,9 @@ page_sections:
   cta:
     url: "/ruotonggao/2048"
     button_text: Next Project
-  navigation: []
+  navigation:
+  - link: "#exp"
+    link_text: Explorations
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
