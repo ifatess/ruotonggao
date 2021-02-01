@@ -12,6 +12,14 @@ page_sections:
   navigation:
   - link: "#exp"
     link_text: Explorations
+  - link: "#draft"
+    link_text: Draft
+  - link: "#proto"
+    link_text: Prototype
+  - link: "#feed"
+    link_text: Feedback
+  - link: "#impro"
+    link_text: Improvements
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
