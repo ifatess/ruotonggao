@@ -22,6 +22,12 @@ page_sections:
   cta:
     url: "/ruotonggao/research"
     button_text: Next Project
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/27/bhome.png"
+  navigation:
+  - link: "/research"
+    link_text: Next Project
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
@@ -147,12 +153,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/game#" title="">Back to Top</a>
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/01/27/bhome.png"
-  navigation:
-  - link: "/research"
-    link_text: Next Project
 menu:
   main:
     weight: 6
