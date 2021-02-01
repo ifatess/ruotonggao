@@ -114,6 +114,7 @@ page_sections:
     alt_text: ''
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ by Gao Ruotong
+  content: Made with ❤︎ by Gao Ruotong<br><a href="/ruotonggao/#" title="">Back to
+    Top</a>
 
 ---
