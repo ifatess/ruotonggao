@@ -19,7 +19,7 @@ page_sections:
   - link: "#game"
     link_text: Game
   - link: "#theblind"
-    link_text: The Blind
+    link_text: Research
   - link: "#pinball"
     link_text: Pinball
   - link: "#photography"
