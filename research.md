@@ -15,7 +15,7 @@ page_sections:
   headline: <span class="light">User Experience Research of Elevator Buttons</span>
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2021/01/27/0-4.png"
     alt_text: ''
   content: "<strong>Problem Statement<br><br></strong>Given the neglect of people
     with disabilities, I wanted to improve the user experience of accessible facilities.
