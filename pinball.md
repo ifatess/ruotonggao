@@ -14,10 +14,10 @@ page_sections:
     link: pinball#play
   - link: pinball#board
     link_text: Arduino
-  - link: pinball#highlight
-    link_text: Highlight
   - link: pinball#app
     link_text: App
+  - link: pinball#finish
+    link_text: Finished Product
   - link: pinball#gameplay
     link_text: Gameplay
   - link: pinball#prev
@@ -65,7 +65,7 @@ page_sections:
     of our game on paper at first. In addition to the bounce zone, I added a special
     bonus area to make the game more innovative and creative.<br><br>I used wooden
     boards, rubber bands, glue, etc. to make a model of a ladder-like slope structure.
-  slug: ''
+  slug: "#play"
   media:
     image: "/uploads/2021/01/29/5-1.png"
     alt_text: ''
@@ -78,7 +78,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Arduino Board
-  slug: ''
+  slug: "#board"
   content: ''
 - template: 2-column-media-element
   block: media-2
@@ -109,7 +109,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: 'Interactive App: Controller'
-  slug: ''
+  slug: "#app"
   content: The app is written in Java in Android Studio. After installation, the controller
     can be connected to the server through Wi-Fi.<br><br>It's a one-page controller,
     containing four interactive buttons, a scoring section, a notification bar, and
@@ -123,7 +123,7 @@ page_sections:
   headline: Finished Product
   content: <a href="/ruotonggao/uploads/app-debug.apk" title="app">Click here to download
     the app</a>
-  slug: ''
+  slug: "#finish"
 - template: full-width-media-element
   block: media-1
   slug: ''
@@ -133,7 +133,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Gameplay
-  slug: ''
+  slug: "#gameplay"
   content: Due to the non-instantaneous nature of wifi transmission, it is difficult
     to record the status of the small ball as it is launched and dropped. Therefore,
     I have taken the approach of manually setting the game start and end.<br><br>While
@@ -146,7 +146,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Check How it Works!
-  slug: ''
+  slug: "#prev"
   content: ''
 - template: full-width-media-element
   block: media-1
