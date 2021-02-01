@@ -6,7 +6,19 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2021/01/27/hear.png"
-  navigation: []
+  navigation:
+  - link_text: Draft
+    link: game#draft
+  - link: game#intro
+    link_text: Introduction
+  - link_text: Inspirations
+    link: game#inspire
+  - link: game#rule
+    link_text: Rules
+  - link_text: Elements
+    link: game#ele
+  - link: game#analy
+    link_text: Analysis
   cta:
     url: "/ruotonggao/research"
     button_text: Next Project
