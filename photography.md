@@ -15,7 +15,7 @@ page_sections:
   headline: Photography on Family Bonds
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2021/01/27/0-6.png"
     alt_text: ''
   content: <strong>Inspiration</strong><em><br></em><strong><br></strong>I, and indeed
     all Chinese people, have been entangled with "family" all our lives. I feel the
