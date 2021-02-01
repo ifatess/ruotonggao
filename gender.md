@@ -16,6 +16,8 @@ page_sections:
     link_text: Draft
   - link: "#proto"
     link_text: Prototype
+  - link: gender#demo
+    link_text: Demo
   - link: "#feed"
     link_text: Feedback
   - link: "#impro"
@@ -218,7 +220,7 @@ page_sections:
   caption: ''
 - template: simple-footer
   block: footer-1
-  content: <a href="" title="">Back to Top</a>
+  content: <a href="/gender#" title="">Back to Top</a>
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/27/bhome.png"
