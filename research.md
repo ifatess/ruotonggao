@@ -81,7 +81,7 @@ page_sections:
     essential tool in the lives of millions of households.<br><br>However, people
     with impaired vision cannot accurately judge the elevator buttons when using elevators,
     which is a major pain point in the design of elevator operation panels.
-  slug: ''
+  slug: "#back"
   media:
     image: "/uploads/2021/01/29/4-1.png"
     alt_text: ''
@@ -109,7 +109,7 @@ page_sections:
     Shandong University of Architecture, 2020.<br>3. Summary of the 2017 UNESCO Project
     (Special Survey on the Status and Needs of Information Accessibility Services
     for Visually Impaired Groups)[R]. China Association for the Blind,2019."
-  slug: ''
+  slug: "#method"
   media:
     image: "/uploads/2021/01/29/4-4.png"
     alt_text: ''
@@ -140,7 +140,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Data Analysis
-  slug: ''
+  slug: "#data"
   content: Evaluation:<br><br><strong>1. Correctness 2. Time-consuming 3. Finger used<br>4.
     Press or not when touching</strong><br><strong>5. Recognition</strong><br>0-difficult
     to recognize 1-a little difficult 2-not too easy 3-okay 4-very easy<br><strong>6.
@@ -153,12 +153,15 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Results
-  slug: ''
+  slug: "#results"
   content: ''
 - template: full-width-media-element
   block: media-1
   slug: ''
   image: "/uploads/2021/01/28/2-1.png"
   caption: ''
+- template: simple-footer
+  block: footer-1
+  content: <a href="/ruotonggao/research#" title="">Back to Top</a>
 
 ---
