@@ -10,17 +10,17 @@ page_sections:
     url: "/ruotonggao/2048"
     button_text: Next Project
   navigation:
-  - link: "#exp"
+  - link: gender#exp
     link_text: Explorations
-  - link: "#draft"
+  - link: gender#draft
     link_text: Draft
-  - link: "#proto"
+  - link: gender#proto
     link_text: Prototype
   - link: gender#demo
     link_text: Demo
-  - link: "#feed"
+  - link: gender#feed
     link_text: Feedback
-  - link: "#impro"
+  - link: gender#impro
     link_text: Improvements
 - template: hero-banner-w-image
   block: hero-2
