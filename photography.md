@@ -12,8 +12,8 @@ page_sections:
   navigation:
   - link: photography#street
     link_text: Street Photography
-  - link: photography#family
-    link_text: Family Concept
+  - link: photography#inspire
+    link_text: Inspiration
   - link_text: My Work
     link: photography#mywork
   - link_text: Reference
@@ -80,7 +80,7 @@ page_sections:
     headline: Families are diverse
     content: 'Happy or unhappy<br>Close or not close<br>Family members: parents? Only
       child? Reorganization?<br>Different experiences form united families'
-    slug: "#family"
+    slug: ''
   col_2:
     headline: Families are discordant
     slug: ''
