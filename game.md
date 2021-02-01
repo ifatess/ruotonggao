@@ -45,7 +45,7 @@ page_sections:
   media:
     image: "/uploads/2021/01/28/3-1.png"
     alt_text: ''
-  slug: ''
+  slug: "#draft"
   content: I developed this project all by myself. In this project, I learned how
     to design a board game from drafts, including concept &amp; background design,
     art &amp; graphic design, especially how to keep the game balanced and make it
@@ -57,7 +57,7 @@ page_sections:
     image: "/uploads/2021/01/28/3-2.png"
     alt_text: ''
   headline: Introduction
-  slug: ''
+  slug: "#intro"
   content: I designed this game out of my love for the novel <em>Do Androids Dream
     of Electric Sheep?</em> , as well as the cyberpunk style. I made an attempt at
     game design in this fashion, and transformed my favorite novel into playable media,
@@ -73,7 +73,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Inspirations
-  slug: ''
+  slug: "#inspire"
   content: 'I got inspirations from:<br><br>Philip K Dick''s Novel: <a href="https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F#:~:text=Do%20Androids%20Dream%20of%20Electric%20Sheep%3F%20(retitled%20Blade%20Runner%3A,Dick%2C%20first%20published%20in%201968."
     title="">Do Androids Dream of Electric Sheep?</a><br>the 1982 movie: <a href="https://en.wikipedia.org/wiki/Blade_Runner"
     title="">Blade Runner</a><br>Yiyun Li''s article: <a href="https://www.amazon.com/Dear-Friend-Life-Write-Your/dp/0399589090"
@@ -90,7 +90,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Game Rules
-  slug: ''
+  slug: "#rule"
   content: ''
 - template: full-width-media-element
   block: media-1
@@ -100,7 +100,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Elements
-  slug: ''
+  slug: "#ele"
   content: ''
 - template: 2-column-media-element
   block: media-2
@@ -143,7 +143,10 @@ page_sections:
   block: one-column-1
   content: <a href="/ruotonggao/uploads/Analysis.pdf" title="analysis">Show pdf</a>
   headline: 'An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
-  slug: ''
+  slug: "#analy"
+- template: simple-footer
+  block: footer-1
+  content: <a href="/ruotonggao/game#" title="">Back to Top</a>
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/27/bhome.png"
