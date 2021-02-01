@@ -52,7 +52,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Explorations
-  slug: ''
+  slug: "#exp"
   content: ''
 - template: full-width-media-element
   block: media-1
@@ -84,7 +84,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: <em>Draft 1</em><br><span class="light">Gender &amp; Career Game Design</span>
-  slug: ''
+  slug: "#draft"
   content: "<strong>Target<br></strong>Eliminate gender bias in career choices, hoping
     that boys would be able to choose careers, such as nursing, without experiencing
     any form of external pressure, whereas girls would be able to take advantage of
@@ -128,7 +128,7 @@ page_sections:
   block: media-1
   caption: Prototype
   image: "/uploads/2021/01/28/1-5.png"
-  slug: ''
+  slug: "#proto"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -175,7 +175,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Observations &amp; Feedback
-  slug: ''
+  slug: "#feed"
   content: We invited 20 children that were aged 6 to 12 to try our prototype and
     provide feedback.<br><br>During our experiment, we observed that some children
     demonstrated a sustained interest throughout the entire time, whereas some kids,
@@ -209,7 +209,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Improvements
-  slug: ''
+  slug: "#impro"
   content: ''
 - template: full-width-media-element
   block: media-1
