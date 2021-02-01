@@ -216,6 +216,9 @@ page_sections:
   image: "/uploads/2021/01/28/1-11.png"
   slug: ''
   caption: ''
+- template: simple-footer
+  block: footer-1
+  content: <a href="" title="">Back to Top</a>
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/27/bhome.png"
