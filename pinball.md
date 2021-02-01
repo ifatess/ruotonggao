@@ -10,6 +10,12 @@ page_sections:
     url: "/ruotonggao/photography"
     button_text: Next Project
   navigation: []
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/27/bhome.png"
+  navigation:
+  - link_text: Next Project
+    link: "/photography"
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
@@ -135,12 +141,9 @@ page_sections:
   caption: Video
   slug: ''
   image: "/uploads/2020/12/21/pinball.mov"
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/01/27/bhome.png"
-  navigation:
-  - link_text: Next Project
-    link: "/photography"
+- template: simple-footer
+  block: footer-1
+  content: <a href="/ruotonggao/pinball#" title="">Back to Top</a>
 menu:
   main:
     weight: 5
