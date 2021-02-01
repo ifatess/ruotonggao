@@ -14,7 +14,7 @@ page_sections:
     link_text: Documentary
   - link: research#back
     link_text: Background
-  - link: "#method"
+  - link: research#method
     link_text: Methodology
   - link_text: Data Analysis
     link: research#data
