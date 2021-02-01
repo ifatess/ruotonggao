@@ -9,7 +9,23 @@ page_sections:
   cta:
     url: "/ruotonggao/pinball"
     button_text: Next Project
-  navigation: []
+  navigation:
+  - link: research#doc
+    link_text: Documentary
+  - link: research#back
+    link_text: Background
+  - link: "#method"
+    link_text: Methodology
+  - link_text: Data Analysis
+    link: research#data
+  - link: research#results
+    link_text: Results
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/27/bhome.png"
+  navigation:
+  - link: "/pinball"
+    link_text: Next Project
 - template: hero-banner-w-image
   block: hero-2
   headline: <span class="light">User Experience Research of Elevator Buttons</span>
@@ -46,7 +62,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Documentary
-  slug: ''
+  slug: "#doc"
   content: ''
 - template: full-width-media-element
   block: media-1
@@ -144,11 +160,5 @@ page_sections:
   slug: ''
   image: "/uploads/2021/01/28/2-1.png"
   caption: ''
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/01/27/bhome.png"
-  navigation:
-  - link: "/pinball"
-    link_text: Next Project
 
 ---
