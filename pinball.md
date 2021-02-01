@@ -9,7 +9,19 @@ page_sections:
   cta:
     url: "/ruotonggao/photography"
     button_text: Next Project
-  navigation: []
+  navigation:
+  - link_text: Playfield
+    link: pinball#play
+  - link: pinball#board
+    link_text: Arduino
+  - link: pinball#highlight
+    link_text: Highlight
+  - link: pinball#app
+    link_text: App
+  - link: pinball#gameplay
+    link_text: Gameplay
+  - link: pinball#prev
+    link_text: Preview
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/27/bhome.png"
