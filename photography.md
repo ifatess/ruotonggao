@@ -10,6 +10,10 @@ page_sections:
     button_text: Back Home
   logo: "/uploads/2021/01/27/hear.png"
   navigation: []
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2021/01/27/bhome.png"
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   headline: Photography on Family Bonds
@@ -154,10 +158,9 @@ page_sections:
     Suzuki">https://huxleyparlour.com/artists/tatsuo-suzuki/</a><br>3. Gao Shan<em>
     </em><a href="https://radiichina.com/gao-shan-photography/" title="Gao Shan">https://radiichina.com/gao-shan-photography/</a>
   slug: ''
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/01/27/bhome.png"
-  navigation: []
+- template: simple-footer
+  block: footer-1
+  content: <a href="/ruotonggao/photography#" title="">Back to Top</a>
 menu:
   main:
     weight: 3
