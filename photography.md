@@ -9,7 +9,15 @@ page_sections:
     url: "/ruotonggao"
     button_text: Back Home
   logo: "/uploads/2021/01/27/hear.png"
-  navigation: []
+  navigation:
+  - link: photography#street
+    link_text: Street Photography
+  - link: photography#family
+    link_text: Family Concept
+  - link_text: My Work
+    link: photography#mywork
+  - link_text: Reference
+    link: photography#refer
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/27/bhome.png"
