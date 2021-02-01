@@ -63,7 +63,7 @@ page_sections:
   media:
     image: "/uploads/2020/12/19/22.png"
     alt_text: ''
-  slug: ''
+  slug: "#street"
 - template: detail-content
   block: text-1
   headline: Family
@@ -80,7 +80,7 @@ page_sections:
     headline: Families are diverse
     content: 'Happy or unhappy<br>Close or not close<br>Family members: parents? Only
       child? Reorganization?<br>Different experiences form united families'
-    slug: ''
+    slug: "#family"
   col_2:
     headline: Families are discordant
     slug: ''
@@ -97,14 +97,14 @@ page_sections:
     for one another. I feel a sense of loss from this.”<br><br>The result is a compelling
     visual dialogue that wrestles with loss, pain and regret, as much as it embraces
     love, compassion and, ultimately, reconciliation.<br>"
-  slug: ''
+  slug: "#inspire"
   media:
     image: "/uploads/2020/12/19/24.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: My Work
-  slug: ''
+  slug: "#mywork"
   content: ''
 - template: 1-column-text
   block: one-column-1
@@ -165,7 +165,7 @@ page_sections:
     Tatsuo Suzuki <a href="https://huxleyparlour.com/artists/tatsuo-suzuki/" title="Tatsuo
     Suzuki">https://huxleyparlour.com/artists/tatsuo-suzuki/</a><br>3. Gao Shan<em>
     </em><a href="https://radiichina.com/gao-shan-photography/" title="Gao Shan">https://radiichina.com/gao-shan-photography/</a>
-  slug: ''
+  slug: "#refer"
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/photography#" title="">Back to Top</a>
