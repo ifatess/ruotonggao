@@ -24,6 +24,10 @@ page_sections:
     link_text: Pinball
   - link: "#photography"
     link_text: Photography
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   slug: features
