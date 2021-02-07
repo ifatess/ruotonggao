@@ -133,9 +133,11 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Next, I refined Draft 1 for further design.
+  headline: 3 - Prototype
   slug: ''
-  content: ''
+  content: 'Next, considering the playability and innovation, we decided on Draft
+    1 to refine for further design. I designed a #prototype with Rhino &amp; Keyshot,
+    and a user interface.'
 - template: full-width-media-element
   block: media-1
   caption: Prototype
