@@ -29,9 +29,9 @@ page_sections:
   image:
     image: "/uploads/2021/01/27/0-6.png"
     alt_text: ''
-  content: <strong>Inspiration</strong><em><br></em><strong><br></strong>I, and indeed
-    all Chinese people, have been entangled with "family" all our lives. I feel the
-    obligation to capture it.<br><br><strong>Individual Work</strong>
+  content: <strong>Inspiration<br></strong>I, and indeed all Chinese people, have
+    been entangled with "family" all our lives. I feel the obligation to capture it.<br><br><strong>Individual
+    Work<br><br>Date<br></strong>4.2020~6.2020
   cta:
     enabled: false
     url: ''
