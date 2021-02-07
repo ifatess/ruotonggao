@@ -160,6 +160,18 @@ page_sections:
   slug: ''
   image: "/uploads/2021/01/28/2-1.png"
   caption: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/research#" title="">Back to Top</a>
