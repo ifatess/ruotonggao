@@ -34,9 +34,9 @@ page_sections:
   image:
     image: "/uploads/2021/01/27/0-5.png"
     alt_text: ''
-  content: "<strong>Inspiration<br><br></strong>Inspired by a DIY craft video on Youtube,
+  content: "<strong>Inspiration<br></strong>Inspired by a DIY craft video on Youtube,
     I created a Wi-Fi communication 3D pinball game that was based on Arduino.<br><br><strong>My
-    Role<br></strong>Inspiration proposing, programming, UI designing"
+    Role<br></strong>Inspiration proposing, programming, UI designing<br><br><strong>Date<br></strong>5.2020~4.2021"
   cta:
     enabled: false
     url: ''
