@@ -242,7 +242,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: Reflection
   content: ''
   cta:
     enabled: false
