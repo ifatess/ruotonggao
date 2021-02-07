@@ -44,6 +44,22 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Step 1
+    content: Gather inspiration, determine the basic gameplay and create a draft of
+      the game.
+    slug: ''
+  col_2:
+    headline: Step 2
+    content: Design the basic elements of the game, including story background, game
+      characters, game rules, game objectives, etc.
+    slug: ''
+  col_3:
+    headline: Step 3
+    content: Create the physical game and test playability.
+    slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
