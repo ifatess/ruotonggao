@@ -44,11 +44,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/01/28/3-1.png"
-  slug: ''
-  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -61,6 +56,11 @@ page_sections:
     to design a board game from drafts, including concept &amp; background design,
     art &amp; graphic design, especially how to keep the game balanced and make it
     fun.
+- template: 1-column-text
+  block: one-column-1
+  headline: 1 - Introduction & Inspirations
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
