@@ -35,7 +35,7 @@ page_sections:
   content: "<strong>Problem Statement<br><br></strong>Starting with educational products,
     I noticed a great gender bias in terms of career choices during our team discussion
     on gender equality. Aiming to tackle this issue in an entertaining way.<br><br><strong>My
-    Role<br></strong>Pain points spotting, Prototyping, Programming"
+    Role<br></strong>Pain points spotting, Prototyping, Programming<br><br><strong>Date<em><br></em></strong>9.2019~12.2019"
   image:
     image: "/uploads/2021/01/27/0-1.png"
     alt_text: ''
@@ -224,6 +224,18 @@ page_sections:
   image: "/uploads/2021/01/28/1-11.png"
   slug: ''
   caption: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/gender#" title="">Back to Top</a>
