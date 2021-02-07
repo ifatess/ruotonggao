@@ -170,11 +170,6 @@ page_sections:
   headline: demo
   slug: "#demo"
   content: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: GIF Preview
-  slug: ''
-  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/28/1-8.gif"
