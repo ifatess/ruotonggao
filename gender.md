@@ -59,11 +59,11 @@ page_sections:
     content: Tests, Feedbacks and Re-Design
 - template: 1-column-text
   block: one-column-1
-  headline: "#Explorations"
+  headline: 1 - Explorations
   slug: "#exp"
   content: 'In the early stages of the project, we pinpointed the #problems in K-12
-    education and proposed #solutions. Then we relied on #persona, #competitor analysis,
-    and #pain point finding to determine the product goals.'
+    education and proposed #solutions.<br>Then we relied on #persona, #competitor
+    analysis, and #pain point finding to determine the product goals.'
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/28/1-1.png"
@@ -88,13 +88,13 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 2 - Draft
-  slug: ''
+  slug: "#draft"
   content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
   headline: <em>Draft 1</em><br><span class="light">Gender &amp; Career Game Design</span>
-  slug: "#draft"
+  slug: ''
   content: "<strong>Target<br></strong>Eliminate gender bias in career choices, hoping
     that boys would be able to choose careers, such as nursing, without experiencing
     any form of external pressure, whereas girls would be able to take advantage of
