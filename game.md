@@ -117,9 +117,10 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Game Rules
+  headline: 2 - Game Rules
   slug: "#rule"
-  content: ''
+  content: I set the participants, game goal, and basic rules of this game.<br>After
+    reading this page, one can play this game without any hindrance.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/28/3-4.png"
