@@ -136,8 +136,8 @@ page_sections:
   headline: 3 - Prototype
   slug: ''
   content: 'Next, considering the playability and innovation, we decided on Draft
-    1 to refine for further design. I designed a #prototype with Rhino &amp; Keyshot,
-    and a user interface.'
+    1 to refine for further design.<br>I designed a #prototype with Rhino &amp; Keyshot,
+    and a #user interface.'
 - template: full-width-media-element
   block: media-1
   caption: Prototype
