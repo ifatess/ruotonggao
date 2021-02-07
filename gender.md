@@ -172,6 +172,14 @@ page_sections:
   headline: demo
   slug: ''
   content: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/01/28/1-8.gif"
+    caption: ''
+  image_2:
+    image: "/uploads/2021/01/28/1-9.gif"
+    caption: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/28/1-8.gif"
