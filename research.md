@@ -38,7 +38,7 @@ page_sections:
     In cooperation with the Fujitec Elevator Company, my group aimed to interview
     visually impaired people and to design easily identifiable elevator buttons for
     them.<br><br><strong>My Role<br></strong>Face-to-face Interview, Data Processing,
-    Video Editing<br><br><strong>Date<br></strong>9.2020~4.2021"
+    Video Editing<br><br><strong>Date<br></strong>5.2020~4.2021"
   cta:
     enabled: false
     url: ''
