@@ -36,7 +36,7 @@ page_sections:
     alt_text: ''
   content: "<strong>Inspiration<br></strong>Inspired by a DIY craft video on Youtube,
     I created a Wi-Fi communication 3D pinball game that was based on Arduino.<br><br><strong>My
-    Role<br></strong>Inspiration proposing, programming, UI designing<br><br><strong>Date<br></strong>5.2020~4.2021"
+    Role<br></strong>Inspiration proposing, programming, UI designing<br><br><strong>Date<br></strong>9.2019~12.2019"
   cta:
     enabled: false
     url: ''
@@ -153,6 +153,18 @@ page_sections:
   caption: Video
   slug: ''
   image: "/uploads/2020/12/21/pinball.mov"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/pinball#" title="">Back to Top</a>
