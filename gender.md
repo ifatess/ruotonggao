@@ -32,7 +32,7 @@ page_sections:
   block: hero-2
   background_image: ''
   headline: <span class="light">Gender &amp; Career Game Design</span><br>
-  content: "<strong>Problem Statement<br><br></strong>Starting with educational products,
+  content: "<strong>Problem Statement<br></strong>Starting with educational products,
     I noticed a great gender bias in terms of career choices during our team discussion
     on gender equality. Aiming to tackle this issue in an entertaining way.<br><br><strong>My
     Role<br></strong>Pain points spotting, Prototyping, Programming<br><br><strong>Date<em><br></em></strong>9.2019~12.2019"
