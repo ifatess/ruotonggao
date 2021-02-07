@@ -89,7 +89,9 @@ page_sections:
   block: one-column-1
   headline: 2 - Draft
   slug: "#draft"
-  content: ''
+  content: 'I designed two drafts focused on #Social Norms of Gender Roles &amp; #Break
+    Down Period Stigma, both of which are educational board games.<br>Below are brief
+    introductions and game roles of the two games.'
 - template: content-feature
   block: feature-1
   media_alignment: Right
