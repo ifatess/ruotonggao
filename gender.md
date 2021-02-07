@@ -172,14 +172,6 @@ page_sections:
   headline: demo
   slug: ''
   content: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/01/28/1-8.gif"
-    caption: ''
-  image_2:
-    image: "/uploads/2021/01/28/1-9.gif"
-    caption: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/28/1-8.gif"
@@ -235,9 +227,10 @@ page_sections:
       game."
 - template: 1-column-text
   block: one-column-1
-  headline: Improvements
+  headline: 6 - Improvements
   slug: "#impro"
-  content: ''
+  content: 'After conducting observation and in-depth further research, we redesigned
+    our game in three aspects: #storyline, #game goals, #interaction elements.'
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/28/1-11.png"
