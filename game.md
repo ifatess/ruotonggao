@@ -150,6 +150,13 @@ page_sections:
   content: <a href="/ruotonggao/uploads/Analysis.pdf" title="analysis">Show pdf</a>
   headline: 'An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
   slug: "#analy"
+- template: navigation-header-w-button
+  block: header-2
+  logo: ''
+  navigation: []
+  cta:
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/game#" title="">Back to Top</a>
