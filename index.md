@@ -32,9 +32,10 @@ page_sections:
   block: hero-2
   slug: features
   headline: About me?<br><strong>Gao Ruotong</strong>
-  content: Double major in Computer Science and Industrial Design<br>Shanghai Jiao
-    Tong University<em><br><br></em>I believe in the power of technology. I cherish
-    my empathy. <br><strong>Gamify the products, and the world is my oyster.</strong>
+  content: I'm a senior student in Shanghai Jiao Tong University, double major in
+    Computer Science and Industrial Design.<br>My design experience lies in Game Design
+    and UI/UX research.<em><br></em><br>#Gamify the products, and the world is my
+    oyster.
   cta:
     enabled: true
     url: /ruotonggao/uploads/GaoRuotong-CV.pdf" download="GaoRuotong-CV.pdf
