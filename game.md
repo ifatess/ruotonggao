@@ -39,7 +39,7 @@ page_sections:
     Philip K. Dick's novel <em>Do Androids Dream of Electric Sheep?</em> and the 1982
     movie <em>Blade Runner</em>. After my internship in EA China Studio, I was determined
     to further my study in game design and tried to focus on gameplay in this project.<br><br><strong>Individual
-    Work</strong>"
+    Work<br><br>Date<br></strong>10.2020~1.2021"
   cta:
     enabled: false
     url: ''
