@@ -185,13 +185,13 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 5 - Feedback
-  slug: ''
+  slug: "#feed"
   content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
   headline: Observations &amp; Feedback
-  slug: "#feed"
+  slug: ''
   content: We invited 20 children that were aged 6 to 12 to try our prototype and
     provide feedback.<br><br>During our experiment, we observed that some children
     demonstrated a sustained interest throughout the entire time, whereas some kids,
