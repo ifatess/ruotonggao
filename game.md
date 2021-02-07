@@ -44,6 +44,11 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/01/28/3-1.png"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
