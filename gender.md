@@ -162,13 +162,13 @@ page_sections:
   slug: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Demo
-  slug: ''
+  headline: 4 - Demo
+  slug: "#demo"
   content: ''
 - template: 1-column-text
   block: one-column-1
   headline: demo
-  slug: "#demo"
+  slug: ''
   content: ''
 - template: full-width-media-element
   block: media-1
