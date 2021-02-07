@@ -182,6 +182,11 @@ page_sections:
   image: "/uploads/2021/01/28/1-9.gif"
   slug: ''
   caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: 5 - Feedback
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
