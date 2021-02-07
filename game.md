@@ -128,9 +128,9 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Elements
+  headline: 3 - Elements
   slug: "#ele"
-  content: ''
+  content: 'The basic physical elements of this game include #items, #map, and #gameboard.'
 - template: 2-column-media-element
   block: media-2
   image_1:
