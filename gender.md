@@ -85,6 +85,11 @@ page_sections:
   slug: ''
   image: "/uploads/2021/01/28/1-2.png"
   caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: "#Draft"
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
