@@ -87,7 +87,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: "#Draft"
+  headline: 2 - Draft
   slug: ''
   content: ''
 - template: content-feature
