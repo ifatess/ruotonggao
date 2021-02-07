@@ -236,18 +236,6 @@ page_sections:
   image: "/uploads/2021/01/28/1-11.png"
   slug: ''
   caption: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: Reflection
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/gender#" title="">Back to Top</a>

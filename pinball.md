@@ -153,18 +153,6 @@ page_sections:
   caption: Video
   slug: ''
   image: "/uploads/2020/12/21/pinball.mov"
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/pinball#" title="">Back to Top</a>
