@@ -170,8 +170,10 @@ page_sections:
     caption: ''
 - template: 1-column-text
   block: one-column-1
-  content: <a href="/ruotonggao/uploads/Analysis.pdf" title="analysis">Show pdf</a>
-  headline: 'An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
+  content: This is an extra part of my project. You can check this file to see an
+    emotion analysis on a certain game.<br><a href="/ruotonggao/uploads/Analysis.pdf"
+    title="analysis">Show pdf</a>
+  headline: '5 - An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
   slug: "#analy"
 - template: hero-banner-w-image
   block: hero-2
