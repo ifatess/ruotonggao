@@ -76,7 +76,8 @@ page_sections:
   block: one-column-1
   headline: 1 - Introduction & Inspirations
   slug: ''
-  content: ''
+  content: After getting inspiration from novels and movies, I created the game "Do
+    Androids Dream of Electric Sheep?" according to my own understanding.
 - template: content-feature
   block: feature-1
   media_alignment: Right
