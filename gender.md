@@ -59,9 +59,11 @@ page_sections:
     content: Tests, Feedbacks and Re-Design
 - template: 1-column-text
   block: one-column-1
-  headline: Explorations
+  headline: "#Explorations"
   slug: "#exp"
-  content: ''
+  content: 'In the early stages of the project, we pinpointed the #problems in K-12
+    education and proposed #solutions. Then we relied on #persona, #competitor analysis,
+    and #pain point finding to determine the product goals.'
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/28/1-1.png"
