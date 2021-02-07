@@ -194,7 +194,10 @@ page_sections:
   block: one-column-1
   headline: 5 - Feedback
   slug: "#feed"
-  content: ''
+  content: We held a game trial after completing the first version of our game. We
+    invited 20 children that were aged 6 to 12 to try our prototype and express their
+    feelings afterward.<br>Then, we analyzed feedbacks through the Say/Do/Feel/Think
+    model.
 - template: content-feature
   block: feature-1
   media_alignment: Right
