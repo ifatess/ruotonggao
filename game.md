@@ -175,18 +175,6 @@ page_sections:
     title="analysis">Show pdf</a>
   headline: '5 - An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
   slug: "#analy"
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/game#" title="">Back to Top</a>
