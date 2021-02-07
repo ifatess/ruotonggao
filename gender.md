@@ -164,7 +164,9 @@ page_sections:
   block: one-column-1
   headline: 4 - Demo
   slug: "#demo"
-  content: ''
+  content: 'I programmed a #demo for the coming game trial, and all of the team members
+    made suggestions to the game''s content.<br>Here is also a #gif preview of this
+    game.'
 - template: 1-column-text
   block: one-column-1
   headline: demo
