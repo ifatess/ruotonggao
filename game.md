@@ -149,9 +149,9 @@ page_sections:
     caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Details
+  headline: 4 - Details
   slug: ''
-  content: ''
+  content: Here are some photographs of this game.
 - template: 2-column-media-element
   block: media-2
   image_1:
