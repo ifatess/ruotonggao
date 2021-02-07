@@ -33,12 +33,12 @@ page_sections:
   image:
     image: "/uploads/2021/01/27/0-4.png"
     alt_text: ''
-  content: "<strong>Problem Statement<br><br></strong>Given the neglect of people
-    with disabilities, I wanted to improve the user experience of accessible facilities.
+  content: "<strong>Problem Statement<br></strong>Given the neglect of people with
+    disabilities, I wanted to improve the user experience of accessible facilities.
     In cooperation with the Fujitec Elevator Company, my group aimed to interview
     visually impaired people and to design easily identifiable elevator buttons for
-    them.<br><br><strong>My Role<br><br></strong>Face-to-face Interview, Data Processing,
-    Video Editing"
+    them.<br><br><strong>My Role<br></strong>Face-to-face Interview, Data Processing,
+    Video Editing<br><br><strong>Date<br></strong>9.2020~4.2021"
   cta:
     enabled: false
     url: ''
