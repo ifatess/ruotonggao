@@ -74,7 +74,7 @@ page_sections:
   image: "/uploads/2020/12/23/p-s.png"
 - template: 1-column-text
   block: one-column-1
-  headline: Features
+  headline: 2 - Background
   slug: ''
   content: ''
 - template: content-feature
