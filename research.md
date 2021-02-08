@@ -105,6 +105,11 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/29/4-3.png"
     caption: Analysis of Somatosensory Interaction for the Visually Impaired
+- template: 1-column-text
+  block: one-column-1
+  headline: 3 - Methodology
+  slug: "#method"
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -116,7 +121,7 @@ page_sections:
     Shandong University of Architecture, 2020.<br>3. Summary of the 2017 UNESCO Project
     (Special Survey on the Status and Needs of Information Accessibility Services
     for Visually Impaired Groups)[R]. China Association for the Blind,2019."
-  slug: "#method"
+  slug: ''
   media:
     image: "/uploads/2021/01/29/4-4.png"
     alt_text: ''
@@ -125,11 +130,6 @@ page_sections:
   caption: Questionnaire & Experiment
   slug: ''
   image: "/uploads/2021/01/29/4-5.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: Problems & Solutions
-  slug: ''
-  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/29/4-6-1.png"
