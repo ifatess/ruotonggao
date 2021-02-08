@@ -75,8 +75,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 2 - Background
-  slug: ''
-  content: ''
+  slug: "#back"
+  content: Before the experiment, we collected and compiled relevant literature to
+    gain some understanding of the current state of interaction for the visually impaired.<br>Based
+    on the elevator usage rate and satisfaction of the blind, we collaborated with
+    Fujitec Elevator Company to design elevator buttons in accordance with their cognitive
+    habits by means of usability experiments.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -89,7 +93,7 @@ page_sections:
     essential tool in the lives of millions of households.<br><br>However, people
     with impaired vision cannot accurately judge the elevator buttons when using elevators,
     which is a major pain point in the design of elevator operation panels.
-  slug: "#back"
+  slug: ''
   media:
     image: "/uploads/2021/01/29/4-1.png"
     alt_text: ''
@@ -131,6 +135,11 @@ page_sections:
   image: "/uploads/2021/01/29/4-6-1.png"
   slug: ''
   caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
