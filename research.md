@@ -76,11 +76,11 @@ page_sections:
   block: one-column-1
   headline: 2 - Background
   slug: "#back"
-  content: Before the experiment, we collected and compiled relevant literature to
-    gain some understanding of the current state of interaction for the visually impaired.<br>Based
-    on the elevator usage rate and satisfaction of the blind, we collaborated with
-    Fujitec Elevator Company to design elevator buttons in accordance with their cognitive
-    habits by means of usability experiments.
+  content: 'Based on the elevator usage rate and satisfaction of the blind, we collaborated
+    with Fujitec Elevator Company to design elevator buttons in accordance with their
+    cognitive habits by means of usability experiments.<br>Before the experiment,
+    we collected and compiled relevant literature to gain some understanding of the
+    interactive #features of the visually impaired.'
 - template: content-feature
   block: feature-1
   media_alignment: Left
