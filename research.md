@@ -61,14 +61,22 @@ page_sections:
       get usability assessment.
 - template: 1-column-text
   block: one-column-1
-  headline: Documentary
+  headline: 1 - Documentary
   slug: "#doc"
-  content: ''
+  content: 'Using the footage shot during the interview, I edited a short documentary
+    using Zhu Xiusong as an example.<br>In this short film, you can see: experiment
+    preparation, interviewee''s living environment, life interview, experiment process,
+    etc.'
 - template: full-width-media-element
   block: media-1
   caption: Youtube
   slug: ''
   image: "/uploads/2020/12/23/p-s.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Features
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -85,11 +93,6 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/4-1.png"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Features
-  slug: ''
-  content: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -150,16 +153,6 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/4-9.png"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Results
-  slug: "#results"
-  content: ''
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: "/uploads/2021/01/28/2-1.png"
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/research#" title="">Back to Top</a>
