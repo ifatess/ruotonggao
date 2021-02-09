@@ -10,8 +10,8 @@ page_sections:
     url: 'mailto: gaoruotong@sjtu.edu.cn'
   logo: "/uploads/2021/01/27/hear.png"
   navigation:
-  - link: "#"
-    link_text: About
+  - link: "#work"
+    link_text: Work
   - link: about
     link_text: About
 - template: navigation-header
