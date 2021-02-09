@@ -200,6 +200,14 @@ page_sections:
   caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
     established by me'
   slug: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Reflection
+  content: "<strong>Design proper game components and elements.</strong><br>I found
+    that creative device components like sensors and display screens can greatly increase
+    the fun of a game, even change the game goal, which interested me to study how
+    different interactive devices work and interact in games."
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/pinball#" title="">Back to Top</a>
