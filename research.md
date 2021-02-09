@@ -174,7 +174,7 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/02/09/4-10.png"
+  image: "/uploads/2021/02/09/4-10.svg"
   slug: ''
   caption: ''
 - template: simple-footer
