@@ -171,6 +171,11 @@ page_sections:
     image: "/uploads/2021/01/29/4-9.png"
     alt_text: ''
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/02/09/4-10.png"
+  slug: ''
+  caption: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/research#" title="">Back to Top</a>
