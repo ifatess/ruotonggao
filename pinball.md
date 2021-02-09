@@ -137,7 +137,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Gameplay
-  slug: "#gameplay"
+  slug: ''
   content: Due to the non-instantaneous nature of wifi transmission, it is difficult
     to record the status of the small ball as it is launched and dropped. Therefore,
     I have taken the approach of manually setting the game start and end.<br><br>While
@@ -158,7 +158,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: 'Interactive App: Controller'
-  slug: "#app"
+  slug: ''
   content: The app is written in Java in Android Studio. After installation, the controller
     can be connected to the server through Wi-Fi.<br><br>It's a one-page controller,
     containing four interactive buttons, a scoring section, a notification bar, and
