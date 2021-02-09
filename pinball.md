@@ -173,17 +173,12 @@ page_sections:
   content: You can <a href="/ruotonggao/uploads/app-debug.apk" title="app">click here
     to download the app</a>.<br>This section includes pictures and a video of the
     finished game product.
-  slug: "#finish"
+  slug: "#prev"
 - template: full-width-media-element
   block: media-1
   slug: ''
   image: "/uploads/2021/01/29/5-8.png"
   caption: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Check How it Works!
-  slug: "#prev"
-  content: ''
 - template: full-width-media-element
   block: media-1
   caption: Video
