@@ -21,7 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: About me?<br><strong>Gao Ruotong</strong>
+  headline: I'm<br><strong>Gao Ruotong</strong>
   content: I'm a senior student in Shanghai Jiao Tong University, double major in
     Computer Science and Industrial Design.<br>My design experience lies in Game Design
     and UI/UX research.<em><br></em><br><em>#Gamify the products, and the world is
