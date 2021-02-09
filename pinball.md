@@ -34,8 +34,10 @@ page_sections:
   image:
     image: "/uploads/2021/01/27/0-5.png"
     alt_text: ''
-  content: "<strong>Problem Statement<br></strong><br><br><strong>My Role<br></strong>Inspiration
-    proposing, programming, UI designing<br><br><strong>Date<br></strong>9.2019~12.2019"
+  content: "<strong>Inspiration<br></strong>Compared to traditional on-screen 3D pinball
+    games, the physical installation of 3D pinball was intended to get players more
+    engaged and create opportunities for interpersonal connection.<br><br><strong>My
+    Role<br></strong>Inspiration proposing, programming, UI designing<br><br><strong>Date<br></strong>9.2019~12.2019"
   cta:
     enabled: false
     url: ''
@@ -68,12 +70,6 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/5-1.png"
     alt_text: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/01/29/5-2.png"
-  caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
-    established by me'
-  slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: Arduino Board
@@ -152,6 +148,12 @@ page_sections:
   caption: Video
   slug: ''
   image: "/uploads/2020/12/21/pinball.mov"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/01/29/5-2.png"
+  caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
+    established by me'
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/pinball#" title="">Back to Top</a>
