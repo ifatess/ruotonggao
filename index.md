@@ -12,18 +12,8 @@ page_sections:
   navigation:
   - link: "#"
     link_text: About
-  - link: "#sexedu"
-    link_text: Sex Edu
-  - link: "#2048"
-    link_text: "2048"
-  - link: "#game"
-    link_text: Game
-  - link: "#theblind"
-    link_text: Research
-  - link: "#pinball"
-    link_text: Pinball
-  - link: "#photography"
-    link_text: Photography
+  - link: about
+    link_text: About
 - template: navigation-header
   block: header-1
   logo: ''
