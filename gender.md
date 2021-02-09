@@ -236,10 +236,10 @@ page_sections:
   image: "/uploads/2021/01/28/1-11.png"
   slug: ''
   caption: ''
-- template: hero-banner-w-image
-  block: hero-2
+- template: 1-column-text
+  block: one-column-1
   headline: Key Takeaways
-  content: <strong><span class="text-span-28">How to put myself in the researcher’s
+  content: '<strong><span class="text-span-28">How to put myself in the researcher’s
     shoes as a designer.</span></strong><br>This is my first time conducting user
     research &amp; testing, and then turning the insights into design solutions. It
     brought me a deeper appreciation of how researchers dig into people’s needs, and
@@ -247,15 +247,8 @@ page_sections:
     in educational products.</strong><br>This project has deepened my interest in
     how to provide engaging gaming experience by conducting prototype tests and gathering
     feedback, and also served to raise my interest with respect to how games exert
-    a profound impact on people.
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    a profound impact on people.  '
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/gender#" title="">Back to Top</a>
