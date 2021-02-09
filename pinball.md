@@ -61,6 +61,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Background
+  content: "<strong>Heads-Up vs. Heads-Down</strong><br>I created a Wi-Fi communication
+    3D pinball game built on Arduino, turning the animation effects of the video game
+    into real movements and crashes."
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: Design the playfield with paper
   content: Borrowing from traditional 3D pinball games, we designed the prototype
     of our game on paper at first. In addition to the bounce zone, I added a special
