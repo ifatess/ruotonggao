@@ -38,9 +38,8 @@ page_sections:
   block: one-column-1
   headline: Selected Projects
   slug: ''
-  content: 'My design and coding experience mainly focuses on: Game Design, UX/UI
-    Design, UX Research &amp; Analysis, etc. These are typical projects with different
-    concentrations. '
+  content: 'My experience mainly focuses on: Game Design, UX/UI Design, UX Research
+    &amp; Analysis, etc. These are typical projects with different concentrations. '
 - template: content-feature
   block: feature-1
   media_alignment: Right
