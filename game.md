@@ -74,7 +74,7 @@ page_sections:
     fun.
 - template: 1-column-text
   block: one-column-1
-  headline: 1 - Introduction & Inspirations
+  headline: Introduction & Inspirations
   slug: ''
   content: After getting inspiration from novels and movies, I created the game "Do
     Androids Dream of Electric Sheep?" according to my own understanding.
@@ -117,7 +117,7 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 2 - Game Rules
+  headline: Game Rules
   slug: "#rule"
   content: I set the participants, game goal, and basic rules of this game.<br>After
     reading this page, one can play this game without any hindrance.
@@ -128,7 +128,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 3 - Elements
+  headline: Elements
   slug: "#ele"
   content: 'The basic physical elements of this game include #items, #map, and #gameboard.'
 - template: 2-column-media-element
@@ -149,7 +149,7 @@ page_sections:
     caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 4 - Details
+  headline: Details
   slug: ''
   content: Here are some photographs of this game.
 - template: 2-column-media-element
@@ -173,17 +173,25 @@ page_sections:
   content: This is an extra part of my project. You can check this file to see an
     emotion analysis on a certain game.<br><a href="/ruotonggao/uploads/Analysis.pdf"
     title="analysis">Show pdf</a>
-  headline: '5 - An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
+  headline: 'An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
   slug: "#analy"
-- template: 1-column-text
-  block: one-column-1
+- template: hero-banner-w-image
+  block: hero-2
   headline: Reflection
-  content: "<strong>How to create an engaging game interaction experience.<br></strong>This
+  content: "<br><strong>How to create an engaging game interaction experience.<br></strong>This
     is the first game design I have done independently. From a gamer with extensive
     knowledge of games to a game designer, I need to consider not only the original
     intention of the design, but also its playability and more systematic design concepts.<br>This
-    made me want to seek deeper development in the field of game design and experience."
-  slug: ''
+    made me want to seek deeper development in the field of game design and experience.
+    \ "
+  image:
+    image: "/uploads/2021/02/09/end-1.png"
+    alt_text: ''
+  background_image: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/game#" title="">Back to Top</a>
