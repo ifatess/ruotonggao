@@ -61,7 +61,7 @@ page_sections:
       get usability assessment.
 - template: 1-column-text
   block: one-column-1
-  headline: 1 - Documentary
+  headline: Documentary
   slug: "#doc"
   content: 'Using the footage shot during the interview, I edited a short documentary
     using Zhu Xiusong as an example.<br>In this short film, you can see: experiment
@@ -74,7 +74,7 @@ page_sections:
   image: "/uploads/2020/12/23/p-s.png"
 - template: 1-column-text
   block: one-column-1
-  headline: 2 - Background
+  headline: Background
   slug: "#back"
   content: 'Based on the elevator usage rate and satisfaction of the blind, we collaborated
     with Fujitec Elevator Company to design elevator buttons in accordance with their
@@ -107,7 +107,7 @@ page_sections:
     caption: Analysis of Somatosensory Interaction for the Visually Impaired
 - template: 1-column-text
   block: one-column-1
-  headline: 3 - Methodology
+  headline: Methodology
   slug: "#method"
   content: 'We designed the #research methodology according to literature and research
     experience.<br>Also, we identified and solved #problems to improve the accuracy
@@ -139,7 +139,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 4 - Photography
+  headline: Photography
   slug: "#photo"
   content: During the interviews, we conducted experiments and donation activities.<br>We
     talked with visually impaired people and their families to understand their living
@@ -155,7 +155,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: "#data"
-  headline: 5 - Data Analysis
+  headline: Data Analysis
   content: Once all the research was done, I dig in to find patterns and frequency
     across all the data gathered.
 - template: content-feature
@@ -177,10 +177,9 @@ page_sections:
   image: "/uploads/2021/02/09/4-10.svg"
   slug: ''
   caption: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Key Takeaways
-  content: "<strong>Master communication skills and use empathy to focus on vulnerable
+- template: hero-banner-w-image
+  block: hero-2
+  content: "<br><strong>Master communication skills and use empathy to focus on vulnerable
     groups.<br></strong>The highlight of this project was that our research group
     needed to go into the participants' homes to conduct the experiment. There were
     many details that needed to be understood, and I was able to exercise my communication
@@ -188,8 +187,16 @@ page_sections:
     we performed user interviews, field observations, and usability tests, we gathered
     tons of notes and data to help inform design decisions and recommendations. I
     need to make sense of so much qualitative data and learned how to properly analyze
-    UX research helps turn raw data into insights and action."
-  slug: ''
+    UX research helps turn raw data into insights and action.  "
+  headline: Key Takeaways
+  background_image: ''
+  image:
+    image: "/uploads/2021/02/09/end-1.png"
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/research#" title="">Back to Top</a>
