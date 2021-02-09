@@ -62,9 +62,13 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Background
-  content: "<strong>Heads-Up vs. Heads-Down</strong><br>I created a Wi-Fi communication
-    3D pinball game built on Arduino, turning the animation effects of the video game
-    into real movements and crashes."
+  content: "<strong>Heads-Up vs. Heads-Down</strong><br>With the development of technology,
+    interactive applications, especially games, are gradually shifting to the mode
+    of screen interaction. The resulting app addiction can affect our social life
+    and hinder people's interpersonal interaction.<br>In addition, as 3D pinball game
+    was born on the computer, all the basic interactions are done through keyboard
+    and screen. I want to explore the possibility of physical interaction experience
+    in this project."
   slug: ''
   media:
     image: ''
