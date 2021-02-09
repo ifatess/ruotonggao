@@ -112,6 +112,13 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/29/5-4.png"
     caption: connecting the different parts by wires
+- template: 1-column-text
+  block: one-column-1
+  headline: 4 - Scoring
+  slug: "#score"
+  content: I set a light sensor in the original unit to implement an extra automatic
+    scoring function. My classmates tried out the game and commented that the innovative
+    extra function offered them a sense of competition.
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -128,24 +135,6 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: 'Interactive App: Controller'
-  slug: "#app"
-  content: The app is written in Java in Android Studio. After installation, the controller
-    can be connected to the server through Wi-Fi.<br><br>It's a one-page controller,
-    containing four interactive buttons, a scoring section, a notification bar, and
-    connection settings. My classmates understood how to use it at a glance and didn't
-    face any problems while interacting with this concise interface.
-  media:
-    image: "/uploads/2021/01/29/5-7.png"
-    alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  slug: ''
-  content: ''
-- template: content-feature
-  block: feature-1
   media_alignment: Left
   headline: Gameplay
   slug: "#gameplay"
@@ -157,6 +146,24 @@ page_sections:
     2. try to get bonuses).
   media:
     image: "/uploads/2021/01/29/5-3.png"
+    alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: 'Interactive App: Controller'
+  slug: "#app"
+  content: The app is written in Java in Android Studio. After installation, the controller
+    can be connected to the server through Wi-Fi.<br><br>It's a one-page controller,
+    containing four interactive buttons, a scoring section, a notification bar, and
+    connection settings. My classmates understood how to use it at a glance and didn't
+    face any problems while interacting with this concise interface.
+  media:
+    image: "/uploads/2021/01/29/5-7.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
