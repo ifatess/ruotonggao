@@ -156,7 +156,8 @@ page_sections:
   block: one-column-1
   slug: "#data"
   headline: 5 - Data Analysis
-  content: ''
+  content: Once all the research was done, I dig in to find patterns and frequency
+    across all the data gathered.
 - template: content-feature
   block: feature-1
   media_alignment: Left
