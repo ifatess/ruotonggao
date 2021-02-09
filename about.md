@@ -18,6 +18,18 @@ page_sections:
   block: header-1
   logo: ''
   navigation: []
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ by Gao Ruotong
 menu:
   main:
     weight: 8
