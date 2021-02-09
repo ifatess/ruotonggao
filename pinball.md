@@ -149,9 +149,11 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: ''
-  slug: ''
-  content: ''
+  headline: 5 - App Design
+  slug: "#app"
+  content: I was responsible for the design and programming of the app.<br>To facilitate
+    debugging, game interaction and communication feedback were integrated into the
+    same screen.
 - template: content-feature
   block: feature-1
   media_alignment: Right
