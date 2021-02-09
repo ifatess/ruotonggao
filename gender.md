@@ -59,7 +59,7 @@ page_sections:
     content: Tests, Feedbacks and Re-Design
 - template: 1-column-text
   block: one-column-1
-  headline: 1 - Explorations
+  headline: Explorations
   slug: "#exp"
   content: 'In the early stages of the project, we pinpointed the #problems in K-12
     education and proposed #solutions.<br>Then we relied on #persona, #competitor
