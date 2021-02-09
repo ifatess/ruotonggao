@@ -99,9 +99,11 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Arduino Board
+  headline: 3 - Arduino
   slug: "#board"
-  content: ''
+  content: The physical interaction and programming of the game are mainly done through
+    the Arduino board.<br>We put in two servos for basic game control and added a
+    light sensor at a later stage.
 - template: 2-column-media-element
   block: media-2
   image_1:
