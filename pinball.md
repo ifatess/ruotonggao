@@ -139,6 +139,11 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/5-7.png"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
