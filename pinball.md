@@ -60,7 +60,7 @@ page_sections:
       game.
 - template: 1-column-text
   block: one-column-1
-  headline: 1 - Background
+  headline: Background
   slug: "#back"
   content: 'I created a Wi-Fi communication 3D pinball game built on Arduino, turning
     the animation effects of the video game into real movements and crashes.  '
@@ -82,7 +82,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: "#play"
-  headline: 2 - Playfield
+  headline: Playfield
   content: My team worked together to create a playfield based on the structure of
     the 3D pinball video game.
 - template: content-feature
@@ -99,7 +99,7 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 3 - Arduino
+  headline: Arduino
   slug: "#board"
   content: The physical interaction and programming of the game are mainly done through
     the Arduino board.<br>We put in two servos for basic game control and added a
@@ -114,7 +114,7 @@ page_sections:
     caption: connecting the different parts by wires
 - template: 1-column-text
   block: one-column-1
-  headline: 4 - Scoring
+  headline: Scoring
   slug: "#score"
   content: In addition to the original unit, I set a light sensor to implement an
     extra automatic scoring function.<br>My classmates tried out the game and commented
@@ -149,7 +149,7 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 5 - App Design
+  headline: App Design
   slug: "#app"
   content: I was responsible for the design and programming of the app.<br>To facilitate
     debugging, game interaction and communication feedback were integrated into the
@@ -169,7 +169,7 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 6 - Preview
+  headline: Preview
   content: You can <a href="/ruotonggao/uploads/app-debug.apk" title="app">click here
     to download the app</a>.<br>This section includes pictures and a video of the
     finished game product.
@@ -184,6 +184,21 @@ page_sections:
   caption: Video
   slug: ''
   image: "/uploads/2020/12/21/pinball.mov"
+- template: hero-banner-w-image
+  block: hero-2
+  content: "<strong><br>Design proper game components and elements.</strong><br>I
+    found that creative device components like sensors and display screens can greatly
+    increase the fun of a game, even change the game goal, which interested me to
+    study how different interactive devices work and interact in games.  "
+  headline: Reflection
+  image:
+    image: "/uploads/2021/02/09/end-1.png"
+    alt_text: ''
+  background_image: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -199,14 +214,6 @@ page_sections:
   image: "/uploads/2021/01/29/5-2.png"
   caption: 'Wi-Fi Connection: server, client and Arduino board are connected by Wi-Fi
     established by me'
-  slug: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Reflection
-  content: "<strong>Design proper game components and elements.</strong><br>I found
-    that creative device components like sensors and display screens can greatly increase
-    the fun of a game, even change the game goal, which interested me to study how
-    different interactive devices work and interact in games."
   slug: ''
 - template: simple-footer
   block: footer-1
