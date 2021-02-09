@@ -192,7 +192,8 @@ page_sections:
     image: "/uploads/2021/01/29/5-5.png"
     alt_text: ''
   slug: ''
-  content: ''
+  content: This section includes:<br>1. The main scoring code and logic;<br>2. Code
+    sample for communication among Arduino board, Server, Client using Wi-Fi.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/29/5-2.png"
