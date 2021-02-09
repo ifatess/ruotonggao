@@ -175,6 +175,15 @@ page_sections:
     title="analysis">Show pdf</a>
   headline: '5 - An Emotion Analysis on VA-11 HALL-A: Cyberpunk Bartender Action'
   slug: "#analy"
+- template: 1-column-text
+  block: one-column-1
+  headline: Reflection
+  content: "<strong>How to create an engaging game interaction experience.<br></strong>This
+    is the first game design I have done independently. From a gamer with extensive
+    knowledge of games to a game designer, I need to consider not only the original
+    intention of the design, but also its playability and more systematic design concepts.<br>This
+    made me want to seek deeper development in the field of game design and experience."
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/game#" title="">Back to Top</a>
