@@ -16,10 +16,10 @@ page_sections:
     link_text: Background
   - link: research#method
     link_text: Methodology
+  - link: research#photo
+    link_text: Photography
   - link_text: Data Analysis
     link: research#data
-  - link: research#results
-    link_text: Results
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/01/27/bhome.png"
@@ -140,7 +140,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 4 - Photography
-  slug: ''
+  slug: "#photo"
   content: During the interviews, we conducted experiments and donation activities.<br>We
     talked with visually impaired people and their families to understand their living
     conditions and call for the community's attention to them.
