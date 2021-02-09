@@ -152,11 +152,15 @@ page_sections:
   image_2:
     image: "/uploads/2021/01/29/4-8.png"
     caption: A family photo with participant's family and our group.
+- template: 1-column-text
+  block: one-column-1
+  slug: "#data"
+  headline: 5 - Data Analysis
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
   headline: Data Analysis
-  slug: "#data"
   content: Evaluation:<br><br><strong>1. Correctness 2. Time-consuming 3. Finger used<br>4.
     Press or not when touching</strong><br><strong>5. Recognition</strong><br>0-difficult
     to recognize 1-a little difficult 2-not too easy 3-okay 4-very easy<br><strong>6.
@@ -166,6 +170,7 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/4-9.png"
     alt_text: ''
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/research#" title="">Back to Top</a>
