@@ -58,6 +58,12 @@ page_sections:
     slug: ''
     content: Program the electronics block. Design an interactive app to control the
       game.
+- template: 1-column-text
+  block: one-column-1
+  headline: Background
+  slug: "#back"
+  content: 'I created a Wi-Fi communication 3D pinball game built on Arduino, turning
+    the animation effects of the video game into real movements and crashes.  '
 - template: content-feature
   block: feature-1
   media_alignment: Right
