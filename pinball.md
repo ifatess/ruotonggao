@@ -97,14 +97,6 @@ page_sections:
     image: "/uploads/2021/01/29/5-6.gif"
     alt_text: ''
   slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/01/29/5-5.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2021/01/29/5-6.gif"
-    caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -153,6 +145,15 @@ page_sections:
   caption: Video
   slug: ''
   image: "/uploads/2020/12/21/pinball.mov"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Appendix
+  media:
+    image: "/uploads/2021/01/29/5-5.png"
+    alt_text: ''
+  slug: ''
+  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/01/29/5-2.png"
