@@ -169,9 +169,10 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Finished Product
-  content: <a href="/ruotonggao/uploads/app-debug.apk" title="app">Click here to download
-    the app</a>
+  headline: 6 - Preview
+  content: You can <a href="/ruotonggao/uploads/app-debug.apk" title="app">click here
+    to download the app</a>.<br>This section includes pictures and a video of the
+    finished game product.
   slug: "#finish"
 - template: full-width-media-element
   block: media-1
