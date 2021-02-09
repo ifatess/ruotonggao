@@ -34,6 +34,11 @@ page_sections:
     image: "/uploads/2021/01/27/homepage.png"
     alt_text: Product Shot
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Selected Projects
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -92,6 +97,11 @@ page_sections:
   media:
     image: "/uploads/2021/01/27/0-5.png"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Side Projects
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
