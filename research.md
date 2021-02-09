@@ -139,9 +139,11 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: ''
+  headline: 4 - Photography
   slug: ''
-  content: ''
+  content: During the interviews, we conducted experiments and donation activities.<br>We
+    talked with visually impaired people and their families to understand their living
+    conditions and call for the community's attention to them.
 - template: 2-column-media-element
   block: media-2
   image_1:
