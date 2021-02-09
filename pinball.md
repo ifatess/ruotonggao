@@ -77,7 +77,7 @@ page_sections:
     in this project."
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2021/02/09/5-10.png"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
