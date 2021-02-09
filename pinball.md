@@ -10,16 +10,16 @@ page_sections:
     url: "/ruotonggao/photography"
     button_text: Next Project
   navigation:
+  - link: pinball#back
+    link_text: Background
   - link_text: Playfield
     link: pinball#play
   - link: pinball#board
     link_text: Arduino
+  - link: pinball#score
+    link_text: Scoring
   - link: pinball#app
     link_text: App
-  - link: pinball#finish
-    link_text: Finished Product
-  - link: pinball#gameplay
-    link_text: Gameplay
   - link: pinball#prev
     link_text: Preview
 - template: navigation-header
