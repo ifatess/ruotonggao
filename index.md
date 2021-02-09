@@ -102,7 +102,8 @@ page_sections:
   block: one-column-1
   headline: Side Projects
   slug: ''
-  content: 'I am passionate about photography, '
+  content: I am passionate about photography, new-wave movies, and everything that
+    influences people's worldview.
 - template: content-feature
   block: feature-1
   media_alignment: Left
