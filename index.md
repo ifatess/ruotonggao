@@ -39,7 +39,7 @@ page_sections:
   headline: Selected Projects
   slug: ''
   content: 'My design and coding experience mainly focuses on: Game Design, UX/UI
-    Design, UX Research &amp; Analysis, etc.'
+    Design, UX Research &amp; Analysis, etc. Check projects you are interested in.'
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -102,7 +102,7 @@ page_sections:
   block: one-column-1
   headline: Side Projects
   slug: ''
-  content: ''
+  content: 'I am passionate about photography, '
 - template: content-feature
   block: feature-1
   media_alignment: Left
