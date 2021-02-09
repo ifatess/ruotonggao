@@ -239,13 +239,15 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Key Takeaways
-  content: This is my first time conducting user research &amp; testing, and then
-    turning the insights into design solutions. It brought me a deeper appreciation
-    of how researchers dig into people’s needs, and how designers create better designs
-    to advocate for them.<br><br>This project has deepened my interest in how to provide
-    engaging gaming experience by conducting prototype tests and gathering feedback,
-    and also served to raise my interest with respect to how games exert a profound
-    impact on people.
+  content: <strong><span class="text-span-28">How to put myself in the researcher’s
+    shoes as a designer.</span></strong><br>This is my first time conducting user
+    research &amp; testing, and then turning the insights into design solutions. It
+    brought me a deeper appreciation of how researchers dig into people’s needs, and
+    how designers create better designs to advocate for them.<br><br><strong>Gamification
+    in educational products.</strong><br>This project has deepened my interest in
+    how to provide engaging gaming experience by conducting prototype tests and gathering
+    feedback, and also served to raise my interest with respect to how games exert
+    a profound impact on people.
   background_image: ''
   image:
     image: ''
