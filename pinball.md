@@ -60,7 +60,7 @@ page_sections:
       game.
 - template: 1-column-text
   block: one-column-1
-  headline: Background
+  headline: 1 - Background
   slug: "#back"
   content: 'I created a Wi-Fi communication 3D pinball game built on Arduino, turning
     the animation effects of the video game into real movements and crashes.  '
@@ -79,6 +79,12 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  slug: "#play"
+  headline: 2 - Playfield
+  content: My team worked together to create a playfield based on the structure of
+    the 3D pinball video game.
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -87,7 +93,7 @@ page_sections:
     of our game on paper at first. In addition to the bounce zone, I added a special
     bonus area to make the game more innovative and creative.<br><br>I used wooden
     boards, rubber bands, glue, etc. to make a model of a ladder-like slope structure.
-  slug: "#play"
+  slug: ''
   media:
     image: "/uploads/2021/01/29/5-1.png"
     alt_text: ''
