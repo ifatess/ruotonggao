@@ -103,11 +103,6 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: My Work
-  slug: "#mywork"
-  content: ''
-- template: 1-column-text
-  block: one-column-1
   headline: I. Where does home begin?
   content: "<em>&lt;Xi Cang Flower &amp; Bird Market&gt;</em>  "
   slug: ''
