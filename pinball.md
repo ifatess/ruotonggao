@@ -34,9 +34,8 @@ page_sections:
   image:
     image: "/uploads/2021/01/27/0-5.png"
     alt_text: ''
-  content: "<strong>Inspiration<br></strong>Inspired by a DIY craft video on Youtube,
-    I created a Wi-Fi communication 3D pinball game that was based on Arduino.<br><br><strong>My
-    Role<br></strong>Inspiration proposing, programming, UI designing<br><br><strong>Date<br></strong>9.2019~12.2019"
+  content: "<strong>Problem Statement<br></strong><br><br><strong>My Role<br></strong>Inspiration
+    proposing, programming, UI designing<br><br><strong>Date<br></strong>9.2019~12.2019"
   cta:
     enabled: false
     url: ''
@@ -118,17 +117,6 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/5-7.png"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Finished Product
-  content: <a href="/ruotonggao/uploads/app-debug.apk" title="app">Click here to download
-    the app</a>
-  slug: "#finish"
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: "/uploads/2021/01/29/5-8.png"
-  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -143,6 +131,17 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/5-3.png"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Finished Product
+  content: <a href="/ruotonggao/uploads/app-debug.apk" title="app">Click here to download
+    the app</a>
+  slug: "#finish"
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: "/uploads/2021/01/29/5-8.png"
+  caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: Check How it Works!
