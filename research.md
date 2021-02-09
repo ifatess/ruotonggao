@@ -177,6 +177,19 @@ page_sections:
   image: "/uploads/2021/02/09/4-10.svg"
   slug: ''
   caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Key Takeaways
+  content: "<strong>Master communication skills and use empathy to focus on vulnerable
+    groups.<br></strong>The highlight of this project was that our research group
+    needed to go into the participants' homes to conduct the experiment. There were
+    many details that needed to be understood, and I was able to exercise my communication
+    and empathy skills.<strong><br><br>How to carry out user research analysis.<br></strong>After
+    we performed user interviews, field observations, and usability tests, we gathered
+    tons of notes and data to help inform design decisions and recommendations. I
+    need to make sense of so much qualitative data and learned how to properly analyze
+    UX research helps turn raw data into insights and action."
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/research#" title="">Back to Top</a>
