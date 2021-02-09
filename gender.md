@@ -134,7 +134,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 3 - Prototype
-  slug: ''
+  slug: "#proto"
   content: 'Next, considering the playability and innovation, we decided on Draft
     1 to refine for further design.<br>I designed a #prototype with Rhino &amp; Keyshot,
     and a #user interface.'
@@ -142,7 +142,7 @@ page_sections:
   block: media-1
   caption: Prototype
   image: "/uploads/2021/01/28/1-5.png"
-  slug: "#proto"
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
