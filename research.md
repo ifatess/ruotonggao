@@ -109,7 +109,9 @@ page_sections:
   block: one-column-1
   headline: 3 - Methodology
   slug: "#method"
-  content: ''
+  content: 'We designed the #research methodology according to literature and research
+    experience.<br>Also, we identified and solved #problems to improve the accuracy
+    of evaluation during the experimental progress.'
 - template: content-feature
   block: feature-1
   media_alignment: Right
