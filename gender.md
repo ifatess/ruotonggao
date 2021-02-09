@@ -236,6 +236,24 @@ page_sections:
   image: "/uploads/2021/01/28/1-11.png"
   slug: ''
   caption: ''
+- template: hero-banner-w-image
+  block: hero-2
+  headline: Key Takeaways
+  content: This is my first time conducting user research &amp; testing, and then
+    turning the insights into design solutions. It brought me a deeper appreciation
+    of how researchers dig into people’s needs, and how designers create better designs
+    to advocate for them.<br><br>This project has deepened my interest in how to provide
+    engaging gaming experience by conducting prototype tests and gathering feedback,
+    and also served to raise my interest with respect to how games exert a profound
+    impact on people.
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="/ruotonggao/gender#" title="">Back to Top</a>
