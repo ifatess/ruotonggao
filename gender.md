@@ -249,9 +249,9 @@ page_sections:
     a profound impact on people.
   headline: Key Takeaways
   image:
-    image: ''
+    image: "/uploads/2021/02/09/end-1.png"
     alt_text: ''
-  background_image: "/uploads/2021/02/09/end-1.png"
+  background_image: ''
   cta:
     enabled: false
     url: ''
