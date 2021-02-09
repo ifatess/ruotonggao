@@ -87,7 +87,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 2 - Draft
+  headline: Draft
   slug: "#draft"
   content: 'I designed two drafts focused on #Social Norms of Gender Roles &amp; #Break
     Down Period Stigma, both of which are educational board games.<br>Below are brief
@@ -133,7 +133,7 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 3 - Prototype
+  headline: Prototype
   slug: "#proto"
   content: 'Next, considering the playability and innovation, we decided on Draft
     1 to refine for further design.<br>I designed a #prototype with Rhino &amp; Keyshot,
@@ -162,7 +162,7 @@ page_sections:
   slug: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 4 - Demo
+  headline: Demo
   slug: "#demo"
   content: 'I programmed a #demo for the coming game trial, and all of the team members
     made suggestions to the game''s content.<br>Here is also a #gif preview of this
@@ -184,7 +184,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  headline: 5 - Feedback
+  headline: Feedback
   slug: "#feed"
   content: We held a game trial after completing the first version of our game. We
     invited 20 children that were aged 6 to 12 to try our prototype and express their
@@ -227,7 +227,7 @@ page_sections:
       game."
 - template: 1-column-text
   block: one-column-1
-  headline: 6 - Improvements
+  headline: Improvements
   slug: "#impro"
   content: 'After conducting observation and in-depth further research, we redesigned
     our game in three aspects: #storyline, #game goals, #interaction elements.'
