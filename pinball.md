@@ -116,9 +116,9 @@ page_sections:
   block: one-column-1
   headline: 4 - Scoring
   slug: "#score"
-  content: I set a light sensor in the original unit to implement an extra automatic
-    scoring function. My classmates tried out the game and commented that the innovative
-    extra function offered them a sense of competition.
+  content: In addition to the original unit, I set a light sensor to implement an
+    extra automatic scoring function.<br>My classmates tried out the game and commented
+    that the innovative extra function offered them a sense of competition.
 - template: content-feature
   block: feature-1
   media_alignment: Right
