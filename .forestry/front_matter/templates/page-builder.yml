@@ -33,6 +33,7 @@ fields:
   - 4-column-footer
 pages:
 - 2048.md
+- about.md
 - game.md
 - gender.md
 - index.md
