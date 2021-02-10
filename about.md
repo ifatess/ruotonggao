@@ -33,7 +33,7 @@ page_sections:
     am passionate about Chinese traditional culture. My favorite motto in <em>Analects</em>
     is: <span style=\"text-decoration: underline;\">The</span><em><span style=\"text-decoration:
     underline;\"> junzi </span></em><span style=\"text-decoration: underline;\">is
-    not a vessel, The accomplished scholar is not a utensil.</span> I was prompted
+    not a vessel, The accomplished scholar is not a utensil.</span> I am prompted
     to become a well-rounded person with the hope of making the world around us a
     better place.<br><br>Interesting facts about me\U0001F447:<br>✨INFP-T\U0001F60A<br>✨childhood
     dream job: Santa Claus\U0001F385<br>✨moderator of a 16000+ people forum\U0001F440<br>✨cinephilia:
