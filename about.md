@@ -23,7 +23,15 @@ page_sections:
   media_alignment: Left
   headline: Hey there!
   slug: ''
-  content: ''
+  content: "I'm Tong, a senior student from China. I am an inspiring interactive entertainment
+    designer, keeping my eyes on emotion-provoking and accessibility in games.<br><br>I
+    currently major in Computer Science and Industrial Design at Shanghai Jiao Tong
+    University. Passionate about game design and gaming experience, I focus my attention
+    on engaging storytelling and smooth interaction while creating games. I care deeply
+    about K-12 education, accessibility design, and experimental game design.<br><br>Interesting
+    facts about me\U0001F447:<br>✨cinephilia: Japanese and Italian movie lover<br>✨currently
+    reading: <em>Hiroshima mon Amour</em><br>✨currently playing: <em>The Stanley Parable</em><br>✨INFP-T<br>✨childhood
+    dream job: Santa Claus"
   media:
     image: "/uploads/2021/02/10/about.jpg"
     alt_text: ''
