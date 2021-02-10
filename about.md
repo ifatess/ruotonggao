@@ -21,11 +21,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: ''
+  headline: Hey there!
   slug: ''
   content: ''
   media:
-    image: ''
+    image: "/uploads/2021/02/10/about.jpg"
     alt_text: ''
 - template: simple-footer
   block: footer-1
