@@ -28,10 +28,16 @@ page_sections:
     currently major in Computer Science and Industrial Design at Shanghai Jiao Tong
     University. Passionate about game design and gaming experience, I focus my attention
     on engaging storytelling and smooth interaction while creating games. I care deeply
-    about K-12 education, accessibility design, and experimental game design.<br><br>Interesting
-    facts about me\U0001F447:<br>✨cinephilia: Japanese and Italian movie lover<br>✨currently
-    reading: <em>Hiroshima mon Amour</em><br>✨currently playing: <em>The Stanley Parable</em><br>✨INFP-T<br>✨childhood
-    dream job: Santa Claus"
+    about K-12 education, accessibility design, and experimental game design.<br><br>Born
+    and raised in Xi'an, China, a cultural capital with 5,000 years of history, I
+    am passionate about Chinese traditional culture. My favorite motto in <em>Analects</em>
+    is: <span style=\"text-decoration: underline;\">The</span><em><span style=\"text-decoration:
+    underline;\"> junzi </span></em><span style=\"text-decoration: underline;\">is
+    not a vessel, The accomplished scholar is not a utensil.</span> I was prompted
+    to become a well-rounded person with the hope of making the world around us a
+    better place.<br><br>Interesting facts about me\U0001F447:<br>✨INFP-T<br>✨childhood
+    dream job: Santa Claus<br>✨moderator of 16000+ people forum<br>✨cinephilia: Japanese
+    and Italian movie lover<br>✨currently playing: <em>The Stanley Parable</em>"
   media:
     image: "/uploads/2021/02/10/about.jpg"
     alt_text: ''
