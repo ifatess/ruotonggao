@@ -36,9 +36,9 @@ page_sections:
     not a vessel, The accomplished scholar is not a utensil.</span> I was prompted
     to become a well-rounded person with the hope of making the world around us a
     better place.<br><br>Interesting facts about me\U0001F447:<br>✨INFP-T\U0001F60A<br>✨childhood
-    dream job: Santa Claus\U0001F385<br>✨moderator of 16000+ people forum\U0001F440<br>✨cinephilia:
+    dream job: Santa Claus\U0001F385<br>✨moderator of a 16000+ people forum\U0001F440<br>✨cinephilia:
     Japanese and Italian movie lover\U0001F3A6<br>✨currently playing: <em>The Stanley
-    Parable\U0001F3AE</em>"
+    Parable</em>\U0001F3AE"
   media:
     image: "/uploads/2021/02/10/about.jpg"
     alt_text: ''
